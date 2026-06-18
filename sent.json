@@ -1,0 +1,8 @@
+[
+  {"url": "https://android-developers.googleblog.com/2026/06/Android-17.html", "title": "Android 17 正式发布", "date": "2026-06-18"},
+  {"url": "https://developer.android.com/jetpack/androidx/releases/compose", "title": "Compose 1.11.3 稳定版随 AndroidX 发版潮上线", "date": "2026-06-18"},
+  {"url": "https://developer.android.com/jetpack/androidx/releases/lifecycle", "title": "Lifecycle 2.11.0：作用域 ViewModel + 全面 KMP 支持", "date": "2026-06-18"},
+  {"url": "https://developer.android.com/jetpack/androidx/releases/room", "title": "Room3 3.0.0-rc01 与 SQLite 2.7.0-rc01", "date": "2026-06-18"},
+  {"url": "https://blog.jetbrains.com/kotlin/2026/06/kotlin-2-4-0-released/", "title": "Kotlin 2.4.0 发布", "date": "2026-06-18"},
+  {"url": "https://kotlinlang.org/docs/multiplatform/whats-new-compose-111.html", "title": "Compose Multiplatform 1.11.1", "date": "2026-06-18"}
+]
