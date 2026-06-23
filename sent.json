@@ -108,5 +108,35 @@
     "url": "https://medium.com/gitconnected/preview-driven-screenshot-testing-for-locales-keys-and-font-scale-21a73fd95e03",
     "title": "Preview 驱动的截图测试：覆盖多语言、字号与文案 key",
     "date": "2026-06-22"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/06/android-developer-productivity-updates.html",
+    "title": "Android 开发者生产力三大更新：Android CLI 1.0 稳定版",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
+    "title": "ADK for Kotlin 与 ADK for Android 0.1.0 发布",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/06/android-xr-geospatial-api-gemini.html",
+    "title": "用 Android XR + Geospatial API + Gemini 打造混合现实导览",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/06/building-premium-android-experiences-google-io-26.html",
+    "title": "在 Google I/O '26 打造高品质 Android 体验",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/06/prioritizing-memory-efficiency-steps-for-android-17.html",
+    "title": "优先内存效率：面向 Android 17 的关键步骤",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://juejin.cn/post/7642562335307808774",
+    "title": "面向 Android 开发者的 Google I/O 2026 总结",
+    "date": "2026-06-23"
   }
 ]
