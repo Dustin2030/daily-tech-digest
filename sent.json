@@ -138,5 +138,45 @@
     "url": "https://juejin.cn/post/7642562335307808774",
     "title": "面向 Android 开发者的 Google I/O 2026 总结",
     "date": "2026-06-23"
+  },
+  {
+    "url": "https://www.kmpbits.com/posts/coil3-compose-multiplatform",
+    "title": "Coil 3 在 Compose Multiplatform 中的图片加载与缓存",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://proandroiddev.com/the-task-shapes-the-strategy-kotlin-select-expressions-in-practice-b98bc53b5f15",
+    "title": "Kotlin select 表达式实战",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://ivan.canet.dev/blog/2026/06/15/measure-time.html",
+    "title": "别再用时间戳相减来测量耗时（单调时钟）",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://blog.insert-koin.io/how-to-use-koin-compiler-in-a-multimodule-project-6bd8e57d5e4b",
+    "title": "在多模块项目中使用 Koin Compiler",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://doveletter.dev/articles/compose-nav-graph-plugin",
+    "title": "Compose Navigation Graph 可视化 AS 插件",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://www.revenuecat.com/blog/engineering/android-codegen/",
+    "title": "RevenueCat Codegen Gradle 插件",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://github.com/iamjosephmj/hydra",
+    "title": "hydra：APK 运行时自我保护 Gradle 插件",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cXg4ijiK-Ko",
+    "title": "Kotlin 2.4 集合字面量新语法",
+    "date": "2026-06-24"
   }
 ]
