@@ -178,5 +178,35 @@
     "url": "https://www.youtube.com/watch?v=cXg4ijiK-Ko",
     "title": "Kotlin 2.4 集合字面量新语法",
     "date": "2026-06-24"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/06/play-expanded-billing.html",
+    "title": "Google Play 费率改革：服务费与账单费拆分、整体降费",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://juejin.cn/post/7654370220607275017",
+    "title": "Compose 与传统 View 混用的 12 个真实坑",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://juejin.cn/post/7654313869855571977",
+    "title": "Android 启动优化实战：Trace→Application 编排→冷启动",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://juejin.cn/post/7654760228148166691",
+    "title": "Android Gradle 缓存与文件目录深度解析",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://juejin.cn/post/7654471531117379590",
+    "title": "逆向 AirPods 协议：让 Android 用上完整版 AirPods 能力",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://juejin.cn/post/7654456067166289939",
+    "title": "Kotlin 惯用法：从单例模式到 object 声明",
+    "date": "2026-06-25"
   }
 ]
