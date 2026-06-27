@@ -173,5 +173,30 @@
     "url": "https://dev.to/lucquebec/offline-video-subtitles-on-android-ffmpegkit-whisperkit-99-languages-no-cloud-2384",
     "title": "纯端侧离线字幕：FFmpegKit + WhisperKit 99 种语言不走云",
     "date": "2026-06-26"
+  },
+  {
+    "url": "https://juejin.cn/post/7654857899178639411",
+    "title": "Android 分层架构的职责边界怎么划",
+    "date": "2026-06-27"
+  },
+  {
+    "url": "https://juejin.cn/post/7655263874610511913",
+    "title": "重新理解 Retrofit：注解如何变成一次 HTTP 调用",
+    "date": "2026-06-27"
+  },
+  {
+    "url": "https://juejin.cn/post/7655571748403773476",
+    "title": "用 Flow + Lifecycle 替代 BroadcastReceiver",
+    "date": "2026-06-27"
+  },
+  {
+    "url": "https://juejin.cn/post/7655571748403757092",
+    "title": "用 SharedFlow 取代 EventBus 做组件间通信",
+    "date": "2026-06-27"
+  },
+  {
+    "url": "https://juejin.cn/post/7654870053310234678",
+    "title": "从 MVC 到 MVVM：给三四百行的 Activity 瘦身",
+    "date": "2026-06-27"
   }
 ]
