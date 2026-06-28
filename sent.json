@@ -1,53 +1,13 @@
 [
   {
-    "url": "https://jakewharton.com/the-lysine-contingency/",
-    "title": "OkHttp、Retrofit、Okio、SQLDelight 加入 Commonhaus 基金会",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://android-developers.googleblog.com/2026/06/android-developer-verification.html",
-    "title": "Android 开发者验证落地时间确定",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://www.howcomposeworks.com/en",
-    "title": "《How Compose Works》：Compose 运行机制深度拆解",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://www.maiatoday.net/p/antigravity-tagspotter-kotlinmultiplatform-evolve/",
-    "title": "TagSpotter 实战：把 Android 应用演进为 KMP",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://www.marcogomiero.com/posts/2026/rss-parser-ten-years/",
-    "title": "RSS-Parser 十周年：从 Java 库到 KMP 的演进",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://medium.com/@mrdarkavenger/i-was-tired-of-testing-agsl-shaders-through-a-sample-app-so-i-built-an-android-studio-plugin-b069057c9597",
-    "title": "自制 Android Studio 插件：AGSL Shader 实时预览",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://www.rea-group.com/about-us/news-and-insights/blog/android-journey-tests-with-gemini-ci-setup-11-week-review/",
-    "title": "用 Gemini 跑 Android Journey 测试：CI 集成与 11 周复盘",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://medium.com/gitconnected/preview-driven-screenshot-testing-for-locales-keys-and-font-scale-21a73fd95e03",
-    "title": "Preview 驱动的截图测试：覆盖多语言、字号与文案 key",
-    "date": "2026-06-22"
-  },
-  {
     "url": "https://android-developers.googleblog.com/2026/06/android-developer-productivity-updates.html",
     "title": "Android 开发者生产力三大更新：Android CLI 1.0 稳定版",
     "date": "2026-06-23"
   },
   {
-    "url": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
-    "title": "ADK for Kotlin 与 ADK for Android 0.1.0 发布",
-    "date": "2026-06-23"
+    "url": "https://android-developers.googleblog.com/2026/06/android-developer-verification.html",
+    "title": "Android 开发者验证落地时间确定",
+    "date": "2026-06-22"
   },
   {
     "url": "https://android-developers.googleblog.com/2026/06/android-xr-geospatial-api-gemini.html",
@@ -60,29 +20,14 @@
     "date": "2026-06-23"
   },
   {
+    "url": "https://android-developers.googleblog.com/2026/06/play-expanded-billing.html",
+    "title": "Google Play 费率改革：服务费与账单费拆分、整体降费",
+    "date": "2026-06-25"
+  },
+  {
     "url": "https://android-developers.googleblog.com/2026/06/prioritizing-memory-efficiency-steps-for-android-17.html",
     "title": "优先内存效率：面向 Android 17 的关键步骤",
     "date": "2026-06-23"
-  },
-  {
-    "url": "https://juejin.cn/post/7642562335307808774",
-    "title": "面向 Android 开发者的 Google I/O 2026 总结",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://www.kmpbits.com/posts/coil3-compose-multiplatform",
-    "title": "Coil 3 在 Compose Multiplatform 中的图片加载与缓存",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://proandroiddev.com/the-task-shapes-the-strategy-kotlin-select-expressions-in-practice-b98bc53b5f15",
-    "title": "Kotlin select 表达式实战",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://ivan.canet.dev/blog/2026/06/15/measure-time.html",
-    "title": "别再用时间戳相减来测量耗时（单调时钟）",
-    "date": "2026-06-24"
   },
   {
     "url": "https://blog.insert-koin.io/how-to-use-koin-compiler-in-a-multimodule-project-6bd8e57d5e4b",
@@ -90,54 +35,14 @@
     "date": "2026-06-24"
   },
   {
-    "url": "https://doveletter.dev/articles/compose-nav-graph-plugin",
-    "title": "Compose Navigation Graph 可视化 AS 插件",
-    "date": "2026-06-24"
+    "url": "https://dev.to/d_v_/shipping-gemini-nano-on-device-in-a-real-app-the-constraints-nobody-warns-you-about-2pdi",
+    "title": "端侧 Gemini Nano 实战复盘：没人提醒你的那些坑",
+    "date": "2026-06-28"
   },
   {
-    "url": "https://www.revenuecat.com/blog/engineering/android-codegen/",
-    "title": "RevenueCat Codegen Gradle 插件",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://github.com/iamjosephmj/hydra",
-    "title": "hydra：APK 运行时自我保护 Gradle 插件",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=cXg4ijiK-Ko",
-    "title": "Kotlin 2.4 集合字面量新语法",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://android-developers.googleblog.com/2026/06/play-expanded-billing.html",
-    "title": "Google Play 费率改革：服务费与账单费拆分、整体降费",
-    "date": "2026-06-25"
-  },
-  {
-    "url": "https://juejin.cn/post/7654370220607275017",
-    "title": "Compose 与传统 View 混用的 12 个真实坑",
-    "date": "2026-06-25"
-  },
-  {
-    "url": "https://juejin.cn/post/7654313869855571977",
-    "title": "Android 启动优化实战：Trace→Application 编排→冷启动",
-    "date": "2026-06-25"
-  },
-  {
-    "url": "https://juejin.cn/post/7654760228148166691",
-    "title": "Android Gradle 缓存与文件目录深度解析",
-    "date": "2026-06-25"
-  },
-  {
-    "url": "https://juejin.cn/post/7654471531117379590",
-    "title": "逆向 AirPods 协议：让 Android 用上完整版 AirPods 能力",
-    "date": "2026-06-25"
-  },
-  {
-    "url": "https://juejin.cn/post/7654456067166289939",
-    "title": "Kotlin 惯用法：从单例模式到 object 声明",
-    "date": "2026-06-25"
+    "url": "https://dev.to/haseebthedev0/keeping-android-background-services-alive-against-oem-aggression-41l4",
+    "title": "对抗 OEM 杀后台：Android 后台任务的正确姿势",
+    "date": "2026-06-26"
   },
   {
     "url": "https://dev.to/juan_hurtado/how-we-made-ktor-json-parsing-66-faster-with-50-less-memory-on-kmp-2pca",
@@ -145,13 +50,8 @@
     "date": "2026-06-26"
   },
   {
-    "url": "https://juejin.cn/post/7655245911813128238",
-    "title": "入门 Jetpack Compose Styles API",
-    "date": "2026-06-26"
-  },
-  {
-    "url": "https://dev.to/haseebthedev0/keeping-android-background-services-alive-against-oem-aggression-41l4",
-    "title": "对抗 OEM 杀后台：Android 后台任务的正确姿势",
+    "url": "https://dev.to/lucquebec/offline-video-subtitles-on-android-ffmpegkit-whisperkit-99-languages-no-cloud-2384",
+    "title": "纯端侧离线字幕：FFmpegKit + WhisperKit 99 种语言不走云",
     "date": "2026-06-26"
   },
   {
@@ -170,9 +70,69 @@
     "date": "2026-06-26"
   },
   {
-    "url": "https://dev.to/lucquebec/offline-video-subtitles-on-android-ffmpegkit-whisperkit-99-languages-no-cloud-2384",
-    "title": "纯端侧离线字幕：FFmpegKit + WhisperKit 99 种语言不走云",
-    "date": "2026-06-26"
+    "url": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
+    "title": "ADK for Kotlin 与 ADK for Android 0.1.0 发布",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://docs.gradle.org/9.6.1/release-notes.html",
+    "title": "Gradle 9.6.1 稳定版发布",
+    "date": "2026-06-28"
+  },
+  {
+    "url": "https://doveletter.dev/articles/compose-nav-graph-plugin",
+    "title": "Compose Navigation Graph 可视化 AS 插件",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://github.com/dttdrv/phonecode",
+    "title": "Show HN：PhoneCode——原生跑在 Android 上的本地优先开发环境",
+    "date": "2026-06-28"
+  },
+  {
+    "url": "https://github.com/iamjosephmj/hydra",
+    "title": "hydra：APK 运行时自我保护 Gradle 插件",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://ivan.canet.dev/blog/2026/06/15/measure-time.html",
+    "title": "别再用时间戳相减来测量耗时（单调时钟）",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://jakewharton.com/the-lysine-contingency/",
+    "title": "OkHttp、Retrofit、Okio、SQLDelight 加入 Commonhaus 基金会",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://juejin.cn/post/7642562335307808774",
+    "title": "面向 Android 开发者的 Google I/O 2026 总结",
+    "date": "2026-06-23"
+  },
+  {
+    "url": "https://juejin.cn/post/7654313869855571977",
+    "title": "Android 启动优化实战：Trace→Application 编排→冷启动",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://juejin.cn/post/7654370220607275017",
+    "title": "Compose 与传统 View 混用的 12 个真实坑",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://juejin.cn/post/7654456067166289939",
+    "title": "Kotlin 惯用法：从单例模式到 object 声明",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://juejin.cn/post/7654471531117379590",
+    "title": "逆向 AirPods 协议：让 Android 用上完整版 AirPods 能力",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://juejin.cn/post/7654760228148166691",
+    "title": "Android Gradle 缓存与文件目录深度解析",
+    "date": "2026-06-25"
   },
   {
     "url": "https://juejin.cn/post/7654857899178639411",
@@ -180,13 +140,18 @@
     "date": "2026-06-27"
   },
   {
-    "url": "https://juejin.cn/post/7655263874610511913",
-    "title": "重新理解 Retrofit：注解如何变成一次 HTTP 调用",
+    "url": "https://juejin.cn/post/7654870053310234678",
+    "title": "从 MVC 到 MVVM：给三四百行的 Activity 瘦身",
     "date": "2026-06-27"
   },
   {
-    "url": "https://juejin.cn/post/7655571748403773476",
-    "title": "用 Flow + Lifecycle 替代 BroadcastReceiver",
+    "url": "https://juejin.cn/post/7655245911813128238",
+    "title": "入门 Jetpack Compose Styles API",
+    "date": "2026-06-26"
+  },
+  {
+    "url": "https://juejin.cn/post/7655263874610511913",
+    "title": "重新理解 Retrofit：注解如何变成一次 HTTP 调用",
     "date": "2026-06-27"
   },
   {
@@ -195,8 +160,83 @@
     "date": "2026-06-27"
   },
   {
-    "url": "https://juejin.cn/post/7654870053310234678",
-    "title": "从 MVC 到 MVVM：给三四百行的 Activity 瘦身",
+    "url": "https://juejin.cn/post/7655571748403773476",
+    "title": "用 Flow + Lifecycle 替代 BroadcastReceiver",
     "date": "2026-06-27"
+  },
+  {
+    "url": "https://juejin.cn/post/7655611059512262708",
+    "title": "Android 车载 OS 中的 Remote Compose",
+    "date": "2026-06-28"
+  },
+  {
+    "url": "https://medium.com/@mrdarkavenger/i-was-tired-of-testing-agsl-shaders-through-a-sample-app-so-i-built-an-android-studio-plugin-b069057c9597",
+    "title": "自制 Android Studio 插件：AGSL Shader 实时预览",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://medium.com/gitconnected/preview-driven-screenshot-testing-for-locales-keys-and-font-scale-21a73fd95e03",
+    "title": "Preview 驱动的截图测试：覆盖多语言、字号与文案 key",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://proandroiddev.com/defense-in-depth-for-mobile-fintech-why-no-single-security-control-is-enough-0cbf55035f66",
+    "title": "移动金融 App 的纵深防御：单一安全控制远远不够",
+    "date": "2026-06-28"
+  },
+  {
+    "url": "https://proandroiddev.com/detekt-explained-enhance-kotlin-projects-with-static-analysis-part-1-9b30eddd9ea2",
+    "title": "Detekt 详解：用静态分析提升 Kotlin 项目质量(上)",
+    "date": "2026-06-28"
+  },
+  {
+    "url": "https://proandroiddev.com/mobile-observability-architecture-connecting-crashes-logs-traces-api-failures-and-business-b9e7d09198df",
+    "title": "移动端可观测性架构：打通崩溃、日志、链路与业务事件",
+    "date": "2026-06-28"
+  },
+  {
+    "url": "https://proandroiddev.com/the-4-types-of-offline-storage-in-android-a-beginners-guide-016dff24ae8b",
+    "title": "Android 离线存储的 4 种方式：新手指南",
+    "date": "2026-06-28"
+  },
+  {
+    "url": "https://proandroiddev.com/the-task-shapes-the-strategy-kotlin-select-expressions-in-practice-b98bc53b5f15",
+    "title": "Kotlin select 表达式实战",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://www.howcomposeworks.com/en",
+    "title": "《How Compose Works》：Compose 运行机制深度拆解",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.kmpbits.com/posts/coil3-compose-multiplatform",
+    "title": "Coil 3 在 Compose Multiplatform 中的图片加载与缓存",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://www.maiatoday.net/p/antigravity-tagspotter-kotlinmultiplatform-evolve/",
+    "title": "TagSpotter 实战：把 Android 应用演进为 KMP",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.marcogomiero.com/posts/2026/rss-parser-ten-years/",
+    "title": "RSS-Parser 十周年：从 Java 库到 KMP 的演进",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.rea-group.com/about-us/news-and-insights/blog/android-journey-tests-with-gemini-ci-setup-11-week-review/",
+    "title": "用 Gemini 跑 Android Journey 测试：CI 集成与 11 周复盘",
+    "date": "2026-06-22"
+  },
+  {
+    "url": "https://www.revenuecat.com/blog/engineering/android-codegen/",
+    "title": "RevenueCat Codegen Gradle 插件",
+    "date": "2026-06-24"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cXg4ijiK-Ko",
+    "title": "Kotlin 2.4 集合字面量新语法",
+    "date": "2026-06-24"
   }
 ]
