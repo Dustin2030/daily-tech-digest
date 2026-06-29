@@ -5,11 +5,6 @@
     "date": "2026-06-23"
   },
   {
-    "url": "https://android-developers.googleblog.com/2026/06/android-developer-verification.html",
-    "title": "Android 开发者验证落地时间确定",
-    "date": "2026-06-22"
-  },
-  {
     "url": "https://android-developers.googleblog.com/2026/06/android-xr-geospatial-api-gemini.html",
     "title": "用 Android XR + Geospatial API + Gemini 打造混合现实导览",
     "date": "2026-06-23"
@@ -100,11 +95,6 @@
     "date": "2026-06-24"
   },
   {
-    "url": "https://jakewharton.com/the-lysine-contingency/",
-    "title": "OkHttp、Retrofit、Okio、SQLDelight 加入 Commonhaus 基金会",
-    "date": "2026-06-22"
-  },
-  {
     "url": "https://juejin.cn/post/7642562335307808774",
     "title": "面向 Android 开发者的 Google I/O 2026 总结",
     "date": "2026-06-23"
@@ -170,16 +160,6 @@
     "date": "2026-06-28"
   },
   {
-    "url": "https://medium.com/@mrdarkavenger/i-was-tired-of-testing-agsl-shaders-through-a-sample-app-so-i-built-an-android-studio-plugin-b069057c9597",
-    "title": "自制 Android Studio 插件：AGSL Shader 实时预览",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://medium.com/gitconnected/preview-driven-screenshot-testing-for-locales-keys-and-font-scale-21a73fd95e03",
-    "title": "Preview 驱动的截图测试：覆盖多语言、字号与文案 key",
-    "date": "2026-06-22"
-  },
-  {
     "url": "https://proandroiddev.com/defense-in-depth-for-mobile-fintech-why-no-single-security-control-is-enough-0cbf55035f66",
     "title": "移动金融 App 的纵深防御：单一安全控制远远不够",
     "date": "2026-06-28"
@@ -205,29 +185,9 @@
     "date": "2026-06-24"
   },
   {
-    "url": "https://www.howcomposeworks.com/en",
-    "title": "《How Compose Works》：Compose 运行机制深度拆解",
-    "date": "2026-06-22"
-  },
-  {
     "url": "https://www.kmpbits.com/posts/coil3-compose-multiplatform",
     "title": "Coil 3 在 Compose Multiplatform 中的图片加载与缓存",
     "date": "2026-06-24"
-  },
-  {
-    "url": "https://www.maiatoday.net/p/antigravity-tagspotter-kotlinmultiplatform-evolve/",
-    "title": "TagSpotter 实战：把 Android 应用演进为 KMP",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://www.marcogomiero.com/posts/2026/rss-parser-ten-years/",
-    "title": "RSS-Parser 十周年：从 Java 库到 KMP 的演进",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://www.rea-group.com/about-us/news-and-insights/blog/android-journey-tests-with-gemini-ci-setup-11-week-review/",
-    "title": "用 Gemini 跑 Android Journey 测试：CI 集成与 11 周复盘",
-    "date": "2026-06-22"
   },
   {
     "url": "https://www.revenuecat.com/blog/engineering/android-codegen/",
@@ -238,5 +198,45 @@
     "url": "https://www.youtube.com/watch?v=cXg4ijiK-Ko",
     "title": "Kotlin 2.4 集合字面量新语法",
     "date": "2026-06-24"
+  },
+  {
+    "url": "https://juejin.cn/post/7656080006646497307",
+    "title": "Main-safe：现代 Android 架构真正的分水岭",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://dev.to/ismoy/the-future-of-kmp-upgrading-to-kotlin-2320-and-compose-1103-57ff",
+    "title": "KMP 工具链升级实战：Kotlin 2.3.20 / Compose MP 1.10.3，注意 ABI 破坏性变更",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://dev.to/theaxcode/stable-screenshot-tests-and-flow-benchmarks-in-kmp-20pb",
+    "title": "让 KMP 的截图测试与 Flow 基准不再 flaky",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://juejin.cn/post/7656064169444950022",
+    "title": "深入 Android Performance Analyzer (APA) 的底层架构",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://juejin.cn/post/7656300675647438857",
+    "title": "一文吃透 Kotlin 集合操作符（源码视角）",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://dev.to/vgupta98/i-built-an-open-source-on-device-photo-culler-for-macos-in-kotlin-473j",
+    "title": "用 Compose for Desktop + ONNX 做端侧照片筛选工具 Rhenium",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://dev.to/ismoy/performance-memory-optimizing-ios-gallery-and-android-paths-in-imagepickerkmp-v1043-472b",
+    "title": "KMP 图片选取的性能与内存优化",
+    "date": "2026-06-29"
+  },
+  {
+    "url": "https://juejin.cn/post/7655992347482816554",
+    "title": "从 onActivityResult 迁移到 ActivityResult API",
+    "date": "2026-06-29"
   }
 ]
