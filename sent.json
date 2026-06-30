@@ -238,5 +238,55 @@
     "url": "https://juejin.cn/post/7655992347482816554",
     "title": "从 onActivityResult 迁移到 ActivityResult API",
     "date": "2026-06-29"
+  },
+  {
+    "url": "https://github.com/ktorio/ktor/releases/tag/3.5.1",
+    "title": "1. Ktor 3.5.1 稳定版发布",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://juejin.cn/post/7656202263124082730",
+    "title": "2. JetBrains 把 Amper 升级为官方 Kotlin Toolchain（0.11）",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://androidweekly.net/issues/issue-733",
+    "title": "3. Android Weekly #733",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://mailchi.mp/kotlinweekly/kotlin-weekly-517",
+    "title": "4. Kotlin Weekly #517",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://dev.to/supriya_shah_1e9c3df6158c/the-beginners-guide-to-state-collection-in-jetpack-compose-4bng",
+    "title": "5. Compose 状态收集：collectAsState 与 collectAsStateWithLifecycle",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://juejin.cn/post/7656271520344735796",
+    "title": "6. Android「深水区」：Intent 显隐式匹配与 PendingIntent 安全边界",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://dev.to/supriya_shah_1e9c3df6158c/mastering-graphql-with-ktor-a-modern-networking-guide-for-android-1nc5",
+    "title": "7. 用 Ktor 在 Android 上消费 GraphQL",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://juejin.cn/post/7656592867432382502",
+    "title": "8. 源码级：AudioFlinger 与 AudioPolicyService 音频架构",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://juejin.cn/post/7656025505837924395",
+    "title": "9. 2026 年 Android 性能优化技能与工具调研报告",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://dev.to/falaq_ai/what-i-learned-building-offline-ai-for-android-2pi",
+    "title": "10. 端侧 AI 实战复盘：在 Android 上跑本地模型",
+    "date": "2026-06-30"
   }
 ]
