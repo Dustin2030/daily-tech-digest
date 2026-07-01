@@ -1,28 +1,8 @@
 [
   {
-    "url": "https://android-developers.googleblog.com/2026/06/android-developer-productivity-updates.html",
-    "title": "Android 开发者生产力三大更新：Android CLI 1.0 稳定版",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://android-developers.googleblog.com/2026/06/android-xr-geospatial-api-gemini.html",
-    "title": "用 Android XR + Geospatial API + Gemini 打造混合现实导览",
-    "date": "2026-06-23"
-  },
-  {
-    "url": "https://android-developers.googleblog.com/2026/06/building-premium-android-experiences-google-io-26.html",
-    "title": "在 Google I/O '26 打造高品质 Android 体验",
-    "date": "2026-06-23"
-  },
-  {
     "url": "https://android-developers.googleblog.com/2026/06/play-expanded-billing.html",
     "title": "Google Play 费率改革：服务费与账单费拆分、整体降费",
     "date": "2026-06-25"
-  },
-  {
-    "url": "https://android-developers.googleblog.com/2026/06/prioritizing-memory-efficiency-steps-for-android-17.html",
-    "title": "优先内存效率：面向 Android 17 的关键步骤",
-    "date": "2026-06-23"
   },
   {
     "url": "https://blog.insert-koin.io/how-to-use-koin-compiler-in-a-multimodule-project-6bd8e57d5e4b",
@@ -65,11 +45,6 @@
     "date": "2026-06-26"
   },
   {
-    "url": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
-    "title": "ADK for Kotlin 与 ADK for Android 0.1.0 发布",
-    "date": "2026-06-23"
-  },
-  {
     "url": "https://docs.gradle.org/9.6.1/release-notes.html",
     "title": "Gradle 9.6.1 稳定版发布",
     "date": "2026-06-28"
@@ -93,11 +68,6 @@
     "url": "https://ivan.canet.dev/blog/2026/06/15/measure-time.html",
     "title": "别再用时间戳相减来测量耗时（单调时钟）",
     "date": "2026-06-24"
-  },
-  {
-    "url": "https://juejin.cn/post/7642562335307808774",
-    "title": "面向 Android 开发者的 Google I/O 2026 总结",
-    "date": "2026-06-23"
   },
   {
     "url": "https://juejin.cn/post/7654313869855571977",
@@ -288,5 +258,45 @@
     "url": "https://dev.to/falaq_ai/what-i-learned-building-offline-ai-for-android-2pi",
     "title": "10. 端侧 AI 实战复盘：在 Android 上跑本地模型",
     "date": "2026-06-30"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/06/eclipsa-video-hdr-review.html",
+    "title": "Eclipsa Video：让 HDR 在每块屏幕上都看着对",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://proandroiddev.com/switching-a-million-lines-of-code-from-java-threads-to-kotlin-coroutines-by-rewriting-three-files-6ba428bf8566",
+    "title": "只改 3 个文件把百万行代码从 Java 线程迁到 Kotlin 协程",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://proandroiddev.com/migrating-app-to-navigation-3-pain-overtimes-and-hotfixes-88321b59314b",
+    "title": "迁移到 Navigation 3 实录：加班、返工与热修",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://proandroiddev.com/an-android-auth-architecture-with-encrypted-tokens-auto-refresh-and-reactive-navigation-b5dcb7704f83",
+    "title": "一套 Android 鉴权架构：加密令牌 + 自动刷新 + 响应式导航",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://proandroiddev.com/design-a-screen-get-a-clean-architecture-feature-and-keep-ai-generated-kmp-code-from-drifting-c134ffc9bfc2",
+    "title": "从设计稿生成 Clean Architecture 特性，并防止 AI 生成的 KMP 代码漂移",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://proandroiddev.com/building-a-3d-game-in-compose-multiplatform-f6a983db0e45",
+    "title": "用 Compose Multiplatform 从零做一个 3D 游戏",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://proandroiddev.com/model-view-statemachine-the-library-is-out-the-future-is-here-4e3a7bd5fcd7",
+    "title": "Model-View-StateMachine：显式状态机架构库发布",
+    "date": "2026-07-01"
+  },
+  {
+    "url": "https://dev.to/haseebthedev0/architecting-a-location-aware-foreground-service-without-battery-drain-5c0b",
+    "title": "位置感知前台服务如何做到不明显耗电",
+    "date": "2026-07-01"
   }
 ]
