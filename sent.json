@@ -5,11 +5,6 @@
     "date": "2026-06-25"
   },
   {
-    "url": "https://blog.insert-koin.io/how-to-use-koin-compiler-in-a-multimodule-project-6bd8e57d5e4b",
-    "title": "在多模块项目中使用 Koin Compiler",
-    "date": "2026-06-24"
-  },
-  {
     "url": "https://dev.to/d_v_/shipping-gemini-nano-on-device-in-a-real-app-the-constraints-nobody-warns-you-about-2pdi",
     "title": "端侧 Gemini Nano 实战复盘：没人提醒你的那些坑",
     "date": "2026-06-28"
@@ -50,24 +45,9 @@
     "date": "2026-06-28"
   },
   {
-    "url": "https://doveletter.dev/articles/compose-nav-graph-plugin",
-    "title": "Compose Navigation Graph 可视化 AS 插件",
-    "date": "2026-06-24"
-  },
-  {
     "url": "https://github.com/dttdrv/phonecode",
     "title": "Show HN：PhoneCode——原生跑在 Android 上的本地优先开发环境",
     "date": "2026-06-28"
-  },
-  {
-    "url": "https://github.com/iamjosephmj/hydra",
-    "title": "hydra：APK 运行时自我保护 Gradle 插件",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://ivan.canet.dev/blog/2026/06/15/measure-time.html",
-    "title": "别再用时间戳相减来测量耗时（单调时钟）",
-    "date": "2026-06-24"
   },
   {
     "url": "https://juejin.cn/post/7654313869855571977",
@@ -148,26 +128,6 @@
     "url": "https://proandroiddev.com/the-4-types-of-offline-storage-in-android-a-beginners-guide-016dff24ae8b",
     "title": "Android 离线存储的 4 种方式：新手指南",
     "date": "2026-06-28"
-  },
-  {
-    "url": "https://proandroiddev.com/the-task-shapes-the-strategy-kotlin-select-expressions-in-practice-b98bc53b5f15",
-    "title": "Kotlin select 表达式实战",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://www.kmpbits.com/posts/coil3-compose-multiplatform",
-    "title": "Coil 3 在 Compose Multiplatform 中的图片加载与缓存",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://www.revenuecat.com/blog/engineering/android-codegen/",
-    "title": "RevenueCat Codegen Gradle 插件",
-    "date": "2026-06-24"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=cXg4ijiK-Ko",
-    "title": "Kotlin 2.4 集合字面量新语法",
-    "date": "2026-06-24"
   },
   {
     "url": "https://juejin.cn/post/7656080006646497307",
@@ -298,5 +258,55 @@
     "url": "https://dev.to/haseebthedev0/architecting-a-location-aware-foreground-service-without-battery-drain-5c0b",
     "title": "位置感知前台服务如何做到不明显耗电",
     "date": "2026-07-01"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/room3",
+    "title": "Room 3.0.0 稳定版发布",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/sqlite",
+    "title": "AndroidX SQLite 2.7.0 稳定版发布",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/hilt",
+    "title": "Jetpack Hilt 1.4.0 稳定版发布",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://rezaramesh.medium.com/i-read-the-entire-kotlin-2-4-changelog-so-you-dont-have-to-but-you-probably-still-should-667c7e541a1d",
+    "title": "通读 Kotlin 2.4 完整变更日志",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://dev.to/programmingcentral/beyond-nnapi-how-android-aicore-and-gemini-nano-are-revolutionizing-on-device-ai-3hae",
+    "title": "超越 NNAPI：AICore 与 Gemini Nano 如何革新端侧 AI",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://juejin.cn/post/7657098348508921899",
+    "title": "别再把 inline 当性能开关：Kotlin 内联深入",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/navigation3",
+    "title": "Jetpack Navigation3 1.1.4 稳定版发布",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://dev.to/amekusa03/never-forget-what-you-ordered-building-lunch-memo-with-jetpack-compose-room-and-alarmmanager-1j4j",
+    "title": "用 Compose + Room + AlarmManager 构建「午餐备忘」应用",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/07/kotlin-comes-to-bluej/",
+    "title": "Kotlin 登陆 BlueJ 教学环境",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://medium.com/@nematengg/kotlin-generics-explained-invariance-covariance-out-and-contravariance-in-ba9403912549",
+    "title": "Kotlin 泛型型变详解：不变、协变(out) 与逆变(in)",
+    "date": "2026-07-02"
   }
 ]
