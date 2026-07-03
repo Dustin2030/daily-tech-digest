@@ -1,10 +1,5 @@
 [
   {
-    "url": "https://android-developers.googleblog.com/2026/06/play-expanded-billing.html",
-    "title": "Google Play 费率改革：服务费与账单费拆分、整体降费",
-    "date": "2026-06-25"
-  },
-  {
     "url": "https://dev.to/d_v_/shipping-gemini-nano-on-device-in-a-real-app-the-constraints-nobody-warns-you-about-2pdi",
     "title": "端侧 Gemini Nano 实战复盘：没人提醒你的那些坑",
     "date": "2026-06-28"
@@ -48,31 +43,6 @@
     "url": "https://github.com/dttdrv/phonecode",
     "title": "Show HN：PhoneCode——原生跑在 Android 上的本地优先开发环境",
     "date": "2026-06-28"
-  },
-  {
-    "url": "https://juejin.cn/post/7654313869855571977",
-    "title": "Android 启动优化实战：Trace→Application 编排→冷启动",
-    "date": "2026-06-25"
-  },
-  {
-    "url": "https://juejin.cn/post/7654370220607275017",
-    "title": "Compose 与传统 View 混用的 12 个真实坑",
-    "date": "2026-06-25"
-  },
-  {
-    "url": "https://juejin.cn/post/7654456067166289939",
-    "title": "Kotlin 惯用法：从单例模式到 object 声明",
-    "date": "2026-06-25"
-  },
-  {
-    "url": "https://juejin.cn/post/7654471531117379590",
-    "title": "逆向 AirPods 协议：让 Android 用上完整版 AirPods 能力",
-    "date": "2026-06-25"
-  },
-  {
-    "url": "https://juejin.cn/post/7654760228148166691",
-    "title": "Android Gradle 缓存与文件目录深度解析",
-    "date": "2026-06-25"
   },
   {
     "url": "https://juejin.cn/post/7654857899178639411",
@@ -308,5 +278,55 @@
     "url": "https://medium.com/@nematengg/kotlin-generics-explained-invariance-covariance-out-and-contravariance-in-ba9403912549",
     "title": "Kotlin 泛型型变详解：不变、协变(out) 与逆变(in)",
     "date": "2026-07-02"
+  },
+  {
+    "url": "https://proandroiddev.com/kotlin-dsl-deep-dive-from-gradle-scripts-to-building-your-own-8e08a1471467",
+    "title": "Kotlin DSL 深入：从 Gradle 脚本到自己动手写一个",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://proandroiddev.com/rethinking-the-data-layer-advanced-android-repositories-you-arent-using-0195f87250a1",
+    "title": "重新设计数据层：高级 Repository（隔离式）模式",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://juejin.cn/post/7657831649030586414",
+    "title": "协程时代的 DCL 懒加载：别把线程经验直接搬过来",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://proandroiddev.com/your-android-sdk-just-crashed-in-someone-elses-app-now-what-3586fc9f84af",
+    "title": "你的 Android SDK 在别人 App 里崩了怎么办：crashsink 方案",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://juejin.cn/post/7657811451365228544",
+    "title": "AIDL 调用链路追踪（二）：如何和 Binder 驱动打交道",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://juejin.cn/post/7657809077682815019",
+    "title": "从 Gson 迁移到 kotlinx.serialization",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://juejin.cn/post/7657337985915584531",
+    "title": "告别手动打包：AAB 签名 + ProGuard + CI/CD 自动化实战",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://dev.to/haseebthedev0/architecting-reliable-geofencing-without-draining-the-users-battery-4nb8",
+    "title": "不耗电的可靠地理围栏架构",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://dev.to/programmingcentral/the-secret-to-blazing-fast-on-device-ai-mastering-tflite-delegates-npus-and-the-future-of-414f",
+    "title": "端侧 AI 提速：TFLite Delegate、NPU 与 Android AI",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://proandroiddev.com/the-cooperative-multitasking-trap-why-asynchronous-loops-starve-mobile-runtimes-81c11a66ed7b",
+    "title": "协作式多任务的陷阱：异步循环为何拖垮移动端运行时",
+    "date": "2026-07-03"
   }
 ]
