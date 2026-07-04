@@ -5,36 +5,6 @@
     "date": "2026-06-28"
   },
   {
-    "url": "https://dev.to/haseebthedev0/keeping-android-background-services-alive-against-oem-aggression-41l4",
-    "title": "对抗 OEM 杀后台：Android 后台任务的正确姿势",
-    "date": "2026-06-26"
-  },
-  {
-    "url": "https://dev.to/juan_hurtado/how-we-made-ktor-json-parsing-66-faster-with-50-less-memory-on-kmp-2pca",
-    "title": "Ghost Serializer：KMP 上把 Ktor JSON 解析提速 66%、内存砍半",
-    "date": "2026-06-26"
-  },
-  {
-    "url": "https://dev.to/lucquebec/offline-video-subtitles-on-android-ffmpegkit-whisperkit-99-languages-no-cloud-2384",
-    "title": "纯端侧离线字幕：FFmpegKit + WhisperKit 99 种语言不走云",
-    "date": "2026-06-26"
-  },
-  {
-    "url": "https://dev.to/superfunicular/foregroundservicetypecamera-keeping-a-camera-alive-with-the-screen-off-on-android-14-2mcf",
-    "title": "Android 14+ 熄屏保活相机：FOREGROUND_SERVICE_TYPE_CAMERA 实战",
-    "date": "2026-06-26"
-  },
-  {
-    "url": "https://dev.to/yadnyesh_rana/encrypting-room-sqlite-databases-with-sqlcipher-and-biometric-keys-37f3",
-    "title": "用 SQLCipher + 生物识别密钥加密 Room 数据库",
-    "date": "2026-06-26"
-  },
-  {
-    "url": "https://dev.to/yadnyesh_rana/stop-losing-offline-user-updates-build-a-room-mutation-queue-54bd",
-    "title": "离线优先：用 Room 搭一套变更队列防丢数据",
-    "date": "2026-06-26"
-  },
-  {
     "url": "https://docs.gradle.org/9.6.1/release-notes.html",
     "title": "Gradle 9.6.1 稳定版发布",
     "date": "2026-06-28"
@@ -43,36 +13,6 @@
     "url": "https://github.com/dttdrv/phonecode",
     "title": "Show HN：PhoneCode——原生跑在 Android 上的本地优先开发环境",
     "date": "2026-06-28"
-  },
-  {
-    "url": "https://juejin.cn/post/7654857899178639411",
-    "title": "Android 分层架构的职责边界怎么划",
-    "date": "2026-06-27"
-  },
-  {
-    "url": "https://juejin.cn/post/7654870053310234678",
-    "title": "从 MVC 到 MVVM：给三四百行的 Activity 瘦身",
-    "date": "2026-06-27"
-  },
-  {
-    "url": "https://juejin.cn/post/7655245911813128238",
-    "title": "入门 Jetpack Compose Styles API",
-    "date": "2026-06-26"
-  },
-  {
-    "url": "https://juejin.cn/post/7655263874610511913",
-    "title": "重新理解 Retrofit：注解如何变成一次 HTTP 调用",
-    "date": "2026-06-27"
-  },
-  {
-    "url": "https://juejin.cn/post/7655571748403757092",
-    "title": "用 SharedFlow 取代 EventBus 做组件间通信",
-    "date": "2026-06-27"
-  },
-  {
-    "url": "https://juejin.cn/post/7655571748403773476",
-    "title": "用 Flow + Lifecycle 替代 BroadcastReceiver",
-    "date": "2026-06-27"
   },
   {
     "url": "https://juejin.cn/post/7655611059512262708",
@@ -328,5 +268,45 @@
     "url": "https://proandroiddev.com/the-cooperative-multitasking-trap-why-asynchronous-loops-starve-mobile-runtimes-81c11a66ed7b",
     "title": "协作式多任务的陷阱：异步循环为何拖垮移动端运行时",
     "date": "2026-07-03"
+  },
+  {
+    "url": "https://juejin.cn/post/7658072876424544310",
+    "title": "Compose 性能实战：定位冗余重组，榨干每一帧",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://juejin.cn/post/7658163848707112998",
+    "title": "Room 3.0 包名重构 + KMP 迁移踩坑实录",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://juejin.cn/post/7657495908851367987",
+    "title": "大型旧 XML 项目迁移 Jetpack Compose 的可行性评估",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://juejin.cn/post/7657433456432513065",
+    "title": "避坑：升级 AGP 8.0+ 导致第三方 SDK 编译崩溃",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://juejin.cn/post/7657455817264562228",
+    "title": "动画即状态：Compose 动画系统如何终结 XML 时代的繁琐",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://dev.to/programmingcentral/beyond-the-tflite-file-mastering-high-performance-edge-ai-with-mediapipe-tasks-and-aicore-44e",
+    "title": "端侧 AI 进阶：用 MediaPipe Tasks + AICore 榨干硬件推理",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://minikotlin.run/",
+    "title": "MiniKotlin：在浏览器里从零跑起来的 Kotlin 编译器",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://rootme.nebusec.ai/",
+    "title": "从 Firefox 到 Android Root：一条完整提权链复盘",
+    "date": "2026-07-04"
   }
 ]
