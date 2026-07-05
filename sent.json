@@ -308,5 +308,40 @@
     "url": "https://rootme.nebusec.ai/",
     "title": "从 Firefox 到 Android Root：一条完整提权链复盘",
     "date": "2026-07-04"
+  },
+  {
+    "url": "https://dev.to/roderick_ingle_f950208426/understanding-android-17-audio-hardening-a-new-era-of-background-audio-control-hh2",
+    "title": "1. Android 17 收紧后台音频管控（Audio Hardening）",
+    "date": "2026-07-05"
+  },
+  {
+    "url": "https://juejin.cn/post/7658251444873199635",
+    "title": "2. Compose Multiplatform 揭秘：一套代码如何覆盖四大平台",
+    "date": "2026-07-05"
+  },
+  {
+    "url": "https://juejin.cn/post/7658171932031238185",
+    "title": "3. 兼容与共生：如何在旧项目中优雅地引入 Compose",
+    "date": "2026-07-05"
+  },
+  {
+    "url": "https://dev.to/onlyashd/protocol-buffers-for-server-driven-ui-a-practical-guide-3hdl",
+    "title": "4. 用 Protocol Buffers 做服务端驱动 UI（SDUI）实战",
+    "date": "2026-07-05"
+  },
+  {
+    "url": "https://dev.to/kotools/whats-new-in-kotools-types-520-2h45",
+    "title": "5. Kotools Types 5.2.0 稳定版发布",
+    "date": "2026-07-05"
+  },
+  {
+    "url": "https://dev.to/isaias_velasquez_d2261770/how-to-deal-with-empty-lists-that-defaults-to-null-in-jackson-and-kotlin-5ai3",
+    "title": "6. Kotlin + Jackson：处理反序列化为 null 的空列表",
+    "date": "2026-07-05"
+  },
+  {
+    "url": "https://dev.to/jdshah/what-on-device-ai-benchmarks-actually-feel-like-1afm",
+    "title": "7. 端侧 AI 基准测试的「真实体感」",
+    "date": "2026-07-05"
   }
 ]
