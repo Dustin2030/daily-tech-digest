@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://dev.to/d_v_/shipping-gemini-nano-on-device-in-a-real-app-the-constraints-nobody-warns-you-about-2pdi",
-    "title": "端侧 Gemini Nano 实战复盘：没人提醒你的那些坑",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://docs.gradle.org/9.6.1/release-notes.html",
-    "title": "Gradle 9.6.1 稳定版发布",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://github.com/dttdrv/phonecode",
-    "title": "Show HN：PhoneCode——原生跑在 Android 上的本地优先开发环境",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://juejin.cn/post/7655611059512262708",
-    "title": "Android 车载 OS 中的 Remote Compose",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://proandroiddev.com/defense-in-depth-for-mobile-fintech-why-no-single-security-control-is-enough-0cbf55035f66",
-    "title": "移动金融 App 的纵深防御：单一安全控制远远不够",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://proandroiddev.com/detekt-explained-enhance-kotlin-projects-with-static-analysis-part-1-9b30eddd9ea2",
-    "title": "Detekt 详解：用静态分析提升 Kotlin 项目质量(上)",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://proandroiddev.com/mobile-observability-architecture-connecting-crashes-logs-traces-api-failures-and-business-b9e7d09198df",
-    "title": "移动端可观测性架构：打通崩溃、日志、链路与业务事件",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://proandroiddev.com/the-4-types-of-offline-storage-in-android-a-beginners-guide-016dff24ae8b",
-    "title": "Android 离线存储的 4 种方式：新手指南",
-    "date": "2026-06-28"
-  },
-  {
     "url": "https://juejin.cn/post/7656080006646497307",
     "title": "Main-safe：现代 Android 架构真正的分水岭",
     "date": "2026-06-29"
@@ -343,5 +303,55 @@
     "url": "https://dev.to/jdshah/what-on-device-ai-benchmarks-actually-feel-like-1afm",
     "title": "7. 端侧 AI 基准测试的「真实体感」",
     "date": "2026-07-05"
+  },
+  {
+    "url": "https://mailchi.mp/kotlinweekly/kotlin-weekly-518",
+    "title": "1. Kotlin Weekly #518 发布",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://androidweekly.net/issues/issue-734",
+    "title": "2. Android Weekly #734 发布",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/compose-foundation",
+    "title": "3. Jetpack Compose 1.11.4 稳定版发布",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7658250650539032612",
+    "title": "4. Coil 图片库源码详解",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7658567805047668777",
+    "title": "5. KMP 跨平台资源管理：一套代码搞定三端图片与多语言",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7658922842857029678",
+    "title": "6. 协程线程膨胀：8 个异步任务为何让线程数翻倍",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://edwardharker.com/2026/07/01/how-screenshot-detection-works-on-android/",
+    "title": "7. Android 截屏检测的实现原理",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7658107153196023823",
+    "title": "8. R8 时代的混淆字典：11 套字典实测对比",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://blog.insert-koin.io/how-to-use-koin-compiler-in-a-multimodule-project-6bd8e57d5e4b",
+    "title": "9. 多模块项目中如何使用 Koin Compiler",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7658236946784665606",
+    "title": "10. Jetpack ViewModel 底层原理",
+    "date": "2026-07-06"
   }
 ]
