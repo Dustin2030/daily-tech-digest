@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://juejin.cn/post/7656080006646497307",
-    "title": "Main-safe：现代 Android 架构真正的分水岭",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://dev.to/ismoy/the-future-of-kmp-upgrading-to-kotlin-2320-and-compose-1103-57ff",
-    "title": "KMP 工具链升级实战：Kotlin 2.3.20 / Compose MP 1.10.3，注意 ABI 破坏性变更",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://dev.to/theaxcode/stable-screenshot-tests-and-flow-benchmarks-in-kmp-20pb",
-    "title": "让 KMP 的截图测试与 Flow 基准不再 flaky",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://juejin.cn/post/7656064169444950022",
-    "title": "深入 Android Performance Analyzer (APA) 的底层架构",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://juejin.cn/post/7656300675647438857",
-    "title": "一文吃透 Kotlin 集合操作符（源码视角）",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://dev.to/vgupta98/i-built-an-open-source-on-device-photo-culler-for-macos-in-kotlin-473j",
-    "title": "用 Compose for Desktop + ONNX 做端侧照片筛选工具 Rhenium",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://dev.to/ismoy/performance-memory-optimizing-ios-gallery-and-android-paths-in-imagepickerkmp-v1043-472b",
-    "title": "KMP 图片选取的性能与内存优化",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://juejin.cn/post/7655992347482816554",
-    "title": "从 onActivityResult 迁移到 ActivityResult API",
-    "date": "2026-06-29"
-  },
-  {
     "url": "https://github.com/ktorio/ktor/releases/tag/3.5.1",
     "title": "1. Ktor 3.5.1 稳定版发布",
     "date": "2026-06-30"
@@ -353,5 +313,45 @@
     "url": "https://juejin.cn/post/7658236946784665606",
     "title": "10. Jetpack ViewModel 底层原理",
     "date": "2026-07-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7658958553416859658",
+    "title": "1. Kuikly 是什么？它和 KMP 是什么关系",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://medium.com/@krasi.karamazov/kotlin-multiplatform-ai-pipeline-a-reality-21b77c6c5a75",
+    "title": "2. 用 KMP 搭一条带编译门禁的 AI 辅助开发流水线",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://juejin.cn/post/7659234687549915190",
+    "title": "3. 基于 KMP 的跨平台弱网离线同步引擎 Syncox 开源",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://juejin.cn/post/7659327186160042011",
+    "title": "4. Jetpack Compose Styles API 进阶",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://dev.to/maanyahomecarespec/lost-or-corrupted-android-keystore-heres-what-to-actually-do-41ga",
+    "title": "5. Android 签名密钥丢失/损坏后到底该怎么办",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://dev.to/itsaalaa7/gson-silent-bug-that-never-said-a-wordinterview-prep-2818",
+    "title": "6. Gson 在 Kotlin 下的「静默坑」与空安全隐患",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://dev.to/programmingcentral/stop-killing-your-battery-the-ultimate-guide-to-android-edge-ai-quantization-int8-vs-fp16-121k",
+    "title": "7. 端侧 AI 量化实战：INT8 与 FP16 如何取舍",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://juejin.cn/post/7658603691033624582",
+    "title": "8. Flutter 3.44+ 插件的 KGP 双向兼容适配指南",
+    "date": "2026-07-07"
   }
 ]
