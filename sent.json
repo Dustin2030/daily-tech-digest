@@ -1,55 +1,5 @@
 [
   {
-    "url": "https://github.com/ktorio/ktor/releases/tag/3.5.1",
-    "title": "1. Ktor 3.5.1 稳定版发布",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://juejin.cn/post/7656202263124082730",
-    "title": "2. JetBrains 把 Amper 升级为官方 Kotlin Toolchain（0.11）",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://androidweekly.net/issues/issue-733",
-    "title": "3. Android Weekly #733",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://mailchi.mp/kotlinweekly/kotlin-weekly-517",
-    "title": "4. Kotlin Weekly #517",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://dev.to/supriya_shah_1e9c3df6158c/the-beginners-guide-to-state-collection-in-jetpack-compose-4bng",
-    "title": "5. Compose 状态收集：collectAsState 与 collectAsStateWithLifecycle",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://juejin.cn/post/7656271520344735796",
-    "title": "6. Android「深水区」：Intent 显隐式匹配与 PendingIntent 安全边界",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://dev.to/supriya_shah_1e9c3df6158c/mastering-graphql-with-ktor-a-modern-networking-guide-for-android-1nc5",
-    "title": "7. 用 Ktor 在 Android 上消费 GraphQL",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://juejin.cn/post/7656592867432382502",
-    "title": "8. 源码级：AudioFlinger 与 AudioPolicyService 音频架构",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://juejin.cn/post/7656025505837924395",
-    "title": "9. 2026 年 Android 性能优化技能与工具调研报告",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://dev.to/falaq_ai/what-i-learned-building-offline-ai-for-android-2pi",
-    "title": "10. 端侧 AI 实战复盘：在 Android 上跑本地模型",
-    "date": "2026-06-30"
-  },
-  {
     "url": "https://android-developers.googleblog.com/2026/06/eclipsa-video-hdr-review.html",
     "title": "Eclipsa Video：让 HDR 在每块屏幕上都看着对",
     "date": "2026-07-01"
@@ -353,5 +303,50 @@
     "url": "https://juejin.cn/post/7658603691033624582",
     "title": "8. Flutter 3.44+ 插件的 KGP 双向兼容适配指南",
     "date": "2026-07-07"
+  },
+  {
+    "url": "https://proandroiddev.com/how-i-found-a-deadlock-inside-art-that-art-itself-couldnt-dump-ff7b33b0334a",
+    "title": "1. ART 内部死锁排查：连虚拟机自己都 dump 不出来",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://proandroiddev.com/the-android-crash-that-only-happened-on-certain-phones-16ce2effe84e",
+    "title": "2. 只在部分机型崩溃：华为设备与 downloadable fonts",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://juejin.cn/post/7659618815766872083",
+    "title": "3. Framework 补完计划(2)：BufferQueue 与 SurfaceFlinger",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://proandroiddev.com/broadcastreceiver-security-7-mistakes-every-android-developer-should-avoid-7eeb8439b986",
+    "title": "4. BroadcastReceiver 安全：该避开的 7 个错误",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://proandroiddev.com/keep-ui-only-logic-in-the-ui-with-snapshotflow-4efe34063f03",
+    "title": "5. 用 snapshotFlow 把纯 UI 逻辑留在 UI 层",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://juejin.cn/post/7659252393879896073",
+    "title": "6. Kotlin 协程 delay 到底发生在哪个线程",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://juejin.cn/post/7659225944679661606",
+    "title": "7. Jetpack Compose 副作用处理系统梳理",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://juejin.cn/post/7659588407207575579",
+    "title": "8. edge-to-edge 软键盘与自定义面板协同 KeyboardPanelBox",
+    "date": "2026-07-08"
+  },
+  {
+    "url": "https://juejin.cn/post/7658658597825871908",
+    "title": "9. 从老式 Gradle 迁移到 Kotlin DSL",
+    "date": "2026-07-08"
   }
 ]
