@@ -1,95 +1,5 @@
 [
   {
-    "url": "https://android-developers.googleblog.com/2026/06/eclipsa-video-hdr-review.html",
-    "title": "Eclipsa Video：让 HDR 在每块屏幕上都看着对",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://proandroiddev.com/switching-a-million-lines-of-code-from-java-threads-to-kotlin-coroutines-by-rewriting-three-files-6ba428bf8566",
-    "title": "只改 3 个文件把百万行代码从 Java 线程迁到 Kotlin 协程",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://proandroiddev.com/migrating-app-to-navigation-3-pain-overtimes-and-hotfixes-88321b59314b",
-    "title": "迁移到 Navigation 3 实录：加班、返工与热修",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://proandroiddev.com/an-android-auth-architecture-with-encrypted-tokens-auto-refresh-and-reactive-navigation-b5dcb7704f83",
-    "title": "一套 Android 鉴权架构：加密令牌 + 自动刷新 + 响应式导航",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://proandroiddev.com/design-a-screen-get-a-clean-architecture-feature-and-keep-ai-generated-kmp-code-from-drifting-c134ffc9bfc2",
-    "title": "从设计稿生成 Clean Architecture 特性，并防止 AI 生成的 KMP 代码漂移",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://proandroiddev.com/building-a-3d-game-in-compose-multiplatform-f6a983db0e45",
-    "title": "用 Compose Multiplatform 从零做一个 3D 游戏",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://proandroiddev.com/model-view-statemachine-the-library-is-out-the-future-is-here-4e3a7bd5fcd7",
-    "title": "Model-View-StateMachine：显式状态机架构库发布",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://dev.to/haseebthedev0/architecting-a-location-aware-foreground-service-without-battery-drain-5c0b",
-    "title": "位置感知前台服务如何做到不明显耗电",
-    "date": "2026-07-01"
-  },
-  {
-    "url": "https://developer.android.com/jetpack/androidx/releases/room3",
-    "title": "Room 3.0.0 稳定版发布",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://developer.android.com/jetpack/androidx/releases/sqlite",
-    "title": "AndroidX SQLite 2.7.0 稳定版发布",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://developer.android.com/jetpack/androidx/releases/hilt",
-    "title": "Jetpack Hilt 1.4.0 稳定版发布",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://rezaramesh.medium.com/i-read-the-entire-kotlin-2-4-changelog-so-you-dont-have-to-but-you-probably-still-should-667c7e541a1d",
-    "title": "通读 Kotlin 2.4 完整变更日志",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://dev.to/programmingcentral/beyond-nnapi-how-android-aicore-and-gemini-nano-are-revolutionizing-on-device-ai-3hae",
-    "title": "超越 NNAPI：AICore 与 Gemini Nano 如何革新端侧 AI",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://juejin.cn/post/7657098348508921899",
-    "title": "别再把 inline 当性能开关：Kotlin 内联深入",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://developer.android.com/jetpack/androidx/releases/navigation3",
-    "title": "Jetpack Navigation3 1.1.4 稳定版发布",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://dev.to/amekusa03/never-forget-what-you-ordered-building-lunch-memo-with-jetpack-compose-room-and-alarmmanager-1j4j",
-    "title": "用 Compose + Room + AlarmManager 构建「午餐备忘」应用",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://blog.jetbrains.com/kotlin/2026/07/kotlin-comes-to-bluej/",
-    "title": "Kotlin 登陆 BlueJ 教学环境",
-    "date": "2026-07-02"
-  },
-  {
-    "url": "https://medium.com/@nematengg/kotlin-generics-explained-invariance-covariance-out-and-contravariance-in-ba9403912549",
-    "title": "Kotlin 泛型型变详解：不变、协变(out) 与逆变(in)",
-    "date": "2026-07-02"
-  },
-  {
     "url": "https://proandroiddev.com/kotlin-dsl-deep-dive-from-gradle-scripts-to-building-your-own-8e08a1471467",
     "title": "Kotlin DSL 深入：从 Gradle 脚本到自己动手写一个",
     "date": "2026-07-03"
@@ -348,5 +258,55 @@
     "url": "https://juejin.cn/post/7658658597825871908",
     "title": "9. 从老式 Gradle 迁移到 Kotlin DSL",
     "date": "2026-07-08"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/07/android-bench-llm-measurement.html",
+    "title": "1. Android Bench 升级：用 Harbor 框架重测 AI 编码模型",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/07/introducing-the-kotlin-benchmark-evaluate-ai-coding-agents-on-real-world-kotlin-tasks/",
+    "title": "2. JetBrains 发布 Kotlin AI 编码基准",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://proandroiddev.com/reducing-android-jvm-allocations-for-less-memory-pressure-and-faster-logs-9bd988d905de",
+    "title": "3. 削减 Android JVM 内存分配：更小的 GC 压力与更快的日志",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://proandroiddev.com/stop-fighting-your-navigation-library-a-practical-guide-to-jetpack-navigation-3-dd34c70d6300",
+    "title": "4. 别再和导航库较劲：Jetpack Navigation 3 实践指南",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://proandroiddev.com/hand-wired-di-in-kotlin-multiplatform-a-composition-root-instead-of-a-framework-ed995fb21b19",
+    "title": "5. KMP 里的手写依赖注入：用组合根替代 DI 框架",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://proandroiddev.com/kotlin-multiplatform-across-two-repos-what-xcode-actually-sees-7b1d251c9f2b",
+    "title": "6. 跨两个仓库的 KMP：Xcode 到底看到了什么",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://proandroiddev.com/on-device-ai-series-part-2-firebase-ai-logic-42fc49766105",
+    "title": "7. 端侧 AI 系列（二）：Firebase AI Logic",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://dev.to/codenameone/device-integrity-and-app-review-rasp-attestation-and-asking-for-ratings-right-2n1j",
+    "title": "8. 设备完整性与应用评价：RASP、Attestation 与正确的评分请求",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://juejin.cn/post/7660053470331846706",
+    "title": "9. KMP 正式支持 SwiftPM：CocoaPods 迁移配置指南",
+    "date": "2026-07-09"
+  },
+  {
+    "url": "https://juejin.cn/post/7659252393880158217",
+    "title": "10. 多渠道打包与 Gradle 优化：更清晰、更稳定、更快的构建",
+    "date": "2026-07-09"
   }
 ]
