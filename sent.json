@@ -308,5 +308,50 @@
     "url": "https://juejin.cn/post/7659252393880158217",
     "title": "10. 多渠道打包与 Gradle 优化：更清晰、更稳定、更快的构建",
     "date": "2026-07-09"
+  },
+  {
+    "url": "https://proandroiddev.com/four-ways-to-avoid-prop-drilling-in-jetpack-compose-50a64912c0d5",
+    "title": "1. Jetpack Compose 中避免 Prop Drilling 的四种方法",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://juejin.cn/post/7660435816799273006",
+    "title": "2. Android 架构这些年，其实一直在消灭碎片化异步",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://proandroiddev.com/another-way-to-kmp-shared-renderers-0d1b66a733d7",
+    "title": "3. Another Way to KMP：共享渲染器（Shared Renderers）",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://juejin.cn/post/7660185186226962486",
+    "title": "4. 依赖管理进阶：Gradle Version Catalog 实战",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://dev.to/deviceschanger/how-to-set-up-a-reproducible-android-testing-environment-3320",
+    "title": "5. 搭建可复现的 Android 测试环境",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://proandroiddev.com/the-complete-guide-to-android-bench-how-to-choose-the-right-ai-coding-assistant-for-android-e071eb92882a",
+    "title": "6. Android Bench 完整指南：如何为 Android 选对 AI 编码助手",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://dev.to/programmingcentral/from-giants-to-gems-mastering-knowledge-distillation-for-high-performance-android-ai-2ioa",
+    "title": "7. 端侧 AI 进阶：用知识蒸馏（Knowledge Distillation）榨出高性能",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://juejin.cn/post/7660059234998714420",
+    "title": "8. 一文厘清 NDK、SDK、App、Framework、Native 的边界",
+    "date": "2026-07-10"
+  },
+  {
+    "url": "https://juejin.cn/post/7659986983722385446",
+    "title": "9. Android 的「开放」正在被 Google 从里面反锁",
+    "date": "2026-07-10"
   }
 ]
