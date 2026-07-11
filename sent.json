@@ -353,5 +353,40 @@
     "url": "https://juejin.cn/post/7659986983722385446",
     "title": "9. Android 的「开放」正在被 Google 从里面反锁",
     "date": "2026-07-10"
+  },
+  {
+    "url": "https://github.com/google/ksp/releases/tag/2.3.10",
+    "title": "1. KSP 2.3.10 稳定版发布",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://proandroiddev.com/switching-a-million-lines-of-code-from-java-threads-to-kotlin-coroutines-by-rewriting-three-files-6ba428bf8566",
+    "title": "2. 只改三个文件，把百万行代码从 Java 线程迁移到 Kotlin 协程",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://kt.academy/article/compose_understand",
+    "title": "3. 深入理解 Jetpack Compose 的渲染机制",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://dev.to/programmingcentral/breaking-the-abstraction-tax-mastering-custom-c-operations-for-high-performance-edge-ai-on-51g1",
+    "title": "4. 端侧 AI 提速：为 Android 编写自定义 C++ 算子",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://dev.to/haseebthedev0/architecting-a-background-controlled-sound-manager-that-actually-survives-doze-mode-505m",
+    "title": "5. 让后台音频在 Doze 省电模式下依然可靠",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://dev.to/daonwareit/fairtrack-building-an-offline-first-nutrition-tracker-for-android-no-account-no-cloud-no-ads-565",
+    "title": "6. FairTrack：无账号、无云的 offline-first Compose 应用",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://medium.com/kotzilla/going-beyond-firebase-performance-monitoring-for-android-and-kotlin-multiplatform-with-kotzilla-c12bebc0593b",
+    "title": "7. 超越 Firebase：面向 Android/KMP 的性能监控实践",
+    "date": "2026-07-11"
   }
 ]
