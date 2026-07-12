@@ -1,95 +1,5 @@
 [
   {
-    "url": "https://proandroiddev.com/kotlin-dsl-deep-dive-from-gradle-scripts-to-building-your-own-8e08a1471467",
-    "title": "Kotlin DSL 深入：从 Gradle 脚本到自己动手写一个",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://proandroiddev.com/rethinking-the-data-layer-advanced-android-repositories-you-arent-using-0195f87250a1",
-    "title": "重新设计数据层：高级 Repository（隔离式）模式",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://juejin.cn/post/7657831649030586414",
-    "title": "协程时代的 DCL 懒加载：别把线程经验直接搬过来",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://proandroiddev.com/your-android-sdk-just-crashed-in-someone-elses-app-now-what-3586fc9f84af",
-    "title": "你的 Android SDK 在别人 App 里崩了怎么办：crashsink 方案",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://juejin.cn/post/7657811451365228544",
-    "title": "AIDL 调用链路追踪（二）：如何和 Binder 驱动打交道",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://juejin.cn/post/7657809077682815019",
-    "title": "从 Gson 迁移到 kotlinx.serialization",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://juejin.cn/post/7657337985915584531",
-    "title": "告别手动打包：AAB 签名 + ProGuard + CI/CD 自动化实战",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://dev.to/haseebthedev0/architecting-reliable-geofencing-without-draining-the-users-battery-4nb8",
-    "title": "不耗电的可靠地理围栏架构",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://dev.to/programmingcentral/the-secret-to-blazing-fast-on-device-ai-mastering-tflite-delegates-npus-and-the-future-of-414f",
-    "title": "端侧 AI 提速：TFLite Delegate、NPU 与 Android AI",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://proandroiddev.com/the-cooperative-multitasking-trap-why-asynchronous-loops-starve-mobile-runtimes-81c11a66ed7b",
-    "title": "协作式多任务的陷阱：异步循环为何拖垮移动端运行时",
-    "date": "2026-07-03"
-  },
-  {
-    "url": "https://juejin.cn/post/7658072876424544310",
-    "title": "Compose 性能实战：定位冗余重组，榨干每一帧",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://juejin.cn/post/7658163848707112998",
-    "title": "Room 3.0 包名重构 + KMP 迁移踩坑实录",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://juejin.cn/post/7657495908851367987",
-    "title": "大型旧 XML 项目迁移 Jetpack Compose 的可行性评估",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://juejin.cn/post/7657433456432513065",
-    "title": "避坑：升级 AGP 8.0+ 导致第三方 SDK 编译崩溃",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://juejin.cn/post/7657455817264562228",
-    "title": "动画即状态：Compose 动画系统如何终结 XML 时代的繁琐",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://dev.to/programmingcentral/beyond-the-tflite-file-mastering-high-performance-edge-ai-with-mediapipe-tasks-and-aicore-44e",
-    "title": "端侧 AI 进阶：用 MediaPipe Tasks + AICore 榨干硬件推理",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://minikotlin.run/",
-    "title": "MiniKotlin：在浏览器里从零跑起来的 Kotlin 编译器",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://rootme.nebusec.ai/",
-    "title": "从 Firefox 到 Android Root：一条完整提权链复盘",
-    "date": "2026-07-04"
-  },
-  {
     "url": "https://dev.to/roderick_ingle_f950208426/understanding-android-17-audio-hardening-a-new-era-of-background-audio-control-hh2",
     "title": "1. Android 17 收紧后台音频管控（Audio Hardening）",
     "date": "2026-07-05"
@@ -388,5 +298,45 @@
     "url": "https://medium.com/kotzilla/going-beyond-firebase-performance-monitoring-for-android-and-kotlin-multiplatform-with-kotzilla-c12bebc0593b",
     "title": "7. 超越 Firebase：面向 Android/KMP 的性能监控实践",
     "date": "2026-07-11"
+  },
+  {
+    "url": "https://proandroiddev.com/magical-book-of-compose-performance-defer-state-reads-f15486bee807",
+    "title": "1. Compose 性能：善用「延迟状态读取」减少重组",
+    "date": "2026-07-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7660771080018444351",
+    "title": "2. 深入 Compose 重组内核：Slot Table 与 Gap Buffer",
+    "date": "2026-07-12"
+  },
+  {
+    "url": "https://proandroiddev.com/mirage-cloudy-grows-from-a-blur-library-into-a-graphics-effect-library-3b8eaf9cc7ca",
+    "title": "3. Mirage：模糊库 Cloudy 进化为跨平台 GPU 特效库",
+    "date": "2026-07-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7660850473310371903",
+    "title": "4. 实战：用 KMP + Compose Multiplatform 构建三端应用",
+    "date": "2026-07-12"
+  },
+  {
+    "url": "https://proandroiddev.com/stop-using-lateinit-make-it-nullable-instead-b6bc67db1f58",
+    "title": "5. 别再用 lateinit，改用可空类型",
+    "date": "2026-07-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7660771080019525695",
+    "title": "6. Handler 系列（二）：MessageQueue 为什么不是普通队列",
+    "date": "2026-07-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7661085673139224603",
+    "title": "7. 新版 Android Studio Logcat 过滤语法要点",
+    "date": "2026-07-12"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/07/kotlin-comes-to-bluej/",
+    "title": "8. Kotlin 正式登陆 BlueJ 6.0",
+    "date": "2026-07-12"
   }
 ]
