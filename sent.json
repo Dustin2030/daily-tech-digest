@@ -1,90 +1,5 @@
 [
   {
-    "url": "https://dev.to/roderick_ingle_f950208426/understanding-android-17-audio-hardening-a-new-era-of-background-audio-control-hh2",
-    "title": "1. Android 17 收紧后台音频管控（Audio Hardening）",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://juejin.cn/post/7658251444873199635",
-    "title": "2. Compose Multiplatform 揭秘：一套代码如何覆盖四大平台",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://juejin.cn/post/7658171932031238185",
-    "title": "3. 兼容与共生：如何在旧项目中优雅地引入 Compose",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://dev.to/onlyashd/protocol-buffers-for-server-driven-ui-a-practical-guide-3hdl",
-    "title": "4. 用 Protocol Buffers 做服务端驱动 UI（SDUI）实战",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://dev.to/kotools/whats-new-in-kotools-types-520-2h45",
-    "title": "5. Kotools Types 5.2.0 稳定版发布",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://dev.to/isaias_velasquez_d2261770/how-to-deal-with-empty-lists-that-defaults-to-null-in-jackson-and-kotlin-5ai3",
-    "title": "6. Kotlin + Jackson：处理反序列化为 null 的空列表",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://dev.to/jdshah/what-on-device-ai-benchmarks-actually-feel-like-1afm",
-    "title": "7. 端侧 AI 基准测试的「真实体感」",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://mailchi.mp/kotlinweekly/kotlin-weekly-518",
-    "title": "1. Kotlin Weekly #518 发布",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://androidweekly.net/issues/issue-734",
-    "title": "2. Android Weekly #734 发布",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://developer.android.com/jetpack/androidx/releases/compose-foundation",
-    "title": "3. Jetpack Compose 1.11.4 稳定版发布",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://juejin.cn/post/7658250650539032612",
-    "title": "4. Coil 图片库源码详解",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://juejin.cn/post/7658567805047668777",
-    "title": "5. KMP 跨平台资源管理：一套代码搞定三端图片与多语言",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://juejin.cn/post/7658922842857029678",
-    "title": "6. 协程线程膨胀：8 个异步任务为何让线程数翻倍",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://edwardharker.com/2026/07/01/how-screenshot-detection-works-on-android/",
-    "title": "7. Android 截屏检测的实现原理",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://juejin.cn/post/7658107153196023823",
-    "title": "8. R8 时代的混淆字典：11 套字典实测对比",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://blog.insert-koin.io/how-to-use-koin-compiler-in-a-multimodule-project-6bd8e57d5e4b",
-    "title": "9. 多模块项目中如何使用 Koin Compiler",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://juejin.cn/post/7658236946784665606",
-    "title": "10. Jetpack ViewModel 底层原理",
-    "date": "2026-07-06"
-  },
-  {
     "url": "https://juejin.cn/post/7658958553416859658",
     "title": "1. Kuikly 是什么？它和 KMP 是什么关系",
     "date": "2026-07-07"
@@ -338,5 +253,50 @@
     "url": "https://blog.jetbrains.com/kotlin/2026/07/kotlin-comes-to-bluej/",
     "title": "8. Kotlin 正式登陆 BlueJ 6.0",
     "date": "2026-07-12"
+  },
+  {
+    "url": "https://androidweekly.net/issues/issue-735",
+    "title": "1. Android Weekly #735 发布",
+    "date": "2026-07-13"
+  },
+  {
+    "url": "https://mailchi.mp/kotlinweekly/kotlin-weekly-519",
+    "title": "2. Kotlin Weekly #519 发布",
+    "date": "2026-07-13"
+  },
+  {
+    "url": "https://blog.shreyaspatil.dev/inside-subcomposelayout-jetpack-composes-most-misunderstood-api/",
+    "title": "3. 深入 SubcomposeLayout：Compose 最被误解的 API",
+    "date": "2026-07-13"
+  },
+  {
+    "url": "https://doveletter.dev/articles/compose-effect-handlers-internals",
+    "title": "4. 深入 Compose 副作用：RememberObserver 与组合生命周期",
+    "date": "2026-07-13"
+  },
+  {
+    "url": "https://victorbrandalise.com/navigation-3-in-jetpack-compose-the-back-stack-is-just-state/",
+    "title": "5. Navigation 3：回退栈本质就是状态",
+    "date": "2026-07-13"
+  },
+  {
+    "url": "https://medium.com/@kmpbits/the-same-system-advanced-expect-actual-in-kmp-kmp-bits-353f3a592f39",
+    "title": "6. The Same System：KMP 中进阶的 expect/actual",
+    "date": "2026-07-13"
+  },
+  {
+    "url": "https://joebirch.co/android/practical-kotlin-multiplatform-setting-up-the-kotlin-multiplatform-networking-module-with-ktor/",
+    "title": "7. 实战 KMP：用 Ktor 搭建跨平台网络模块",
+    "date": "2026-07-13"
+  },
+  {
+    "url": "https://proandroiddev.com/the-complete-guide-to-android-cli-a-faster-way-to-build-debug-and-automate-android-apps-d23b8311b41a",
+    "title": "8. Android CLI 完全指南",
+    "date": "2026-07-13"
+  },
+  {
+    "url": "https://medium.com/@vikasacsoni9211/beyond-crash-free-app-the-senior-engineers-guide-to-memory-health-c27d76626247",
+    "title": "9. 超越「无崩溃」：资深工程师的内存健康指南",
+    "date": "2026-07-13"
   }
 ]
