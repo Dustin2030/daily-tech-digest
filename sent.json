@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://juejin.cn/post/7658958553416859658",
-    "title": "1. Kuikly 是什么？它和 KMP 是什么关系",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://medium.com/@krasi.karamazov/kotlin-multiplatform-ai-pipeline-a-reality-21b77c6c5a75",
-    "title": "2. 用 KMP 搭一条带编译门禁的 AI 辅助开发流水线",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://juejin.cn/post/7659234687549915190",
-    "title": "3. 基于 KMP 的跨平台弱网离线同步引擎 Syncox 开源",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://juejin.cn/post/7659327186160042011",
-    "title": "4. Jetpack Compose Styles API 进阶",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://dev.to/maanyahomecarespec/lost-or-corrupted-android-keystore-heres-what-to-actually-do-41ga",
-    "title": "5. Android 签名密钥丢失/损坏后到底该怎么办",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://dev.to/itsaalaa7/gson-silent-bug-that-never-said-a-wordinterview-prep-2818",
-    "title": "6. Gson 在 Kotlin 下的「静默坑」与空安全隐患",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://dev.to/programmingcentral/stop-killing-your-battery-the-ultimate-guide-to-android-edge-ai-quantization-int8-vs-fp16-121k",
-    "title": "7. 端侧 AI 量化实战：INT8 与 FP16 如何取舍",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://juejin.cn/post/7658603691033624582",
-    "title": "8. Flutter 3.44+ 插件的 KGP 双向兼容适配指南",
-    "date": "2026-07-07"
-  },
-  {
     "url": "https://proandroiddev.com/how-i-found-a-deadlock-inside-art-that-art-itself-couldnt-dump-ff7b33b0334a",
     "title": "1. ART 内部死锁排查：连虚拟机自己都 dump 不出来",
     "date": "2026-07-08"
@@ -298,5 +258,45 @@
     "url": "https://medium.com/@vikasacsoni9211/beyond-crash-free-app-the-senior-engineers-guide-to-memory-health-c27d76626247",
     "title": "9. 超越「无崩溃」：资深工程师的内存健康指南",
     "date": "2026-07-13"
+  },
+  {
+    "url": "https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6",
+    "title": "1. 七条 Claude Code 命令搭建 Android+iOS KMP 应用",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://dev.to/jacksonwood11/kotlin-multiplatform-in-production-what-i-wish-someone-told-me-before-we-migrated-2phc",
+    "title": "2. KMP 上生产的迁移复盘",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://www.reddit.com/r/Kotlin/comments/1uvit81/kotlinlibmcp_an_mcp_server_that_lets_ai/",
+    "title": "3. kotlin-lib-mcp：让 AI 读取 Maven 库源码/API/KDoc",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://www.reddit.com/r/androiddev/comments/1uuom29/exploiting_packageinstaller_parsing_a_974byte/",
+    "title": "4. 974 字节 PoC 打穿 Android 14 PackageInstaller",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://dev.to/tu_codigocotidiano_f173d/how-to-build-a-smart-android-compass-with-kotlin-jetpack-compose-and-sensor-fusion-551k",
+    "title": "5. Kotlin+Compose+传感器融合实现指南针",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://dev.to/haseebthedev0/battery-friendly-geofencing-lessons-from-building-muffle-omf",
+    "title": "6. 省电的地理围栏实战经验",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://www.reddit.com/r/Kotlin/comments/1uvdn13/everyone_recommends_connectrpc_for_endtoend/",
+    "title": "7. ConnectRPC 在 Kotlin↔TS 的取舍讨论",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/07/in-conversation-with-the-golden-kodee-winners/",
+    "title": "8. 对话首届 Golden Kodee 社区奖得主",
+    "date": "2026-07-14"
   }
 ]
