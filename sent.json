@@ -1,302 +1,47 @@
 [
   {
-    "url": "https://proandroiddev.com/how-i-found-a-deadlock-inside-art-that-art-itself-couldnt-dump-ff7b33b0334a",
-    "title": "1. ART 内部死锁排查：连虚拟机自己都 dump 不出来",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://proandroiddev.com/the-android-crash-that-only-happened-on-certain-phones-16ce2effe84e",
-    "title": "2. 只在部分机型崩溃：华为设备与 downloadable fonts",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://juejin.cn/post/7659618815766872083",
-    "title": "3. Framework 补完计划(2)：BufferQueue 与 SurfaceFlinger",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://proandroiddev.com/broadcastreceiver-security-7-mistakes-every-android-developer-should-avoid-7eeb8439b986",
-    "title": "4. BroadcastReceiver 安全：该避开的 7 个错误",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://proandroiddev.com/keep-ui-only-logic-in-the-ui-with-snapshotflow-4efe34063f03",
-    "title": "5. 用 snapshotFlow 把纯 UI 逻辑留在 UI 层",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://juejin.cn/post/7659252393879896073",
-    "title": "6. Kotlin 协程 delay 到底发生在哪个线程",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://juejin.cn/post/7659225944679661606",
-    "title": "7. Jetpack Compose 副作用处理系统梳理",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://juejin.cn/post/7659588407207575579",
-    "title": "8. edge-to-edge 软键盘与自定义面板协同 KeyboardPanelBox",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://juejin.cn/post/7658658597825871908",
-    "title": "9. 从老式 Gradle 迁移到 Kotlin DSL",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://android-developers.googleblog.com/2026/07/android-bench-llm-measurement.html",
-    "title": "1. Android Bench 升级：用 Harbor 框架重测 AI 编码模型",
-    "date": "2026-07-09"
+    "url": "https://android-developers.googleblog.com/2026/07/how-r8-made-kotlin-coroutines-2x-faster.html",
+    "title": "1. R8 让 Android 上的 Kotlin 协程快了 2 倍",
+    "date": "2026-07-29"
   },
   {
     "url": "https://blog.jetbrains.com/kotlin/2026/07/introducing-the-kotlin-benchmark-evaluate-ai-coding-agents-on-real-world-kotlin-tasks/",
-    "title": "2. JetBrains 发布 Kotlin AI 编码基准",
-    "date": "2026-07-09"
+    "title": "2. JetBrains 发布 Kotlin Benchmark：评测 AI 编码代理",
+    "date": "2026-07-29"
   },
   {
-    "url": "https://proandroiddev.com/reducing-android-jvm-allocations-for-less-memory-pressure-and-faster-logs-9bd988d905de",
-    "title": "3. 削减 Android JVM 内存分配：更小的 GC 压力与更快的日志",
-    "date": "2026-07-09"
+    "url": "https://medium.com/@sharmaricha7724/understanding-retain-a-new-way-to-retain-state-in-jetpack-compose-5542962e56fa",
+    "title": "3. Jetpack Compose 新 retain API：更贴近 UI 层的状态保留",
+    "date": "2026-07-29"
   },
   {
-    "url": "https://proandroiddev.com/stop-fighting-your-navigation-library-a-practical-guide-to-jetpack-navigation-3-dd34c70d6300",
-    "title": "4. 别再和导航库较劲：Jetpack Navigation 3 实践指南",
-    "date": "2026-07-09"
+    "url": "https://www.youtube.com/watch?v=6g2mjgljn7M",
+    "title": "4. Navigation 3 深入：NavDisplay 与自定义导航",
+    "date": "2026-07-29"
   },
   {
-    "url": "https://proandroiddev.com/hand-wired-di-in-kotlin-multiplatform-a-composition-root-instead-of-a-framework-ed995fb21b19",
-    "title": "5. KMP 里的手写依赖注入：用组合根替代 DI 框架",
-    "date": "2026-07-09"
+    "url": "https://joebirch.co/android/practical-kotlin-multiplatform-creating-the-firebase-auth-remote-store-with-ktor/",
+    "title": "5. KMP 实战：用 Ktor 构建 Firebase Auth 远程存储",
+    "date": "2026-07-29"
   },
   {
-    "url": "https://proandroiddev.com/kotlin-multiplatform-across-two-repos-what-xcode-actually-sees-7b1d251c9f2b",
-    "title": "6. 跨两个仓库的 KMP：Xcode 到底看到了什么",
-    "date": "2026-07-09"
+    "url": "https://medium.com/@shivathapaa/we-called-our-app-multiplatform-848-lines-actually-were-01d95643cb3f",
+    "title": "6. “我们号称跨平台，实际只有 848 行是”",
+    "date": "2026-07-29"
   },
   {
-    "url": "https://proandroiddev.com/on-device-ai-series-part-2-firebase-ai-logic-42fc49766105",
-    "title": "7. 端侧 AI 系列（二）：Firebase AI Logic",
-    "date": "2026-07-09"
+    "url": "https://medium.com/proandroiddev/kotlin-architecture-tests-what-they-are-and-why-they-matter-389ce9a1204c",
+    "title": "7. Kotlin 架构测试：是什么、为什么重要",
+    "date": "2026-07-29"
   },
   {
-    "url": "https://dev.to/codenameone/device-integrity-and-app-review-rasp-attestation-and-asking-for-ratings-right-2n1j",
-    "title": "8. 设备完整性与应用评价：RASP、Attestation 与正确的评分请求",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://juejin.cn/post/7660053470331846706",
-    "title": "9. KMP 正式支持 SwiftPM：CocoaPods 迁移配置指南",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://juejin.cn/post/7659252393880158217",
-    "title": "10. 多渠道打包与 Gradle 优化：更清晰、更稳定、更快的构建",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://proandroiddev.com/four-ways-to-avoid-prop-drilling-in-jetpack-compose-50a64912c0d5",
-    "title": "1. Jetpack Compose 中避免 Prop Drilling 的四种方法",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://juejin.cn/post/7660435816799273006",
-    "title": "2. Android 架构这些年，其实一直在消灭碎片化异步",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://proandroiddev.com/another-way-to-kmp-shared-renderers-0d1b66a733d7",
-    "title": "3. Another Way to KMP：共享渲染器（Shared Renderers）",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://juejin.cn/post/7660185186226962486",
-    "title": "4. 依赖管理进阶：Gradle Version Catalog 实战",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://dev.to/deviceschanger/how-to-set-up-a-reproducible-android-testing-environment-3320",
-    "title": "5. 搭建可复现的 Android 测试环境",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://proandroiddev.com/the-complete-guide-to-android-bench-how-to-choose-the-right-ai-coding-assistant-for-android-e071eb92882a",
-    "title": "6. Android Bench 完整指南：如何为 Android 选对 AI 编码助手",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://dev.to/programmingcentral/from-giants-to-gems-mastering-knowledge-distillation-for-high-performance-android-ai-2ioa",
-    "title": "7. 端侧 AI 进阶：用知识蒸馏（Knowledge Distillation）榨出高性能",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://juejin.cn/post/7660059234998714420",
-    "title": "8. 一文厘清 NDK、SDK、App、Framework、Native 的边界",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://juejin.cn/post/7659986983722385446",
-    "title": "9. Android 的「开放」正在被 Google 从里面反锁",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://github.com/google/ksp/releases/tag/2.3.10",
-    "title": "1. KSP 2.3.10 稳定版发布",
-    "date": "2026-07-11"
-  },
-  {
-    "url": "https://proandroiddev.com/switching-a-million-lines-of-code-from-java-threads-to-kotlin-coroutines-by-rewriting-three-files-6ba428bf8566",
-    "title": "2. 只改三个文件，把百万行代码从 Java 线程迁移到 Kotlin 协程",
-    "date": "2026-07-11"
-  },
-  {
-    "url": "https://kt.academy/article/compose_understand",
-    "title": "3. 深入理解 Jetpack Compose 的渲染机制",
-    "date": "2026-07-11"
-  },
-  {
-    "url": "https://dev.to/programmingcentral/breaking-the-abstraction-tax-mastering-custom-c-operations-for-high-performance-edge-ai-on-51g1",
-    "title": "4. 端侧 AI 提速：为 Android 编写自定义 C++ 算子",
-    "date": "2026-07-11"
-  },
-  {
-    "url": "https://dev.to/haseebthedev0/architecting-a-background-controlled-sound-manager-that-actually-survives-doze-mode-505m",
-    "title": "5. 让后台音频在 Doze 省电模式下依然可靠",
-    "date": "2026-07-11"
-  },
-  {
-    "url": "https://dev.to/daonwareit/fairtrack-building-an-offline-first-nutrition-tracker-for-android-no-account-no-cloud-no-ads-565",
-    "title": "6. FairTrack：无账号、无云的 offline-first Compose 应用",
-    "date": "2026-07-11"
-  },
-  {
-    "url": "https://medium.com/kotzilla/going-beyond-firebase-performance-monitoring-for-android-and-kotlin-multiplatform-with-kotzilla-c12bebc0593b",
-    "title": "7. 超越 Firebase：面向 Android/KMP 的性能监控实践",
-    "date": "2026-07-11"
-  },
-  {
-    "url": "https://proandroiddev.com/magical-book-of-compose-performance-defer-state-reads-f15486bee807",
-    "title": "1. Compose 性能：善用「延迟状态读取」减少重组",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://juejin.cn/post/7660771080018444351",
-    "title": "2. 深入 Compose 重组内核：Slot Table 与 Gap Buffer",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://proandroiddev.com/mirage-cloudy-grows-from-a-blur-library-into-a-graphics-effect-library-3b8eaf9cc7ca",
-    "title": "3. Mirage：模糊库 Cloudy 进化为跨平台 GPU 特效库",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://juejin.cn/post/7660850473310371903",
-    "title": "4. 实战：用 KMP + Compose Multiplatform 构建三端应用",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://proandroiddev.com/stop-using-lateinit-make-it-nullable-instead-b6bc67db1f58",
-    "title": "5. 别再用 lateinit，改用可空类型",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://juejin.cn/post/7660771080019525695",
-    "title": "6. Handler 系列（二）：MessageQueue 为什么不是普通队列",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://juejin.cn/post/7661085673139224603",
-    "title": "7. 新版 Android Studio Logcat 过滤语法要点",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://blog.jetbrains.com/kotlin/2026/07/kotlin-comes-to-bluej/",
-    "title": "8. Kotlin 正式登陆 BlueJ 6.0",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://androidweekly.net/issues/issue-735",
-    "title": "1. Android Weekly #735 发布",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://mailchi.mp/kotlinweekly/kotlin-weekly-519",
-    "title": "2. Kotlin Weekly #519 发布",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://blog.shreyaspatil.dev/inside-subcomposelayout-jetpack-composes-most-misunderstood-api/",
-    "title": "3. 深入 SubcomposeLayout：Compose 最被误解的 API",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://doveletter.dev/articles/compose-effect-handlers-internals",
-    "title": "4. 深入 Compose 副作用：RememberObserver 与组合生命周期",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://victorbrandalise.com/navigation-3-in-jetpack-compose-the-back-stack-is-just-state/",
-    "title": "5. Navigation 3：回退栈本质就是状态",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://medium.com/@kmpbits/the-same-system-advanced-expect-actual-in-kmp-kmp-bits-353f3a592f39",
-    "title": "6. The Same System：KMP 中进阶的 expect/actual",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://joebirch.co/android/practical-kotlin-multiplatform-setting-up-the-kotlin-multiplatform-networking-module-with-ktor/",
-    "title": "7. 实战 KMP：用 Ktor 搭建跨平台网络模块",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://proandroiddev.com/the-complete-guide-to-android-cli-a-faster-way-to-build-debug-and-automate-android-apps-d23b8311b41a",
-    "title": "8. Android CLI 完全指南",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://medium.com/@vikasacsoni9211/beyond-crash-free-app-the-senior-engineers-guide-to-memory-health-c27d76626247",
-    "title": "9. 超越「无崩溃」：资深工程师的内存健康指南",
-    "date": "2026-07-13"
+    "url": "https://blog.droidchef.dev/verification-is-the-next-bottleneck/",
+    "title": "8. 观点：验证正在成为下一个瓶颈",
+    "date": "2026-07-29"
   },
   {
     "url": "https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6",
-    "title": "1. 七条 Claude Code 命令搭建 Android+iOS KMP 应用",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://dev.to/jacksonwood11/kotlin-multiplatform-in-production-what-i-wish-someone-told-me-before-we-migrated-2phc",
-    "title": "2. KMP 上生产的迁移复盘",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://www.reddit.com/r/Kotlin/comments/1uvit81/kotlinlibmcp_an_mcp_server_that_lets_ai/",
-    "title": "3. kotlin-lib-mcp：让 AI 读取 Maven 库源码/API/KDoc",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://www.reddit.com/r/androiddev/comments/1uuom29/exploiting_packageinstaller_parsing_a_974byte/",
-    "title": "4. 974 字节 PoC 打穿 Android 14 PackageInstaller",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://dev.to/tu_codigocotidiano_f173d/how-to-build-a-smart-android-compass-with-kotlin-jetpack-compose-and-sensor-fusion-551k",
-    "title": "5. Kotlin+Compose+传感器融合实现指南针",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://dev.to/haseebthedev0/battery-friendly-geofencing-lessons-from-building-muffle-omf",
-    "title": "6. 省电的地理围栏实战经验",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://www.reddit.com/r/Kotlin/comments/1uvdn13/everyone_recommends_connectrpc_for_endtoend/",
-    "title": "7. ConnectRPC 在 Kotlin↔TS 的取舍讨论",
-    "date": "2026-07-14"
-  },
-  {
-    "url": "https://blog.jetbrains.com/kotlin/2026/07/in-conversation-with-the-golden-kodee-winners/",
-    "title": "8. 对话首届 Golden Kodee 社区奖得主",
-    "date": "2026-07-14"
+    "title": "9. 七条 Claude Code 命令生成一个 KMP 应用（KMPilot）",
+    "date": "2026-07-29"
   }
 ]
