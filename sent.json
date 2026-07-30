@@ -43,5 +43,45 @@
     "url": "https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6",
     "title": "9. 七条 Claude Code 命令生成一个 KMP 应用（KMPilot）",
     "date": "2026-07-29"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/07/five-years-of-jetpack-compose.html",
+    "title": "1. Jetpack Compose 五周年：Google 全面转向 Compose-first",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+    "title": "2. Google Play 推出 Age Signals API 并开始全球扩展",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/07/kotlin-turns-15-celebrate-the-kotlin-effect/",
+    "title": "3. Kotlin 迎来 15 周年",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://blog.jetbrains.com/research/2026/07/kotlinllm-open-source/",
+    "title": "4. JetBrains 开源 KotlinLLM：把 LLM 生成代码变成可审查源码",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/constraintlayout",
+    "title": "5. AndroidX ConstraintLayout 2.2.2 稳定版发布",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://proandroiddev.com/teaching-a-kotlin-chess-engine-to-debug-itself-c31696282c86",
+    "title": "6. 让 Kotlin 国际象棋引擎自我调试：双 oracle + 智能体的验证式开发",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://touchlab.co/droidcon-us-2026",
+    "title": "7. Touchlab 的 Droidcon US 2026 演讲精选",
+    "date": "2026-07-30"
+  },
+  {
+    "url": "https://msfjarvis.dev/posts/rewriting-claw-html-parser-for-over-the-air-updates/",
+    "title": "8. 为 OTA 更新重写 Claw 的 HTML 解析器：Kotlin/JS + Zipline 实战",
+    "date": "2026-07-30"
   }
 ]
