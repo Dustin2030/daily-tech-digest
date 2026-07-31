@@ -83,5 +83,45 @@
     "url": "https://msfjarvis.dev/posts/rewriting-claw-html-parser-for-over-the-air-updates/",
     "title": "8. 为 OTA 更新重写 Claw 的 HTML 解析器：Kotlin/JS + Zipline 实战",
     "date": "2026-07-30"
+  },
+  {
+    "url": "https://commonsware.com/blog/2026/07/22/goodbye-cwjson-hello-kpointer.html",
+    "title": "1. kPointer 发布：cw-json 的继任者，支持多格式指针取值",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://touchlab.co/adding-web-target-to-droidcon",
+    "title": "2. 为 DroidconKotlin 增加 Web 目标：CMP 上 Web 的真实踩坑",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://dev.to/tkuenneth/appfunctions-revisited-4n90",
+    "title": "3. AppFunctions 架构变更：应用需自己托管 AppFunctionService",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://medium.com/@kmpbits/change-the-map-feature-flags-and-remote-config-in-kotlin-multiplatform-kmp-bits-44537b1cce8e",
+    "title": "4. KMP 中的特性开关与远程配置",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://newsletter.androidlead.com/p/ui-state-restoration",
+    "title": "5. 状态恢复新姿势：用 isStateRestored 避免覆盖已恢复状态",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://dev.to/aoreshkov/generate-a-production-grade-kotlin-multiplatform-app-compose-room-3-navigation-3-koin-in-one-n6m",
+    "title": "6. 一次对话生成生产级 KMP 应用（Compose + Room 3 + Nav 3 + Koin）",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://levelup.gitconnected.com/how-one-missing-return-cut-my-android-test-runtime-by-72-74ab4ccd5aa7",
+    "title": "7. 一个漏写的 return，让 Android 测试运行时间降低 72%",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YeQijxpnI3E",
+    "title": "8. Kotlin 中的值语义：拥抱 Value Semantics",
+    "date": "2026-07-31"
   }
 ]
