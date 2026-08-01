@@ -123,5 +123,40 @@
     "url": "https://www.youtube.com/watch?v=YeQijxpnI3E",
     "title": "8. Kotlin 中的值语义：拥抱 Value Semantics",
     "date": "2026-07-31"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/07/know-kotlin-ship-it-everywhere-and-win-at-shipaton-2026/",
+    "title": "1. Shipaton 2026 开赛：JetBrains 设「Ship Kotlin Everywhere」奖",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/07/secure-your-apis-oauth2-and-jwt-for-beginners/",
+    "title": "2. Kotlin 官方教程：用 OAuth2 + JWT 保护你的 API",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://github.com/mokshablr/gander",
+    "title": "3. Gander：零权限的 Android 文件查看器",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://kunal26das.github.io/blog/multidex-kotlin-multiplatform/",
+    "title": "4. Multidex：一套 Kotlin 代码打通 Android/iOS/桌面",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://dev.to/deviceschanger/android-testing-on-device-when-real-device-testing-matters-more-than-emulators-2m0",
+    "title": "5. 真机测试到底什么时候不可替代？",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://medium.com/@anandwana/the-complete-guide-to-getting-started-with-android-xr-development-65bb057ec1b1",
+    "title": "6. Android XR 开发入门完整指南",
+    "date": "2026-08-01"
+  },
+  {
+    "url": "https://cheat-sheet.kt.academy/",
+    "title": "7. Kotlin 协程速查表（免费 PDF）",
+    "date": "2026-08-01"
   }
 ]
