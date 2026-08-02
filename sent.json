@@ -158,5 +158,45 @@
     "url": "https://cheat-sheet.kt.academy/",
     "title": "7. Kotlin 协程速查表（免费 PDF）",
     "date": "2026-08-01"
+  },
+  {
+    "url": "https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/",
+    "title": "1. 欧盟裁决迫使 Google 向第三方开放 11 项 Android 能力",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://lostmon.blogspot.com/2026/07/resilience-gaps-in-android-ipc.html",
+    "title": "2. 白皮书揭示 Android IPC/SavedState/文本布局架构级稳定性缺陷（STA）",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://dev.to/superfunicular/how-an-android-phone-serves-its-own-live-camera-feed-over-your-lan-an-embedded-ktor-server-30n9",
+    "title": "3. 用内嵌 Ktor 服务器把 Android 手机变成局域网摄像头直播源",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://dev.to/kotools/kotools-types-520-why-integer-no-longer-stores-its-value-as-a-string-nd3",
+    "title": "4. Kotools Types 5.2.0：Integer 底层不再用字符串存值",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://juejin.cn/post/7668479808846135346",
+    "title": "5. Android ANR 定位与治理：从主线程阻塞到线上证据闭环",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://juejin.cn/post/7668188177706532891",
+    "title": "6. Android 冷启动治理：Macrobenchmark + Baseline Profile",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://juejin.cn/post/7667873177859047470",
+    "title": "7. 源码解析：Retrofit 的 suspend 函数是怎么实现的",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://juejin.cn/post/7667493267350781961",
+    "title": "8. Room 并发写入与事务一致性：从数据竞争到可靠落地",
+    "date": "2026-08-02"
   }
 ]
