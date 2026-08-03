@@ -198,5 +198,50 @@
     "url": "https://juejin.cn/post/7667493267350781961",
     "title": "8. Room 并发写入与事务一致性：从数据竞争到可靠落地",
     "date": "2026-08-02"
+  },
+  {
+    "url": "https://proandroiddev.com/magical-book-of-compose-performance-defer-state-reads-f15486bee807",
+    "title": "1. Compose 性能：延迟状态读取（Defer State Reads）",
+    "date": "2026-08-03"
+  },
+  {
+    "url": "https://touchlab.co/the-one-liner-that-was-eating-our-memory",
+    "title": "2. Touchlab：一行代码吃掉了我们的内存",
+    "date": "2026-08-03"
+  },
+  {
+    "url": "https://hotswan.dev/blog/compose-multiplatform-desktop-hot-reload",
+    "title": "3. HotSwan 2.0：一次保存同时热重载 Android 与桌面",
+    "date": "2026-08-03"
+  },
+  {
+    "url": "https://medium.com/@kmpbits/fuel-strategy-paging-in-compose-multiplatform-kmp-bits-c238a239219d",
+    "title": "4. Fuel Strategy：在 Compose Multiplatform 中做分页",
+    "date": "2026-08-03"
+  },
+  {
+    "url": "https://medium.com/proandroiddev/yet-another-way-to-kmp-one-pattern-three-seams-8435459b8d88",
+    "title": "5. Yet Another Way to KMP：一种模式、三处接缝",
+    "date": "2026-08-03"
+  },
+  {
+    "url": "https://johnoreilly.dev/posts/fpl-koog-structured-output/",
+    "title": "6. 给 FantasyPremierLeague 接入 Koog AI 助手（结构化输出）",
+    "date": "2026-08-03"
+  },
+  {
+    "url": "https://medium.com/@Y4583L/why-we-chose-kmp-over-react-native-its-an-architecture-bet-not-a-framework-preference-e9ad0a7dffd5",
+    "title": "7. 为什么选 KMP 而不是 React Native",
+    "date": "2026-08-03"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/room3",
+    "title": "8. AndroidX Room 3.0.1 稳定版发布",
+    "date": "2026-08-03"
+  },
+  {
+    "url": "https://juejin.cn/post/7669257737558294571",
+    "title": "9. 掘金：Android 一帧完整渲染流程 VSYNC 到 Screen",
+    "date": "2026-08-03"
   }
 ]
