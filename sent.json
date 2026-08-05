@@ -288,5 +288,45 @@
     "url": "https://juejin.cn/post/7669387448518819890",
     "title": "9. 掘金：Views、Flutter 与 Compose 渲染路径对比",
     "date": "2026-08-04"
+  },
+  {
+    "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
+    "title": "1. IntelliJ IDEA 推出 LSP：Java/Kotlin 智能进入 VS Code、Cursor",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://github.com/ktorio/ktor/releases/tag/3.5.2",
+    "title": "2. Ktor 3.5.2 稳定版发布",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://juejin.cn/post/7670055643345453110",
+    "title": "3. Jetpack Compose 状态管理与副作用处理：核心原理与工程实践",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://dev.to/haseebthedev0/maintaining-foreground-services-in-the-era-of-android-doze-mode-1ka9",
+    "title": "4. Doze 模式时代如何维持前台服务存活",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://juejin.cn/post/7669028793605259274",
+    "title": "5. 用一次朋友圈发布流程理解 Kotlin 协程",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://dev.to/phoneoperatorapp/designing-reliable-no-root-android-tap-and-swipe-automation-1bdn",
+    "title": "6. 设计可靠的免 Root Android 点击与滑动自动化",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://dev.to/haseebthedev0/implementing-geofencing-for-android-lessons-from-muffle-2366",
+    "title": "7. 为 Android 实现地理围栏：来自 Muffle 的经验",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://juejin.cn/post/7669743766019571764",
+    "title": "8. ComposeCraftLab：用 Compose 挑战交互与动效天花板",
+    "date": "2026-08-05"
   }
 ]
