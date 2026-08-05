@@ -73,5 +73,25 @@
     "url": "https://www.windowslatest.com/2026/08/04/microsoft-teams-is-fighting-ai-deepfake-meetings-with-a-new-report-button-rolling-out-august-2026/",
     "title": "Microsoft Teams上线会议内举报按钮",
     "date": "2026-08-04"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
+    "title": "Claude Code v2.1.222修复worktree隔离逃逸漏洞",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikzeam4670749.shtml",
+    "title": "阿里\"千问办公\"开启公测,整合QoderWork、悟空、MuleRun三大Agent产品",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user",
+    "title": "Telegram遭苹果App Store短暂下架后恢复,杜罗夫指控\"敲诈勒索\"",
+    "date": "2026-08-05"
+  },
+  {
+    "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-05/doc-inimffsv4834138.shtml",
+    "title": "宇树科技启动科创板IPO询价,冲刺\"人形机器人第一股\"",
+    "date": "2026-08-05"
   }
 ]
