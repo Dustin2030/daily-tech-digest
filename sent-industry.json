@@ -93,5 +93,25 @@
     "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-05/doc-inimffsv4834138.shtml",
     "title": "宇树科技启动科创板IPO询价,冲刺\"人形机器人第一股\"",
     "date": "2026-08-05"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
+    "title": "Claude Opus 4.1在Claude API正式退役",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://github.com/openai/codex/releases",
+    "title": "OpenAI Codex CLI发布v0.146.1,收紧安全默认设置",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://about.fb.com/news/2026/08/were-upgrading-your-whatsapp-group-chats/",
+    "title": "WhatsApp升级群聊功能:投票优化、@all提及、一键建群",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://finance.sina.com.cn/wm/2026-08-05/doc-inimfmyv1554159.shtml",
+    "title": "DeepSeek重启新一轮融资,投前估值约5000亿元",
+    "date": "2026-08-06"
   }
 ]
