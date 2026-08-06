@@ -1,50 +1,5 @@
 [
   {
-    "url": "https://android-developers.googleblog.com/2026/07/how-r8-made-kotlin-coroutines-2x-faster.html",
-    "title": "1. R8 让 Android 上的 Kotlin 协程快了 2 倍",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://blog.jetbrains.com/kotlin/2026/07/introducing-the-kotlin-benchmark-evaluate-ai-coding-agents-on-real-world-kotlin-tasks/",
-    "title": "2. JetBrains 发布 Kotlin Benchmark：评测 AI 编码代理",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://medium.com/@sharmaricha7724/understanding-retain-a-new-way-to-retain-state-in-jetpack-compose-5542962e56fa",
-    "title": "3. Jetpack Compose 新 retain API：更贴近 UI 层的状态保留",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=6g2mjgljn7M",
-    "title": "4. Navigation 3 深入：NavDisplay 与自定义导航",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://joebirch.co/android/practical-kotlin-multiplatform-creating-the-firebase-auth-remote-store-with-ktor/",
-    "title": "5. KMP 实战：用 Ktor 构建 Firebase Auth 远程存储",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://medium.com/@shivathapaa/we-called-our-app-multiplatform-848-lines-actually-were-01d95643cb3f",
-    "title": "6. “我们号称跨平台，实际只有 848 行是”",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://medium.com/proandroiddev/kotlin-architecture-tests-what-they-are-and-why-they-matter-389ce9a1204c",
-    "title": "7. Kotlin 架构测试：是什么、为什么重要",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://blog.droidchef.dev/verification-is-the-next-bottleneck/",
-    "title": "8. 观点：验证正在成为下一个瓶颈",
-    "date": "2026-07-29"
-  },
-  {
-    "url": "https://proandroiddev.com/seven-claude-code-commands-one-kotlin-multiplatform-app-on-android-and-ios-cb01e920a3e6",
-    "title": "9. 七条 Claude Code 命令生成一个 KMP 应用（KMPilot）",
-    "date": "2026-07-29"
-  },
-  {
     "url": "https://android-developers.googleblog.com/2026/07/five-years-of-jetpack-compose.html",
     "title": "1. Jetpack Compose 五周年：Google 全面转向 Compose-first",
     "date": "2026-07-30"
@@ -328,5 +283,45 @@
     "url": "https://juejin.cn/post/7669743766019571764",
     "title": "8. ComposeCraftLab：用 Compose 挑战交互与动效天花板",
     "date": "2026-08-05"
+  },
+  {
+    "url": "https://juejin.cn/post/7669649119754879026",
+    "title": "1. 让 Codex 用上 Android Studio：JetBrains MCP Server 接入实践",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7670383736383832110",
+    "title": "2. launch 不是用来切线程的：少写 Dispatchers.IO",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://blog.shreyaspatil.dev/inside-subcomposelayout-jetpack-composes-most-misunderstood-api/",
+    "title": "3. Inside SubcomposeLayout：Compose 最被误解的 API",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7670470174774525995",
+    "title": "4. 现代 Android 测试迁移：Instrumentation → Compose Testing",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7669977060370546694",
+    "title": "5. 从运行时获取依赖到编译时注入",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://proandroiddev.com/design-a-screen-get-a-clean-architecture-feature-and-keep-ai-generated-kmp-code-from-drifting-c134ffc9bfc2",
+    "title": "6. Design a screen, get a Clean Architecture feature：防 AI 生成 KMP 代码漂移",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7669998887132463123",
+    "title": "7. Binder 实战（九）：慢调用定位",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7670344663845552164",
+    "title": "8. 一份 Perfetto Trace 是怎么形成的",
+    "date": "2026-08-06"
   }
 ]
