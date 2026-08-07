@@ -113,5 +113,25 @@
     "url": "https://finance.sina.com.cn/wm/2026-08-05/doc-inimfmyv1554159.shtml",
     "title": "DeepSeek重启新一轮融资,投前估值约5000亿元",
     "date": "2026-08-06"
+  },
+  {
+    "url": "https://learn.chatgpt.com/docs/changelog",
+    "title": "Codex CLI发布v0.147.0,新增Agent插件系统与--approve-for-me自动审批",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+    "title": "Anthropic优化Claude Fable 5生物安全防护,误拦截减少约85%",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://finance.sina.com.cn/tech/roll/2026-08-07/doc-inimmayz3668338.shtml",
+    "title": "DeepSeek官宣API大幅涨价,引入峰谷分时计费",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimksmf3773087.shtml",
+    "title": "字节跳动年中全员会:CEO表态坚持自研,拒绝模型蒸馏",
+    "date": "2026-08-06"
   }
 ]
