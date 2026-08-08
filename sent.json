@@ -323,5 +323,50 @@
     "url": "https://dev.to/superfunicular/how-an-android-phone-keeps-recording-video-with-the-screen-off-foreground-services-camera2-and-nfa",
     "title": "8. 屏幕熄灭仍持续录像：前台服务 + Camera2 的系统博弈",
     "date": "2026-08-07"
+  },
+  {
+    "url": "https://github.com/gradle/gradle/releases/tag/v9.7.0",
+    "title": "1. Gradle 9.7.0 正式版发布",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://medium.com/@marcinmoskala/stop-blocking-suspending-calls-4e586f0cfb77",
+    "title": "2. Stop blocking suspending calls！协程阻塞反模式全解",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://medium.com/@youndie/the-bugs-that-dont-fail-1eb9925e0a01",
+    "title": "3. The Bugs That Don't Fail：不报错的静默 bug",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://github.com/PatilShreyas/debroid",
+    "title": "4. Debroid：面向 AI Agent 的无界面 Android 调试器",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://medium.com/indriver-tech/fixing-one-pixel-edge-artifacts-in-jetpack-compose-drawbehind-86373703b5ac",
+    "title": "5. 修复 Compose drawBehind 的一像素边缘缝隙",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://juejin.cn/post/7670883050947854351",
+    "title": "6. 深入理解 Kotlin 协程（十一）：select 多路复用与并发安全",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://juejin.cn/post/7671099711404326948",
+    "title": "7. Android 深度链接与 App Links：从 URI Scheme 到可验证跳转",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://medium.com/@ramadan123sayed/compose-performance-part-12-measuring-compose-performance-layout-inspector-recomposition-counts-a68cfc718444",
+    "title": "8. Compose 性能（十二）：用 Layout Inspector 重组计数做度量",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://chetan-garg36.medium.com/stop-smoking-your-ram-on-android-emulators-just-for-a-ui-change-143b5d1a821a",
+    "title": "9. 别为改个 UI 就把内存喂给模拟器",
+    "date": "2026-08-08"
   }
 ]
