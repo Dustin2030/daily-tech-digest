@@ -103,5 +103,10 @@
     "url": "https://m.21jingji.com/article/20260807/herald/2f4c4e973b88f2730d3b05b6eaa6f1c7.html",
     "title": "DeepSeek斥资1.41亿元战略投资宇树科技IPO,联手布局具身智能",
     "date": "2026-08-08"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.225",
+    "title": "Claude Code发布v2.1.225,新增网关消费限额提示与Agent工作区信任确认",
+    "date": "2026-08-09"
   }
 ]
