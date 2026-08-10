@@ -1,50 +1,5 @@
 [
   {
-    "url": "https://proandroiddev.com/magical-book-of-compose-performance-defer-state-reads-f15486bee807",
-    "title": "1. Compose 性能：延迟状态读取（Defer State Reads）",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://touchlab.co/the-one-liner-that-was-eating-our-memory",
-    "title": "2. Touchlab：一行代码吃掉了我们的内存",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://hotswan.dev/blog/compose-multiplatform-desktop-hot-reload",
-    "title": "3. HotSwan 2.0：一次保存同时热重载 Android 与桌面",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://medium.com/@kmpbits/fuel-strategy-paging-in-compose-multiplatform-kmp-bits-c238a239219d",
-    "title": "4. Fuel Strategy：在 Compose Multiplatform 中做分页",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://medium.com/proandroiddev/yet-another-way-to-kmp-one-pattern-three-seams-8435459b8d88",
-    "title": "5. Yet Another Way to KMP：一种模式、三处接缝",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://johnoreilly.dev/posts/fpl-koog-structured-output/",
-    "title": "6. 给 FantasyPremierLeague 接入 Koog AI 助手（结构化输出）",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://medium.com/@Y4583L/why-we-chose-kmp-over-react-native-its-an-architecture-bet-not-a-framework-preference-e9ad0a7dffd5",
-    "title": "7. 为什么选 KMP 而不是 React Native",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://developer.android.com/jetpack/androidx/releases/room3",
-    "title": "8. AndroidX Room 3.0.1 稳定版发布",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://juejin.cn/post/7669257737558294571",
-    "title": "9. 掘金：Android 一帧完整渲染流程 VSYNC 到 Screen",
-    "date": "2026-08-03"
-  },
-  {
     "url": "https://github.com/google/ksp/releases/tag/2.3.11",
     "title": "1. KSP 2.3.11 稳定版：支持 Gradle 隔离项目",
     "date": "2026-08-04"
@@ -283,5 +238,55 @@
     "url": "https://dev.to/vmodal_ai/extract-text-from-images-using-google-ml-kit-text-recognition-in-android-3gp4",
     "title": "6. 用 Google ML Kit 在 Android 上做图片文字识别（OCR）",
     "date": "2026-08-09"
+  },
+  {
+    "url": "https://medium.com/@Y4583L/one-codebase-two-on-device-brains-gemini-nano-and-apple-intelligence-in-compose-multiplatform-7f785dec5dfc",
+    "title": "1. 一套代码两个端侧大脑：CMP 同用 Gemini Nano 与 Apple Intelligence",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://juejin.cn/post/7671709161769238534",
+    "title": "2. 告别 MPAndroidChart：CMP 打造 120 帧跨平台图表库",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://juejin.cn/post/7671994177554497582",
+    "title": "3. 小团队最优解：单 Module + 包内 Clean 架构",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://emartynov.medium.com/the-snapshot-test-matrix-two-ways-parameterized-junit-vs-testballoon-d4015c495efc",
+    "title": "4. 快照测试矩阵两种写法：参数化 JUnit vs TestBalloon",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://juejin.cn/post/7671196739655319571",
+    "title": "5. 解密 KMP 多模块构建死锁：Gradle 叶子节点名称冲突",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://touchlab.co/kjwt-intro",
+    "title": "6. Touchlab 为什么重写 JWT 库：KMP 版 KJWT",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://juejin.cn/post/7671674608162258970",
+    "title": "7. 告别 Play Console 手动上传：截图到自动发版流水线",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://juejin.cn/post/7671645197380141094",
+    "title": "8. 源码视角 Android 开机流程（二）：WindowContainer 层级树",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://juejin.cn/post/7671272226075033663",
+    "title": "9. Android XR 开发入门完全指南",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://juejin.cn/post/7671189079687512073",
+    "title": "10. Android Studio 与 Gerrit 代码格式化对齐方案",
+    "date": "2026-08-10"
   }
 ]
