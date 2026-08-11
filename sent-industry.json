@@ -123,5 +123,25 @@
     "url": "https://www.ithome.com/0/979/817.htm",
     "title": "月之暗面Kimi启动Pre-IPO融资,估值飙升至500亿美元",
     "date": "2026-08-10"
+  },
+  {
+    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "title": "Claude Code「Auto Mode」将于8月14日起对Pro/Max/Team用户默认开启",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://interestingengineering.com/ai-robotics/anthropic-claude-text-invisible-watermarks",
+    "title": "Anthropic为Claude生成内容加入隐形水印,应对欧盟AI法案",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://www.ithome.com/0/987/924.htm",
+    "title": "阿里云计划年内将数据中心产能提升两倍以上",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.227",
+    "title": "Claude Code发布v2.1.227,修复功能开关误判、GitHub Actions集成失败等问题",
+    "date": "2026-08-11"
   }
 ]
