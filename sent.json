@@ -338,5 +338,50 @@
     "url": "https://github.com/shinyquagsire23/Klepton",
     "title": "10. Klepton：让 Android ARM64 VR 应用跑上 Apple Vision Pro",
     "date": "2026-08-11"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/compose",
+    "title": "1. Jetpack Compose 1.12.0 稳定版发布",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/08/media3-1-11-whats-new.html",
+    "title": "2. Media3 1.11：Compose 播放器与短视频优化",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/tracing",
+    "title": "3. AndroidX Tracing 2.0.0：全新进程内低开销追踪",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/compose-material3-adaptive",
+    "title": "4. Compose Material3 Adaptive 1.3.0：打通 Navigation3",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/versions/all-channel",
+    "title": "5. AndroidX 一批常用库同日转正 (Appcompat/Fragment/Paging/Webkit/Nav3)",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7671475529255878666",
+    "title": "6. 掘金：Compose 动画实战——AnimatedVisibility 到手势联动",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7672456695218126884",
+    "title": "7. 掘金：车机 GNSS 定位数据接收问题排查",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7672746314371629062",
+    "title": "8. 掘金：Android 端 WebRTC 点对点通信实现",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://dev.to/superfunicular/four-android-ad-sdks-leak-precise-location-by-default-the-fix-isnt-a-toggle-its-not-collecting-3pc1",
+    "title": "9. 社区：四款 Android 广告 SDK 默认泄露精确定位",
+    "date": "2026-08-12"
   }
 ]
