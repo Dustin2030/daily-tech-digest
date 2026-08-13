@@ -1,130 +1,5 @@
 [
   {
-    "url": "https://github.com/google/ksp/releases/tag/2.3.11",
-    "title": "1. KSP 2.3.11 稳定版：支持 Gradle 隔离项目",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://developer.android.com/build/releases/gradle-plugin",
-    "title": "2. AGP 9.3.0：独立 R8 配置分析器与全新优化 DSL",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://medium.com/proandroiddev/routing-modes-are-not-a-routing-policy-9feccfac2ae7",
-    "title": "3. Routing Modes Are Not a Routing Policy：端侧 AI 类型安全路由",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://medium.com/@cosmin.mihu/android-deep-linking-made-simple-with-navigation-3-44e29735b5d0",
-    "title": "4. 用 Navigation 3 优雅实现 Android 深链",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://developer.android.com/jetpack/androidx/releases/navigation3",
-    "title": "5. AndroidX Navigation3 1.1.5 稳定版",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://juejin.cn/post/7669682093891698730",
-    "title": "6. 掘金：Compose 布局与绘制全流程 LayoutNode/DisplayList/GraphicsLayer",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://juejin.cn/post/7669403173455167498",
-    "title": "7. 掘金：Compose 副作用 produceState 实战",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://juejin.cn/post/7668905064376713268",
-    "title": "8. 掘金：Android 图片资源与内存优化指南",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://juejin.cn/post/7669387448518819890",
-    "title": "9. 掘金：Views、Flutter 与 Compose 渲染路径对比",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
-    "title": "1. IntelliJ IDEA 推出 LSP：Java/Kotlin 智能进入 VS Code、Cursor",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://github.com/ktorio/ktor/releases/tag/3.5.2",
-    "title": "2. Ktor 3.5.2 稳定版发布",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://juejin.cn/post/7670055643345453110",
-    "title": "3. Jetpack Compose 状态管理与副作用处理：核心原理与工程实践",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://dev.to/haseebthedev0/maintaining-foreground-services-in-the-era-of-android-doze-mode-1ka9",
-    "title": "4. Doze 模式时代如何维持前台服务存活",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://juejin.cn/post/7669028793605259274",
-    "title": "5. 用一次朋友圈发布流程理解 Kotlin 协程",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://dev.to/phoneoperatorapp/designing-reliable-no-root-android-tap-and-swipe-automation-1bdn",
-    "title": "6. 设计可靠的免 Root Android 点击与滑动自动化",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://dev.to/haseebthedev0/implementing-geofencing-for-android-lessons-from-muffle-2366",
-    "title": "7. 为 Android 实现地理围栏：来自 Muffle 的经验",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://juejin.cn/post/7669743766019571764",
-    "title": "8. ComposeCraftLab：用 Compose 挑战交互与动效天花板",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://juejin.cn/post/7669649119754879026",
-    "title": "1. 让 Codex 用上 Android Studio：JetBrains MCP Server 接入实践",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://juejin.cn/post/7670383736383832110",
-    "title": "2. launch 不是用来切线程的：少写 Dispatchers.IO",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://blog.shreyaspatil.dev/inside-subcomposelayout-jetpack-composes-most-misunderstood-api/",
-    "title": "3. Inside SubcomposeLayout：Compose 最被误解的 API",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://juejin.cn/post/7670470174774525995",
-    "title": "4. 现代 Android 测试迁移：Instrumentation → Compose Testing",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://juejin.cn/post/7669977060370546694",
-    "title": "5. 从运行时获取依赖到编译时注入",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://proandroiddev.com/design-a-screen-get-a-clean-architecture-feature-and-keep-ai-generated-kmp-code-from-drifting-c134ffc9bfc2",
-    "title": "6. Design a screen, get a Clean Architecture feature：防 AI 生成 KMP 代码漂移",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://juejin.cn/post/7669998887132463123",
-    "title": "7. Binder 实战（九）：慢调用定位",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://juejin.cn/post/7670344663845552164",
-    "title": "8. 一份 Perfetto Trace 是怎么形成的",
-    "date": "2026-08-06"
-  },
-  {
     "url": "https://android-developers.googleblog.com/2026/08/android-skills-philosophy.html",
     "title": "1. Android Skills 的设计哲学：为「被弃用」而生",
     "date": "2026-08-07"
@@ -383,5 +258,50 @@
     "url": "https://dev.to/superfunicular/four-android-ad-sdks-leak-precise-location-by-default-the-fix-isnt-a-toggle-its-not-collecting-3pc1",
     "title": "9. 社区：四款 Android 广告 SDK 默认泄露精确定位",
     "date": "2026-08-12"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/08/pixel-app-experience-made-by-google.html",
+    "title": "1. 为新 Pixel 阵容优化应用（Made by Google）",
+    "date": "2026-08-13"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/08/one-handed-gestures-wear-os.html",
+    "title": "2. Wear OS 7 单手手势 Gestures 框架上线",
+    "date": "2026-08-13"
+  },
+  {
+    "url": "https://juejin.cn/post/7672996833275936778",
+    "title": "3. 预防远大于治理：Android 架构指南",
+    "date": "2026-08-13"
+  },
+  {
+    "url": "https://juejin.cn/post/7672849477074321471",
+    "title": "4. Kotlin Channel 与复杂并发：结构化并发治理",
+    "date": "2026-08-13"
+  },
+  {
+    "url": "https://juejin.cn/post/7672697935755100186",
+    "title": "5. Kotlin 协程源码解析：Continuation 的链式关系",
+    "date": "2026-08-13"
+  },
+  {
+    "url": "https://juejin.cn/post/7672915108386013211",
+    "title": "6. 从 Copilot 到 Harness Engineering：Android 工程 AI 开发实践",
+    "date": "2026-08-13"
+  },
+  {
+    "url": "https://juejin.cn/post/7672774189216841728",
+    "title": "7. 面向对象六大原则实战：重构可切换网络引擎的框架",
+    "date": "2026-08-13"
+  },
+  {
+    "url": "https://juejin.cn/post/7672915108368449562",
+    "title": "8. 从 Perfetto 看懂 Binder 调用链",
+    "date": "2026-08-13"
+  },
+  {
+    "url": "https://juejin.cn/post/7672849477074812991",
+    "title": "9. Flutter 中嵌入 Android/iOS 原生组件并解决手势冲突",
+    "date": "2026-08-13"
   }
 ]
