@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md",
-    "title": "Claude Code v2.1.222修复worktree隔离逃逸漏洞",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikzeam4670749.shtml",
-    "title": "阿里\"千问办公\"开启公测,整合QoderWork、悟空、MuleRun三大Agent产品",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user",
-    "title": "Telegram遭苹果App Store短暂下架后恢复,杜罗夫指控\"敲诈勒索\"",
-    "date": "2026-08-05"
-  },
-  {
-    "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-05/doc-inimffsv4834138.shtml",
-    "title": "宇树科技启动科创板IPO询价,冲刺\"人形机器人第一股\"",
-    "date": "2026-08-05"
-  },
-  {
     "url": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
     "title": "Claude Opus 4.1在Claude API正式退役",
     "date": "2026-08-06"
@@ -128,5 +108,15 @@
     "url": "https://signal.org/blog/automatic-key-verification/",
     "title": "Signal推出\"自动密钥验证\"功能,无需人工比对即可确认聊天安全性",
     "date": "2026-08-12"
+  },
+  {
+    "url": "https://finance.sina.com.cn/jjxw/2026-08-13/doc-inincxkw0084504.shtml",
+    "title": "腾讯Q2财报单季现金流转负,马化腾详解三层AI战略,微信Agent启动内测",
+    "date": "2026-08-13"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.229",
+    "title": "Claude Code接连发布v2.1.229/v2.1.231,新增自托管Runner钩子与插件市场命令源,修复MCP OAuth登录故障",
+    "date": "2026-08-13"
   }
 ]
