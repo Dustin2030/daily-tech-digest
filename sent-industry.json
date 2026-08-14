@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
-    "title": "Claude Opus 4.1在Claude API正式退役",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://github.com/openai/codex/releases",
-    "title": "OpenAI Codex CLI发布v0.146.1,收紧安全默认设置",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://about.fb.com/news/2026/08/were-upgrading-your-whatsapp-group-chats/",
-    "title": "WhatsApp升级群聊功能:投票优化、@all提及、一键建群",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://finance.sina.com.cn/wm/2026-08-05/doc-inimfmyv1554159.shtml",
-    "title": "DeepSeek重启新一轮融资,投前估值约5000亿元",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://learn.chatgpt.com/docs/changelog",
-    "title": "Codex CLI发布v0.147.0,新增Agent插件系统与--approve-for-me自动审批",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-    "title": "Anthropic优化Claude Fable 5生物安全防护,误拦截减少约85%",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://finance.sina.com.cn/tech/roll/2026-08-07/doc-inimmayz3668338.shtml",
-    "title": "DeepSeek官宣API大幅涨价,引入峰谷分时计费",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimksmf3773087.shtml",
-    "title": "字节跳动年中全员会:CEO表态坚持自研,拒绝模型蒸馏",
-    "date": "2026-08-06"
-  },
-  {
     "url": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
     "title": "Claude Code上线自托管计算环境公测,构建产物与密钥可不出内网",
     "date": "2026-08-08"
@@ -118,5 +78,35 @@
     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.229",
     "title": "Claude Code接连发布v2.1.229/v2.1.231,新增自托管Runner钩子与插件市场命令源,修复MCP OAuth登录故障",
     "date": "2026-08-13"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/changelog",
+    "title": "Claude Code发布v2.1.232版本,修复多个权限绕过安全漏洞",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://finance.sina.com.cn/tech/roll/2026-08-13/doc-inineuqm9894249.shtml",
+    "title": "DeepSeek发布V4-Pro-0813正式版,SWE-bench成绩逼近Claude Opus 5,同时确认8月17日起大幅涨价",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://www.ithome.com/0/989/689.htm",
+    "title": "智谱正式发布GLM-5.3,自称开源编程能力第一、逼近Claude 5",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://finance.sina.com.cn/tech/roll/2026-08-14/doc-ininfvzv2941427.shtml",
+    "title": "京东二季度经营利润扭亏为盈,CEO许冉宣布利润拐点已现",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://finance.sina.com.cn/tech/roll/2026-08-14/doc-ininhait2935114.shtml",
+    "title": "微信官方声明:朋友圈过去、现在、未来都不会加入二次编辑功能",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://uz.kursiv.media/en/2026-08-14/telegram-goes-down-in-kazakhstan-as-davinchik-is-blocked/",
+    "title": "Telegram在哈萨克斯坦出现大范围故障,当局同步封禁其内嵌交友机器人",
+    "date": "2026-08-14"
   }
 ]
