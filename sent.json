@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://android-developers.googleblog.com/2026/08/android-skills-philosophy.html",
-    "title": "1. Android Skills 的设计哲学：为「被弃用」而生",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://blog.jetbrains.com/kotlin/2026/07/introducing-the-kotlin-benchmark-evaluate-ai-coding-agents-on-real-world-kotlin-tasks/",
-    "title": "2. JetBrains 推出 Kotlin Benchmark：评测 AI 编码 Agent",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://blog.jetbrains.com/kotlin/2026/08/kodees-kotlin-roundup-birthday-wishes-shipaton-2026-and-the-new-kotlin-ai-benchmark/",
-    "title": "3. Kotlin 2.4.10 稳定版发布，X 全面用 Kotlin 重写 Android 应用",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://juejin.cn/post/7670404221932306474",
-    "title": "4. Android 图形系统全景",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://juejin.cn/post/7670439090441666596",
-    "title": "5. 从 Robolectric 到分层测试：Android 测试策略重构",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://juejin.cn/post/7670386923397464114",
-    "title": "6. AppActuator：让 AI Agent 直接理解并操作运行中的 Android App",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://proandroiddev.com/kotlin-architecture-tests-what-they-are-and-why-they-matter-389ce9a1204c",
-    "title": "7. Kotlin Architecture Tests：用架构测试给 AI 生成代码立规矩（上）",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://dev.to/superfunicular/how-an-android-phone-keeps-recording-video-with-the-screen-off-foreground-services-camera2-and-nfa",
-    "title": "8. 屏幕熄灭仍持续录像：前台服务 + Camera2 的系统博弈",
-    "date": "2026-08-07"
-  },
-  {
     "url": "https://github.com/gradle/gradle/releases/tag/v9.7.0",
     "title": "1. Gradle 9.7.0 正式版发布",
     "date": "2026-08-08"
@@ -303,5 +263,55 @@
     "url": "https://juejin.cn/post/7672849477074812991",
     "title": "9. Flutter 中嵌入 Android/iOS 原生组件并解决手势冲突",
     "date": "2026-08-13"
+  },
+  {
+    "url": "https://dev.to/jam-techcirkle/baseline-profiles-are-the-cheapest-android-win-you-are-not-taking-1157",
+    "title": "1. Baseline Profiles：被低估的最省钱 Android 性能优化",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://dev.to/dgbarreto/the-koin-scope-bug-that-teaches-you-what-single-vs-factory-actually-means-3992",
+    "title": "2. Koin 作用域 Bug 讲透 single 与 factory 的本质（KMP）",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://juejin.cn/post/7673037241363316772",
+    "title": "3. 从 Trace 看 Android 启动流程",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://dev.to/xheghun/building-devicetrust-a-practical-approach-to-android-fraud-signals-53km",
+    "title": "4. 构建 DeviceTrust：Android 反欺诈信号的工程实践",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://dev.to/elsamet/master-android-sensors-with-jetpack-compose-41ck",
+    "title": "5. 用 Jetpack Compose 掌握 Android 传感器（第一章）",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://juejin.cn/post/7673411634811797544",
+    "title": "6. 从 Trace 看 Android Input 事件流转",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://juejin.cn/post/7673347280923852851",
+    "title": "7. Android Camera 稳定性排查实战（高通 Camx）",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://dev.to/laicaiapp/stop-comparing-appium-and-ui-automator-as-if-they-solve-the-same-problem-19c1",
+    "title": "8. 别再把 Appium 和 UI Automator 当同类工具比较",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://juejin.cn/post/7673092180178534434",
+    "title": "9. Android AOP 切面编程实战：优雅处理全局断网拦截",
+    "date": "2026-08-14"
+  },
+  {
+    "url": "https://juejin.cn/post/7673037241362612260",
+    "title": "10. Android 应用间 UI 刷新与合成",
+    "date": "2026-08-14"
   }
 ]
