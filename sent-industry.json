@@ -108,5 +108,10 @@
     "url": "https://uz.kursiv.media/en/2026-08-14/telegram-goes-down-in-kazakhstan-as-davinchik-is-blocked/",
     "title": "Telegram在哈萨克斯坦出现大范围故障,当局同步封禁其内嵌交友机器人",
     "date": "2026-08-14"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.233",
+    "title": "Claude Code发布v2.1.233,新增WebFetch缓存时长配置与GitLab合并请求支持",
+    "date": "2026-08-15"
   }
 ]
