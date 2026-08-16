@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://dev.to/dgbarreto/fcm-push-notifications-and-deep-linking-in-compose-multiplatform-the-payload-choice-that-breaks-jpl",
-    "title": "1. FCM 推送 + 深链在 Compose Multiplatform 中的落地",
-    "date": "2026-08-09"
-  },
-  {
-    "url": "https://johnoreilly.dev/posts/galwaybus-scan-stop-kmp/",
-    "title": "2. John O'Reilly：在 CMP 应用里用 ML Kit 扫描公交站牌编码",
-    "date": "2026-08-09"
-  },
-  {
-    "url": "https://dev.to/haseebthedev0/architecting-a-battery-efficient-geofencing-engine-for-android-g89",
-    "title": "3. 为 Android 设计省电的地理围栏引擎",
-    "date": "2026-08-09"
-  },
-  {
-    "url": "https://juejin.cn/post/7671488588597198875",
-    "title": "4. Rust 与 C++ 在 Android Native 下基于 mmap 的跨进程通信",
-    "date": "2026-08-09"
-  },
-  {
-    "url": "https://juejin.cn/post/7671240037510479887",
-    "title": "5. 排查 App 问题：别只盯着报错，把前后发生的事情串起来",
-    "date": "2026-08-09"
-  },
-  {
-    "url": "https://dev.to/vmodal_ai/extract-text-from-images-using-google-ml-kit-text-recognition-in-android-3gp4",
-    "title": "6. 用 Google ML Kit 在 Android 上做图片文字识别（OCR）",
-    "date": "2026-08-09"
-  },
-  {
     "url": "https://medium.com/@Y4583L/one-codebase-two-on-device-brains-gemini-nano-and-apple-intelligence-in-compose-multiplatform-7f785dec5dfc",
     "title": "1. 一套代码两个端侧大脑：CMP 同用 Gemini Nano 与 Apple Intelligence",
     "date": "2026-08-10"
@@ -303,5 +273,50 @@
     "url": "https://juejin.cn/post/7673522589588258870",
     "title": "7. adb shell 全套命令实操总结",
     "date": "2026-08-15"
+  },
+  {
+    "url": "https://juejin.cn/post/7674030633674178596",
+    "title": "1. Android 17 MessageQueue 重构：从单锁队列到无锁 DeliQueue",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://medium.com/@abdullahkhan1571998/navigation-3-rethinking-adaptive-navigation-with-scenestrategy-76ff1786969e",
+    "title": "2. Navigation 3：用 SceneStrategy 重新设计自适应导航",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://proandroiddev.com/uistate-is-too-big-and-hard-to-read-now-what-05d414069bef",
+    "title": "3. UiState 太大太难读怎么办？Compose 状态建模七法",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://medium.com/@sivavishnu0705/globalscope-silent-crashes-and-ghost-network-calls-a-structured-concurrency-post-mortem-fc33125595e0",
+    "title": "4. 结构化并发事故复盘：GlobalScope、静默崩溃与幽灵网络请求",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://medium.com/@donlyconanpc/stop-hand-rolling-ble-message-protocols-type-safe-rpc-between-two-android-devices-0f601948e22a",
+    "title": "5. 别再手写 BLE 协议：设备间类型安全 RPC",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://dev.to/zerocoool/beyond-the-dogma-how-object-calisthenics-and-ai-taught-me-to-write-cleaner-kotlin-525f",
+    "title": "6. 超越教条：用 Object Calisthenics + AI 写更干净的 Kotlin",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://dev.to/devconnect/google-play-testing-tracks-explained-internal-closed-open-and-which-one-gates-production-3o6b",
+    "title": "7. Google Play 测试轨道详解：12 名测试者 / 14 天门槛",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://dev.to/tapadyutichatterjee/building-mathastic-twice-one-math-puzzle-game-two-native-architectures-1og6",
+    "title": "8. 同一款数学游戏的两种原生实现：SwiftUI vs Jetpack Compose",
+    "date": "2026-08-16"
+  },
+  {
+    "url": "https://github.com/wmww/tawc",
+    "title": "9. tawc：免 root 在 Android 上跑硬件加速的 Linux GUI",
+    "date": "2026-08-16"
   }
 ]
