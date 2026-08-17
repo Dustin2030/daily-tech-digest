@@ -1,55 +1,5 @@
 [
   {
-    "url": "https://medium.com/@Y4583L/one-codebase-two-on-device-brains-gemini-nano-and-apple-intelligence-in-compose-multiplatform-7f785dec5dfc",
-    "title": "1. 一套代码两个端侧大脑：CMP 同用 Gemini Nano 与 Apple Intelligence",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://juejin.cn/post/7671709161769238534",
-    "title": "2. 告别 MPAndroidChart：CMP 打造 120 帧跨平台图表库",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://juejin.cn/post/7671994177554497582",
-    "title": "3. 小团队最优解：单 Module + 包内 Clean 架构",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://emartynov.medium.com/the-snapshot-test-matrix-two-ways-parameterized-junit-vs-testballoon-d4015c495efc",
-    "title": "4. 快照测试矩阵两种写法：参数化 JUnit vs TestBalloon",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://juejin.cn/post/7671196739655319571",
-    "title": "5. 解密 KMP 多模块构建死锁：Gradle 叶子节点名称冲突",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://touchlab.co/kjwt-intro",
-    "title": "6. Touchlab 为什么重写 JWT 库：KMP 版 KJWT",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://juejin.cn/post/7671674608162258970",
-    "title": "7. 告别 Play Console 手动上传：截图到自动发版流水线",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://juejin.cn/post/7671645197380141094",
-    "title": "8. 源码视角 Android 开机流程（二）：WindowContainer 层级树",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://juejin.cn/post/7671272226075033663",
-    "title": "9. Android XR 开发入门完全指南",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://juejin.cn/post/7671189079687512073",
-    "title": "10. Android Studio 与 Gerrit 代码格式化对齐方案",
-    "date": "2026-08-10"
-  },
-  {
     "url": "https://androidstudio.googleblog.com/2026/08/android-studio-quail-3-patch-1-now.html",
     "title": "1. Android Studio Quail 3 Patch 1 稳定版发布",
     "date": "2026-08-11"
@@ -318,5 +268,50 @@
     "url": "https://github.com/wmww/tawc",
     "title": "9. tawc：免 root 在 Android 上跑硬件加速的 Linux GUI",
     "date": "2026-08-16"
+  },
+  {
+    "url": "https://juejin.cn/post/7674123634786484260",
+    "title": "1. 破坏性更新：解读 Jetpack Compose 1.12 稳定版",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://dev.to/ezhil_sivarajsr/androids-walled-garden-googles-developer-verification-lockdown-that-changes-everything-27po",
+    "title": "2. Android 开发者强制实名验证：9 月起的围墙变化",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7674103602086264875",
+    "title": "3. 主线程明明空闲为何仍 ANR：3 份真实 Trace 复盘",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7674341421614514185",
+    "title": "4. 深入理解 Kotlin suspend：挂起语义、状态机与恢复调度",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7674134920391622666",
+    "title": "5. Flow 在 Android 的完整落地：异常、重试与生命周期",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://dev.to/superfunicular/why-an-interrupted-android-recording-wont-play-moov-atom-scoped-storage-and-two-fixes-59d5",
+    "title": "6. 录制中断的视频为何打不开：moov atom 与两种修复",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-background-services-5gf0",
+    "title": "7. 低功耗后台定位引擎的架构设计",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7674078470029295656",
+    "title": "8. Android 系统启动机制（一）：init 到底是什么？",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://dev.to/tsaeru_norek_5ced3b58b781/what-happens-when-an-android-app-is-rebranded-without-changing-its-package-name-4405",
+    "title": "9. 改了应用名却没改包名：Android 会怎么处理？",
+    "date": "2026-08-17"
   }
 ]
