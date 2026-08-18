@@ -1,55 +1,5 @@
 [
   {
-    "url": "https://androidstudio.googleblog.com/2026/08/android-studio-quail-3-patch-1-now.html",
-    "title": "1. Android Studio Quail 3 Patch 1 稳定版发布",
-    "date": "2026-08-11"
-  },
-  {
-    "url": "https://medium.com/@shivathapaa/the-7-you-cant-share-e30ed2a7b528",
-    "title": "2. The 7% You Can't Share：CMP 共享 93% 代码后如何处理剩下 7%",
-    "date": "2026-08-11"
-  },
-  {
-    "url": "https://dev.to/devsnack/your-compose-canvas-tests-are-lying-to-you-55hi",
-    "title": "3. 你的 Compose Canvas 测试在骗你：像素级测试",
-    "date": "2026-08-11"
-  },
-  {
-    "url": "https://dev.to/axin888/under-the-hood-of-android-notifications-and-how-to-keep-the-important-one-on-top-2dab",
-    "title": "4. 深入 Android 通知机制：让重要通知稳居顶部",
-    "date": "2026-08-11"
-  },
-  {
-    "url": "https://dev.to/devsnack/docs-that-run-the-real-component-2omi",
-    "title": "5. 让文档跑起来：真实 Compose 组件编译成 WASM 内嵌文档",
-    "date": "2026-08-11"
-  },
-  {
-    "url": "https://juejin.cn/post/7671708220172075043",
-    "title": "6. LeakCanary 实战：静态持有/匿名内部类/Handler 三大泄漏",
-    "date": "2026-08-11"
-  },
-  {
-    "url": "https://juejin.cn/post/7671830770651250688",
-    "title": "7. Android 本地存储怎么选：SharedPreferences vs MMKV vs Room",
-    "date": "2026-08-11"
-  },
-  {
-    "url": "https://juejin.cn/post/7671992319080300559",
-    "title": "8. 源码解读 DeviceStorageMonitorService 存储监控流程",
-    "date": "2026-08-11"
-  },
-  {
-    "url": "https://juejin.cn/post/7672216366654570534",
-    "title": "9. AI 时代还要读源码吗？从 Kotlin 集合排序说起",
-    "date": "2026-08-11"
-  },
-  {
-    "url": "https://github.com/shinyquagsire23/Klepton",
-    "title": "10. Klepton：让 Android ARM64 VR 应用跑上 Apple Vision Pro",
-    "date": "2026-08-11"
-  },
-  {
     "url": "https://developer.android.com/jetpack/androidx/releases/compose",
     "title": "1. Jetpack Compose 1.12.0 稳定版发布",
     "date": "2026-08-12"
@@ -313,5 +263,45 @@
     "url": "https://dev.to/tsaeru_norek_5ced3b58b781/what-happens-when-an-android-app-is-rebranded-without-changing-its-package-name-4405",
     "title": "9. 改了应用名却没改包名：Android 会怎么处理？",
     "date": "2026-08-17"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/08/kodees-kotlin-roundup-birthday-wishes-shipaton-2026-and-the-new-kotlin-ai-benchmark/",
+    "title": "1. Kotlin 官方月报：15 周年、首个 AI 编码基准与 X 全面转向 Kotlin",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/08/klibsio-grows-to-4200-kmp-projects-with-smarter-discovery-and-new-ai-integrations/",
+    "title": "2. Klibs.io 突破 4200+ KMP 库，新增 MCP Server 与 AI 集成",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://proandroiddev.com/ai-meet-app-testing-android-app-functions-5ba289736c59",
+    "title": "3. 实测 Android App Functions：用 ADB 与测试 Agent 验证 AI 调用",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://dev.to/rae_stammler_c7297978420c/android-apk-distribution-what-developers-should-consider-outside-google-play-4pkj",
+    "title": "4. Google Play 之外的 APK 分发要点",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://juejin.cn/post/7674827790672724002",
+    "title": "5. 从 Jetpack Compose 迁移到 Kuikly Compose 实践",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://juejin.cn/post/7674881198007271459",
+    "title": "6. Android 系统启动机制（二）：init.rc 如何驱动启动",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://juejin.cn/post/7674461849685966858",
+    "title": "7. 千万别误用 Android 开发中的 AI Skills",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://juejin.cn/post/7674553650727665718",
+    "title": "8. Android Studio 集成 Detekt：Kotlin 静态检查实战",
+    "date": "2026-08-18"
   }
 ]
