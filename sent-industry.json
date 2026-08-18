@@ -118,5 +118,20 @@
     "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqxus9105158.shtml",
     "title": "美团高管公开反思AI转型四重错配",
     "date": "2026-08-17"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.234",
+    "title": "⚠️ Claude Code发布v2.1.234,修复NTLM凭据泄露安全漏洞并新增会话自动续接功能",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://finance.sina.com.cn/tech/shenji/2026-08-17/doc-ininqxus9112957.shtml",
+    "title": "阿里巴巴以超15亿美元出售游戏子公司灵犀互娱",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://www.washingtontimes.com/news/2026/aug/17/discord-halts-livestreams-brazil-watchdog-cites-child-safety-failures/",
+    "title": "巴西监管机构因未成年人保护问题强制Discord暂停直播功能",
+    "date": "2026-08-18"
   }
 ]
