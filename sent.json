@@ -1,50 +1,5 @@
 [
   {
-    "url": "https://developer.android.com/jetpack/androidx/releases/compose",
-    "title": "1. Jetpack Compose 1.12.0 稳定版发布",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://android-developers.googleblog.com/2026/08/media3-1-11-whats-new.html",
-    "title": "2. Media3 1.11：Compose 播放器与短视频优化",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://developer.android.com/jetpack/androidx/releases/tracing",
-    "title": "3. AndroidX Tracing 2.0.0：全新进程内低开销追踪",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://developer.android.com/jetpack/androidx/releases/compose-material3-adaptive",
-    "title": "4. Compose Material3 Adaptive 1.3.0：打通 Navigation3",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://developer.android.com/jetpack/androidx/versions/all-channel",
-    "title": "5. AndroidX 一批常用库同日转正 (Appcompat/Fragment/Paging/Webkit/Nav3)",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://juejin.cn/post/7671475529255878666",
-    "title": "6. 掘金：Compose 动画实战——AnimatedVisibility 到手势联动",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://juejin.cn/post/7672456695218126884",
-    "title": "7. 掘金：车机 GNSS 定位数据接收问题排查",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://juejin.cn/post/7672746314371629062",
-    "title": "8. 掘金：Android 端 WebRTC 点对点通信实现",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://dev.to/superfunicular/four-android-ad-sdks-leak-precise-location-by-default-the-fix-isnt-a-toggle-its-not-collecting-3pc1",
-    "title": "9. 社区：四款 Android 广告 SDK 默认泄露精确定位",
-    "date": "2026-08-12"
-  },
-  {
     "url": "https://android-developers.googleblog.com/2026/08/pixel-app-experience-made-by-google.html",
     "title": "1. 为新 Pixel 阵容优化应用（Made by Google）",
     "date": "2026-08-13"
@@ -303,5 +258,45 @@
     "url": "https://juejin.cn/post/7674553650727665718",
     "title": "8. Android Studio 集成 Detekt：Kotlin 静态检查实战",
     "date": "2026-08-18"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/08/tinder-app-cold-start-r8-configuration-analyzer.html",
+    "title": "1. Tinder 用 R8 Configuration Analyzer 把冷启动砍掉 47%",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://dev.to/gabbrowick/the-gpu-that-says-yes-and-does-nothing-debugging-real-time-hair-segmentation-on-mid-range-android-2990",
+    "title": "2. GPU 说行却什么都没干：中端 Android 实时头发分割调试实录",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://juejin.cn/post/7674905370995916815",
+    "title": "3. 一套 KMP 多仓库版本治理工作流：Version Catalog + CI 自动化发版",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://juejin.cn/post/7674870309703090191",
+    "title": "4. Compose LazyColumn 性能优化：key、稳定性与重组治理",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://juejin.cn/post/7674818974897537066",
+    "title": "5. Kotlin 协程 Flow 中间操作符真解",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://juejin.cn/post/7675082315245649960",
+    "title": "6. Retrofit 请求取消与生命周期绑定：协程可取消设计",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://juejin.cn/post/7675174492750938147",
+    "title": "7. 自定义 View 触摸反馈与手势冲突解决",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://juejin.cn/post/7674818950488932398",
+    "title": "8. Android 版 MCP 正式登场：AppFunctions 入门",
+    "date": "2026-08-19"
   }
 ]
