@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "title": "Claude Code「Auto Mode」将于8月14日起对Pro/Max/Team用户默认开启",
-    "date": "2026-08-11"
-  },
-  {
-    "url": "https://interestingengineering.com/ai-robotics/anthropic-claude-text-invisible-watermarks",
-    "title": "Anthropic为Claude生成内容加入隐形水印,应对欧盟AI法案",
-    "date": "2026-08-11"
-  },
-  {
-    "url": "https://www.ithome.com/0/987/924.htm",
-    "title": "阿里云计划年内将数据中心产能提升两倍以上",
-    "date": "2026-08-11"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.227",
-    "title": "Claude Code发布v2.1.227,修复功能开关误判、GitHub Actions集成失败等问题",
-    "date": "2026-08-11"
-  },
-  {
-    "url": "https://www.anthropic.com/news/claude-sonnet-5",
-    "title": "⚠️ Anthropic将Claude Sonnet 5优惠定价永久保留,取消9月涨价计划",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.228",
-    "title": "⚠️ Claude Code发布v2.1.228,调整Write工具覆盖规则并修复多项问题",
-    "date": "2026-08-12"
-  },
-  {
-    "url": "https://signal.org/blog/automatic-key-verification/",
-    "title": "Signal推出\"自动密钥验证\"功能,无需人工比对即可确认聊天安全性",
-    "date": "2026-08-12"
-  },
-  {
     "url": "https://finance.sina.com.cn/jjxw/2026-08-13/doc-inincxkw0084504.shtml",
     "title": "腾讯Q2财报单季现金流转负,马化腾详解三层AI战略,微信Agent启动内测",
     "date": "2026-08-13"
@@ -133,5 +98,15 @@
     "url": "https://www.washingtontimes.com/news/2026/aug/17/discord-halts-livestreams-brazil-watchdog-cites-child-safety-failures/",
     "title": "巴西监管机构因未成年人保护问题强制Discord暂停直播功能",
     "date": "2026-08-18"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/changelog",
+    "title": "⚠️ Claude Code发布v2.1.235,新增拼写检查功能并优化后台会话性能",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://finance.sina.com.cn/tech/roll/2026-08-18/doc-ininttrk8604637.shtml",
+    "title": "百度二季度AI业务收入占比连续两季度过半,GPU云收入增长283%",
+    "date": "2026-08-19"
   }
 ]
