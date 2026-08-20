@@ -1,15 +1,5 @@
 [
   {
-    "url": "https://finance.sina.com.cn/jjxw/2026-08-13/doc-inincxkw0084504.shtml",
-    "title": "腾讯Q2财报单季现金流转负,马化腾详解三层AI战略,微信Agent启动内测",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.229",
-    "title": "Claude Code接连发布v2.1.229/v2.1.231,新增自托管Runner钩子与插件市场命令源,修复MCP OAuth登录故障",
-    "date": "2026-08-13"
-  },
-  {
     "url": "https://code.claude.com/docs/en/changelog",
     "title": "Claude Code发布v2.1.232版本,修复多个权限绕过安全漏洞",
     "date": "2026-08-14"
@@ -108,5 +98,20 @@
     "url": "https://finance.sina.com.cn/tech/roll/2026-08-18/doc-ininttrk8604637.shtml",
     "title": "百度二季度AI业务收入占比连续两季度过半,GPU云收入增长283%",
     "date": "2026-08-19"
+  },
+  {
+    "url": "https://dev.classmethod.jp/en/articles/20260820-cc-updates-v2-1-237/",
+    "title": "⚠️ Claude Code发布v2.1.236/v2.1.237,修复LLM网关场景下Prompt Caching失效问题并新增Concise输出风格",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://finance.sina.com.cn/tech/digi/2026-08-19/doc-ininwiee8204007.shtml",
+    "title": "京东在WRC 2026上发布机器人产业战略,计划到2028年投入百亿级资源",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://www.163.com/dy/article/L4NJU8K0055284JB.html",
+    "title": "快手Q2财报:主业增速放缓,可灵AI收入同比暴增超200%",
+    "date": "2026-08-20"
   }
 ]
