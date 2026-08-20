@@ -298,5 +298,45 @@
     "url": "https://juejin.cn/post/7674818950488932398",
     "title": "8. Android 版 MCP 正式登场：AppFunctions 入门",
     "date": "2026-08-19"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/08/app-broader-memory-limits.html",
+    "title": "1. Android 每应用内存上限扩展至全机型：zRAM 换页与治理",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/08/signatures-be-true-domain-errors-and-functional-handling-in-kotlin/",
+    "title": "2. 让函数签名说真话：Kotlin 领域错误与 Either 函数式处理",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://juejin.cn/post/7675615031892394030",
+    "title": "3. 架构进阶：项目越大越要把对象创建权拿走（依赖注入）",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://juejin.cn/post/7675363171755802658",
+    "title": "4. Kotlin 协程 StateFlow 与 SharedFlow 响应式状态管理",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://juejin.cn/post/7675560672969670710",
+    "title": "5. Android SharedMemory 匿名共享内存详细使用",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://juejin.cn/post/7675540232993751059",
+    "title": "6. InputManagerService：输入事件如何回到应用层（Android 12）",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://dev.to/devsnack/building-a-token-layer-material-3-actually-respects-4acl",
+    "title": "7. 构建 Material 3 真正会遵守的设计令牌层（Compose）",
+    "date": "2026-08-20"
+  },
+  {
+    "url": "https://dev.to/devsnack/the-press-animation-that-never-plays-on-a-fast-tap-2k8d",
+    "title": "8. 快速点击时按压动画为何不触发（Compose InteractionSource 复盘）",
+    "date": "2026-08-20"
   }
 ]
