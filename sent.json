@@ -1,100 +1,5 @@
 [
   {
-    "url": "https://android-developers.googleblog.com/2026/08/pixel-app-experience-made-by-google.html",
-    "title": "1. 为新 Pixel 阵容优化应用（Made by Google）",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://android-developers.googleblog.com/2026/08/one-handed-gestures-wear-os.html",
-    "title": "2. Wear OS 7 单手手势 Gestures 框架上线",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://juejin.cn/post/7672996833275936778",
-    "title": "3. 预防远大于治理：Android 架构指南",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://juejin.cn/post/7672849477074321471",
-    "title": "4. Kotlin Channel 与复杂并发：结构化并发治理",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://juejin.cn/post/7672697935755100186",
-    "title": "5. Kotlin 协程源码解析：Continuation 的链式关系",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://juejin.cn/post/7672915108386013211",
-    "title": "6. 从 Copilot 到 Harness Engineering：Android 工程 AI 开发实践",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://juejin.cn/post/7672774189216841728",
-    "title": "7. 面向对象六大原则实战：重构可切换网络引擎的框架",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://juejin.cn/post/7672915108368449562",
-    "title": "8. 从 Perfetto 看懂 Binder 调用链",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://juejin.cn/post/7672849477074812991",
-    "title": "9. Flutter 中嵌入 Android/iOS 原生组件并解决手势冲突",
-    "date": "2026-08-13"
-  },
-  {
-    "url": "https://dev.to/jam-techcirkle/baseline-profiles-are-the-cheapest-android-win-you-are-not-taking-1157",
-    "title": "1. Baseline Profiles：被低估的最省钱 Android 性能优化",
-    "date": "2026-08-14"
-  },
-  {
-    "url": "https://dev.to/dgbarreto/the-koin-scope-bug-that-teaches-you-what-single-vs-factory-actually-means-3992",
-    "title": "2. Koin 作用域 Bug 讲透 single 与 factory 的本质（KMP）",
-    "date": "2026-08-14"
-  },
-  {
-    "url": "https://juejin.cn/post/7673037241363316772",
-    "title": "3. 从 Trace 看 Android 启动流程",
-    "date": "2026-08-14"
-  },
-  {
-    "url": "https://dev.to/xheghun/building-devicetrust-a-practical-approach-to-android-fraud-signals-53km",
-    "title": "4. 构建 DeviceTrust：Android 反欺诈信号的工程实践",
-    "date": "2026-08-14"
-  },
-  {
-    "url": "https://dev.to/elsamet/master-android-sensors-with-jetpack-compose-41ck",
-    "title": "5. 用 Jetpack Compose 掌握 Android 传感器（第一章）",
-    "date": "2026-08-14"
-  },
-  {
-    "url": "https://juejin.cn/post/7673411634811797544",
-    "title": "6. 从 Trace 看 Android Input 事件流转",
-    "date": "2026-08-14"
-  },
-  {
-    "url": "https://juejin.cn/post/7673347280923852851",
-    "title": "7. Android Camera 稳定性排查实战（高通 Camx）",
-    "date": "2026-08-14"
-  },
-  {
-    "url": "https://dev.to/laicaiapp/stop-comparing-appium-and-ui-automator-as-if-they-solve-the-same-problem-19c1",
-    "title": "8. 别再把 Appium 和 UI Automator 当同类工具比较",
-    "date": "2026-08-14"
-  },
-  {
-    "url": "https://juejin.cn/post/7673092180178534434",
-    "title": "9. Android AOP 切面编程实战：优雅处理全局断网拦截",
-    "date": "2026-08-14"
-  },
-  {
-    "url": "https://juejin.cn/post/7673037241362612260",
-    "title": "10. Android 应用间 UI 刷新与合成",
-    "date": "2026-08-14"
-  },
-  {
     "url": "https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/",
     "title": "1. Kotlin 官方博客：用 Compose HTML 探索服务端渲染（SSR）",
     "date": "2026-08-15"
@@ -338,5 +243,45 @@
     "url": "https://dev.to/devsnack/the-press-animation-that-never-plays-on-a-fast-tap-2k8d",
     "title": "8. 快速点击时按压动画为何不触发（Compose InteractionSource 复盘）",
     "date": "2026-08-20"
+  },
+  {
+    "url": "https://juejin.cn/post/7676092674902868010",
+    "title": "1. R8 Configuration Analyzer：量化 Keep 规则的体积/内存优化",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://dev.to/adilaidev/why-google-stopped-git-tags-for-android-code-5adl",
+    "title": "2. Google 正为部分 AOSP 仓库停用 Git Tag",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://juejin.cn/post/7675731373189201935",
+    "title": "3. Gradle Composite Build：本地源码 / Maven 版本双轨依赖",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://juejin.cn/post/7675992325912559635",
+    "title": "4. Android 存储体系与分区存储（Scoped Storage）",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://juejin.cn/post/7675686590933876777",
+    "title": "5. ContentProvider 与跨进程数据访问",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://dev.to/superfunicular/one-camera-two-consumers-why-recording-and-live-streaming-at-the-same-time-depends-on-your-14i1",
+    "title": "6. 一路相机两个消费者：并发录制+直播受限于 Camera2 硬件等级",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://juejin.cn/post/7676097646553808923",
+    "title": "7. 深入理解 Java/Kotlin 反射、注解与泛型",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://dev.to/gmitch215/what-i-learned-from-700-hours-of-kotlin-3gkl",
+    "title": "8. 700 小时 Kotlin 实战：KMP 的能力与短板",
+    "date": "2026-08-21"
   }
 ]
