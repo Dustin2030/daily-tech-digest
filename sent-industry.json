@@ -113,5 +113,40 @@
     "url": "https://www.163.com/dy/article/L4NJU8K0055284JB.html",
     "title": "快手Q2财报:主业增速放缓,可灵AI收入同比暴增超200%",
     "date": "2026-08-20"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.238",
+    "title": "⚠️ Claude Code发布v2.1.238,修复长会话内存泄漏并加固插件市场安全机制",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://slack.com/blog/news/slack-code-channels-for-agents",
+    "title": "Slack推出Slack Code,AI编程智能体可入驻团队专属代码频道",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://www.cls.cn/detail/2370493",
+    "title": "阿里巴巴CEO吴泳铭:未来五年AI基建投入将远超3800亿元,AI云ARR已破495亿元",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://learn.chatgpt.com/docs/changelog",
+    "title": "OpenAI Codex CLI发布0.149.0,新增交互式任务面板与跨会话消息队列",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://9to5google.com/2026/08/19/google-messages-rcs-3100-error/",
+    "title": "三星Galaxy用户经Smart Switch换机后,Google Messages RCS大面积出现3100连接错误",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "title": "OpenAI为ChatGPT Mac客户端上线Apple Messages插件,可读取/代发iMessage与RCS消息",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://learn.chatgpt.com/docs/third-party/gitlab",
+    "title": "OpenAI Codex Cloud新增GitLab支持(Beta)",
+    "date": "2026-08-21"
   }
 ]
