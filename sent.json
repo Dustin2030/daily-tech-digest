@@ -283,5 +283,45 @@
     "url": "https://dev.to/gmitch215/what-i-learned-from-700-hours-of-kotlin-3gkl",
     "title": "8. 700 小时 Kotlin 实战：KMP 的能力与短板",
     "date": "2026-08-21"
+  },
+  {
+    "url": "https://proandroiddev.com/composition-over-inheritance-in-android-viewmodels-51f3efba5f90",
+    "title": "1. Composition over Inheritance：用组合重构臃肿的 ViewModel",
+    "date": "2026-08-22"
+  },
+  {
+    "url": "https://proandroiddev.com/from-double-click-prevention-to-in-flight-deduplication-499976d3a00d",
+    "title": "2. 从防重复点击到「在途请求去重」",
+    "date": "2026-08-22"
+  },
+  {
+    "url": "https://dev.to/874wokiite/where-kotlin-stops-and-swift-starts-in-a-kotlin-multiplatform-app-211o",
+    "title": "3. KMP 架构：Kotlin 到哪为止、Swift 从哪开始",
+    "date": "2026-08-22"
+  },
+  {
+    "url": "https://proandroiddev.com/redacted-how-to-keep-your-mobile-apps-secrets-a-secret-c65765e22a31",
+    "title": "4. Redacted：如何守住移动 App 的密钥",
+    "date": "2026-08-22"
+  },
+  {
+    "url": "https://dev.to/superfunicular/can-two-apps-use-the-same-android-camera-at-once-how-the-os-picks-a-winner-and-why-a-247-2ik3",
+    "title": "5. 两个 App 能同时用同一个摄像头吗？",
+    "date": "2026-08-22"
+  },
+  {
+    "url": "https://dev.to/gia_lybui/reverse-engineering-android-apps-to-extract-private-api-endpoints-16ng",
+    "title": "6. 逆向 Android App 提取私有 API 接口",
+    "date": "2026-08-22"
+  },
+  {
+    "url": "https://dev.to/alex9001/i-reverse-engineered-hikvisions-apk-to-fix-push-notifications-on-grapheneos-and-submitted-a-pr-to-2ik2",
+    "title": "7. 逆向海康 APK：修复 GrapheneOS 上的推送失效",
+    "date": "2026-08-22"
+  },
+  {
+    "url": "https://juejin.cn/post/7676365847232790568",
+    "title": "8. Kotlin 属性访问器：设计的得与失",
+    "date": "2026-08-22"
   }
 ]
