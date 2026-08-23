@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.233",
-    "title": "Claude Code发布v2.1.233,新增WebFetch缓存时长配置与GitLab合并请求支持",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-    "title": "⚠️ Anthropic二季度营收暴涨14倍至115亿美元,首次实现正运营利润,冲刺10月2万亿美元估值IPO",
-    "date": "2026-08-16"
-  },
-  {
-    "url": "https://finance.sina.com.cn/tech/digi/2026-08-16/doc-ininnqpt7933803.shtml",
-    "title": "千问办公(钉钉生态)首发接入GLM-5.3与DeepSeek V4 Pro双模型",
-    "date": "2026-08-16"
-  },
-  {
-    "url": "https://www.anthropic.com/aug-2026-risk-report",
-    "title": "Anthropic发布8月风险报告,披露未发布内部模型Model 2,误导风险等级上调至\"低\"",
-    "date": "2026-08-16"
-  },
-  {
-    "url": "https://developers.openai.com/codex/changelog",
-    "title": "OpenAI Codex上线Linux桌面预览版,新增一键导入Claude Code配置功能",
-    "date": "2026-08-16"
-  },
-  {
-    "url": "https://vantagepoint.io/blog/sf/slack-august-2026-admin-updates",
-    "title": "Slack发布8月管理员更新:私信内可直接调用Agent、新增AI护栏与自动生成PPT/报表功能",
-    "date": "2026-08-16"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
     "title": "⚠️ Anthropic服务大范围中断,Claude Code一度无法登录",
     "date": "2026-08-17"
@@ -133,5 +103,10 @@
     "url": "https://api-docs.deepseek.com/news/news260821/",
     "title": "DeepSeek发布多模态实验模型V4-Flash-Vision-Exp,部分基准逼近Claude Opus 4.8",
     "date": "2026-08-22"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/anthropic-expects-to-match-or-top-spacex-s-record-ipo-size",
+    "title": "Anthropic筹备史上最大IPO之一,规模有望追平或超越SpaceX纪录",
+    "date": "2026-08-23"
   }
 ]
