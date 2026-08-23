@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/",
-    "title": "1. Kotlin 官方博客：用 Compose HTML 探索服务端渲染（SSR）",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://dev.to/haseebthedev0/building-a-zero-cloud-android-service-privacy-by-architecture-2oml",
-    "title": "2. 用架构实现隐私：构建零云端的 Android 服务",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://blog.quarkslab.com/bypassing-android-hardware-attestation.html",
-    "title": "3. 从分析师视角绕过 Android 硬件密钥认证",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://juejin.cn/post/7673348268144246822",
-    "title": "4. Android 图形栈：BufferQueue 多缓冲与背压",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://juejin.cn/post/7673508580561764387",
-    "title": "5. Android 事件分发机制：从 ACTION_DOWN 到 View 消费链路",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://juejin.cn/post/7673780428310609935",
-    "title": "6. LiveData 粘性事件与单次消费：打造可靠事件总线",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://juejin.cn/post/7673522589588258870",
-    "title": "7. adb shell 全套命令实操总结",
-    "date": "2026-08-15"
-  },
-  {
     "url": "https://juejin.cn/post/7674030633674178596",
     "title": "1. Android 17 MessageQueue 重构：从单锁队列到无锁 DeliQueue",
     "date": "2026-08-16"
@@ -323,5 +288,45 @@
     "url": "https://juejin.cn/post/7676365847232790568",
     "title": "8. Kotlin 属性访问器：设计的得与失",
     "date": "2026-08-22"
+  },
+  {
+    "url": "https://juejin.cn/post/7676625061881790483",
+    "title": "1. 用 Jetpack Compose 实现 iOS 风格 3D 滚轮选择器（WheelPicker）",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://juejin.cn/post/7676369124008296448",
+    "title": "2. 告别 ARouter：Navigation 3 + KSP 双轨制路由",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://dev.to/arqamwd/eleven-tables-zero-indices-and-the-observability-i-added-afterwards-found-three-more-bugs-3kgg",
+    "title": "3. 十一张表、零索引：补齐 Room 索引与可观测性后又挖出三个 Bug",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://dev.to/superfunicular/why-an-android-phone-can-record-all-night-and-still-be-unreachable-wi-fi-power-save-wifilock-and-740",
+    "title": "4. 手机整夜录制却联不上：Wi-Fi 省电、WifiLock 与四个废弃 API",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://dev.to/superfunicular/one-microphone-everything-else-why-android-gives-a-background-recorder-silence-instead-of-an-error-4i30",
+    "title": "5. 后台录音为何得到的是静音而不是报错",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://dev.to/arqamwd/my-performance-optimization-silently-disabled-the-feature-the-app-exists-for-2e1k",
+    "title": "6. 性能优化悄悄关掉了 App 赖以存在的核心功能",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://juejin.cn/post/7676229058381152297",
+    "title": "7. WebView JSBridge 治理实战：从线上白屏崩溃到协议化通信",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://juejin.cn/post/7676262434987212810",
+    "title": "8. Android 应用锁定与权限管控：Lock Task/Kiosk 模式实战",
+    "date": "2026-08-23"
   }
 ]
