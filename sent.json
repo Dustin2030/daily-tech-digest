@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://blog.jetbrains.com/kotlin/2026/08/kodees-kotlin-roundup-birthday-wishes-shipaton-2026-and-the-new-kotlin-ai-benchmark/",
-    "title": "1. Kotlin 官方月报：15 周年、首个 AI 编码基准与 X 全面转向 Kotlin",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://blog.jetbrains.com/kotlin/2026/08/klibsio-grows-to-4200-kmp-projects-with-smarter-discovery-and-new-ai-integrations/",
-    "title": "2. Klibs.io 突破 4200+ KMP 库，新增 MCP Server 与 AI 集成",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://proandroiddev.com/ai-meet-app-testing-android-app-functions-5ba289736c59",
-    "title": "3. 实测 Android App Functions：用 ADB 与测试 Agent 验证 AI 调用",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://dev.to/rae_stammler_c7297978420c/android-apk-distribution-what-developers-should-consider-outside-google-play-4pkj",
-    "title": "4. Google Play 之外的 APK 分发要点",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://juejin.cn/post/7674827790672724002",
-    "title": "5. 从 Jetpack Compose 迁移到 Kuikly Compose 实践",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://juejin.cn/post/7674881198007271459",
-    "title": "6. Android 系统启动机制（二）：init.rc 如何驱动启动",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://juejin.cn/post/7674461849685966858",
-    "title": "7. 千万别误用 Android 开发中的 AI Skills",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://juejin.cn/post/7674553650727665718",
-    "title": "8. Android Studio 集成 Detekt：Kotlin 静态检查实战",
-    "date": "2026-08-18"
-  },
-  {
     "url": "https://android-developers.googleblog.com/2026/08/tinder-app-cold-start-r8-configuration-analyzer.html",
     "title": "1. Tinder 用 R8 Configuration Analyzer 把冷启动砍掉 47%",
     "date": "2026-08-19"
@@ -278,5 +238,50 @@
     "url": "https://dev.to/ijulin/we-taught-a-230m-language-model-to-keep-learning-on-android-36hl",
     "title": "8. 让一个 230M 语言模型在 Android 端持续学习",
     "date": "2026-08-24"
+  },
+  {
+    "url": "https://juejin.cn/post/7677405707755225094",
+    "title": "1. Android Gradle Plugin 9.0 升级之路",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/08/aaos-sdv-secure-by-design.html",
+    "title": "2. AAOS SDV：面向软件定义汽车的安全设计",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://androidadventures.dev/fun-animations-with-mesh-gradients-jetpack-compose-1-12-0f708eed6c56",
+    "title": "3. Jetpack Compose 1.12 网格渐变动画实战",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hTbErhonN9o",
+    "title": "4. Kotlin 协程性能追踪：从协程到底层现实（KotlinConf）",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.kmpbits.com/posts/skeletal-compose-multiplatform/",
+    "title": "5. Skeletal：Compose Multiplatform 的自动骨架屏",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://juejin.cn/post/7676907196244852771",
+    "title": "6. DataStore 使用与原理《Android 深水区（十四）》",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://juejin.cn/post/7676421336274337855",
+    "title": "7. 车载 Android 系统 ANR「死亡螺旋」全链路分析",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://medium.com/@freynder/monads-for-kotlin-developers-1129253c534c",
+    "title": "8. Monads for Kotlin Developers",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://juejin.cn/post/7677218586257145871",
+    "title": "9. SQLite 事务与本地一致性《Android 深水区（十五）》",
+    "date": "2026-08-25"
   }
 ]
