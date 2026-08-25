@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
-    "title": "⚠️ Anthropic服务大范围中断,Claude Code一度无法登录",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqtns0280775.shtml",
-    "title": "⚠️ DeepSeek API今起实施峰谷定价,高峰时段价格最高涨11倍",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://finance.sina.com.cn/tech/roll/2026-08-17/doc-ininqxus9105158.shtml",
-    "title": "美团高管公开反思AI转型四重错配",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.234",
-    "title": "⚠️ Claude Code发布v2.1.234,修复NTLM凭据泄露安全漏洞并新增会话自动续接功能",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://finance.sina.com.cn/tech/shenji/2026-08-17/doc-ininqxus9112957.shtml",
-    "title": "阿里巴巴以超15亿美元出售游戏子公司灵犀互娱",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.washingtontimes.com/news/2026/aug/17/discord-halts-livestreams-brazil-watchdog-cites-child-safety-failures/",
-    "title": "巴西监管机构因未成年人保护问题强制Discord暂停直播功能",
-    "date": "2026-08-18"
-  },
-  {
     "url": "https://code.claude.com/docs/en/changelog",
     "title": "⚠️ Claude Code发布v2.1.235,新增拼写检查功能并优化后台会话性能",
     "date": "2026-08-19"
@@ -113,5 +83,25 @@
     "url": "https://m.21jingji.com/article/20260824/herald/d4a86c7f23757b0aba7155b26f4d9555.html",
     "title": "阿里巴巴配售新股募资约800亿港元,全部投入AI基建",
     "date": "2026-08-24"
+  },
+  {
+    "url": "https://www.androidauthority.com/claude-outage-august-24-3702012/",
+    "title": "⚠️ Anthropic Claude服务再次大范围中断",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://learn.chatgpt.com/docs/changelog",
+    "title": "⚠️ OpenAI废弃codex mcp-server命令,改用Claude Code官方插件接入",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://officechai.com/ai/anthropic-researcher-says-claude-helped-build-a-complex-structure-on-s%E2%81%B6-taking-aim-at-the-unsolved-hopf-problem/",
+    "title": "Anthropic研究员称Claude协助攻克六维球面复结构难题(霍普夫问题)",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://finance.technews.tw/2026/08/24/hugging-face-is-exploring-a-sale-that-could-value-it-at-13-billion/",
+    "title": "Hugging Face寻求出售,估值或超130亿美元",
+    "date": "2026-08-25"
   }
 ]
