@@ -103,5 +103,30 @@
     "url": "https://finance.technews.tw/2026/08/24/hugging-face-is-exploring-a-sale-that-could-value-it-at-13-billion/",
     "title": "Hugging Face寻求出售,估值或超130亿美元",
     "date": "2026-08-25"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.245",
+    "title": "⚠️ Claude Code发布v2.1.245,修复Linux glibc 2.44系统启动崩溃问题",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.ithome.com/0/993/865.htm",
+    "title": "字节跳动发布\"豆包工作\",与飞书深度打通构建企业级Agent",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprqcs5516828.shtml",
+    "title": "DeepSeek前7月营收4.75亿元,同比暴增近10倍,冲刺科创板IPO",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://www.ithome.com/0/994/252.htm",
+    "title": "阿里千问预告开源Qwen3.8-Flash-Next,基于下一代Qwen4架构",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
+    "title": "WhatsApp强化账号安全:两步验证升级、支持多枚密钥、陌生来电风险提示",
+    "date": "2026-08-25"
   }
 ]
