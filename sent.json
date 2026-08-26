@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://android-developers.googleblog.com/2026/08/tinder-app-cold-start-r8-configuration-analyzer.html",
-    "title": "1. Tinder 用 R8 Configuration Analyzer 把冷启动砍掉 47%",
-    "date": "2026-08-19"
-  },
-  {
-    "url": "https://dev.to/gabbrowick/the-gpu-that-says-yes-and-does-nothing-debugging-real-time-hair-segmentation-on-mid-range-android-2990",
-    "title": "2. GPU 说行却什么都没干：中端 Android 实时头发分割调试实录",
-    "date": "2026-08-19"
-  },
-  {
-    "url": "https://juejin.cn/post/7674905370995916815",
-    "title": "3. 一套 KMP 多仓库版本治理工作流：Version Catalog + CI 自动化发版",
-    "date": "2026-08-19"
-  },
-  {
-    "url": "https://juejin.cn/post/7674870309703090191",
-    "title": "4. Compose LazyColumn 性能优化：key、稳定性与重组治理",
-    "date": "2026-08-19"
-  },
-  {
-    "url": "https://juejin.cn/post/7674818974897537066",
-    "title": "5. Kotlin 协程 Flow 中间操作符真解",
-    "date": "2026-08-19"
-  },
-  {
-    "url": "https://juejin.cn/post/7675082315245649960",
-    "title": "6. Retrofit 请求取消与生命周期绑定：协程可取消设计",
-    "date": "2026-08-19"
-  },
-  {
-    "url": "https://juejin.cn/post/7675174492750938147",
-    "title": "7. 自定义 View 触摸反馈与手势冲突解决",
-    "date": "2026-08-19"
-  },
-  {
-    "url": "https://juejin.cn/post/7674818950488932398",
-    "title": "8. Android 版 MCP 正式登场：AppFunctions 入门",
-    "date": "2026-08-19"
-  },
-  {
     "url": "https://android-developers.googleblog.com/2026/08/app-broader-memory-limits.html",
     "title": "1. Android 每应用内存上限扩展至全机型：zRAM 换页与治理",
     "date": "2026-08-20"
@@ -283,5 +243,50 @@
     "url": "https://juejin.cn/post/7677218586257145871",
     "title": "9. SQLite 事务与本地一致性《Android 深水区（十五）》",
     "date": "2026-08-25"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/08/klibsio-grows-to-4200-kmp-projects-with-smarter-discovery-and-new-ai-integrations/",
+    "title": "1. Klibs.io 收录突破 4,200+ KMP 库，新增 MCP 与 AI 集成",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/",
+    "title": "2. 用 Compose HTML 做服务端渲染（SSR）",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
+    "title": "3. IntelliJ 走向 LSP：Java/Kotlin 智能能力登陆 VS Code、Cursor 与 Agent 工作流",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://www.reddit.com/r/androiddev/comments/1vsgzi2/ama_im_jaewoong_eum_skydoves_ask_me_anything/",
+    "title": "4. skydoves（Jaewoong Eum）在 r/androiddev 做 AmA",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://medium.com/mateedevs/changing-my-mind-about-react-native-9f1a2a42eec0",
+    "title": "5. 一位开发者对 React Native 的重新评估：RN vs KMP/原生",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BKsRF6uUVvw",
+    "title": "6. 文件系统 API 的隐秘陷阱：抽象泄漏、数据竞争与安全漏洞的交汇点",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://juejin.cn/post/7677854475684020267",
+    "title": "7. Gradle 9.7.0 用 Isolated Projects 给 Android 构建提速",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://juejin.cn/post/7677528603705901092",
+    "title": "8. Kotlin 协程 Flow 异常处理与重试的进阶实践",
+    "date": "2026-08-26"
+  },
+  {
+    "url": "https://juejin.cn/post/7677859417392775168",
+    "title": "9. Kotlin 委托机制：读懂 by 与委托属性",
+    "date": "2026-08-26"
   }
 ]
