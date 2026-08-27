@@ -1,15 +1,5 @@
 [
   {
-    "url": "https://code.claude.com/docs/en/changelog",
-    "title": "⚠️ Claude Code发布v2.1.235,新增拼写检查功能并优化后台会话性能",
-    "date": "2026-08-19"
-  },
-  {
-    "url": "https://finance.sina.com.cn/tech/roll/2026-08-18/doc-ininttrk8604637.shtml",
-    "title": "百度二季度AI业务收入占比连续两季度过半,GPU云收入增长283%",
-    "date": "2026-08-19"
-  },
-  {
     "url": "https://dev.classmethod.jp/en/articles/20260820-cc-updates-v2-1-237/",
     "title": "⚠️ Claude Code发布v2.1.236/v2.1.237,修复LLM网关场景下Prompt Caching失效问题并新增Concise输出风格",
     "date": "2026-08-20"
@@ -128,5 +118,25 @@
     "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
     "title": "WhatsApp强化账号安全:两步验证升级、支持多枚密钥、陌生来电风险提示",
     "date": "2026-08-25"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.247",
+    "title": "⚠️ Claude Code发布v2.1.247,新增SendFeedback反馈工具与cost-optimize成本优化命令",
+    "date": "2026-08-27"
+  },
+  {
+    "url": "https://www.ithome.com/0/994/630.htm",
+    "title": "工信部官宣鸿蒙成为世界第三大手机操作系统",
+    "date": "2026-08-27"
+  },
+  {
+    "url": "https://www.sina.cn/news/detail/5336244248642424.html",
+    "title": "智谱确认神秘\"牛来\"模型为GLM系列首个原生多模态模型Ox Alpha",
+    "date": "2026-08-27"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
+    "title": "英伟达Q2营收超预期,Q3指引1080亿美元创纪录",
+    "date": "2026-08-27"
   }
 ]
