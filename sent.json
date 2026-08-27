@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://android-developers.googleblog.com/2026/08/app-broader-memory-limits.html",
-    "title": "1. Android 每应用内存上限扩展至全机型：zRAM 换页与治理",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://blog.jetbrains.com/kotlin/2026/08/signatures-be-true-domain-errors-and-functional-handling-in-kotlin/",
-    "title": "2. 让函数签名说真话：Kotlin 领域错误与 Either 函数式处理",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://juejin.cn/post/7675615031892394030",
-    "title": "3. 架构进阶：项目越大越要把对象创建权拿走（依赖注入）",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://juejin.cn/post/7675363171755802658",
-    "title": "4. Kotlin 协程 StateFlow 与 SharedFlow 响应式状态管理",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://juejin.cn/post/7675560672969670710",
-    "title": "5. Android SharedMemory 匿名共享内存详细使用",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://juejin.cn/post/7675540232993751059",
-    "title": "6. InputManagerService：输入事件如何回到应用层（Android 12）",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://dev.to/devsnack/building-a-token-layer-material-3-actually-respects-4acl",
-    "title": "7. 构建 Material 3 真正会遵守的设计令牌层（Compose）",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://dev.to/devsnack/the-press-animation-that-never-plays-on-a-fast-tap-2k8d",
-    "title": "8. 快速点击时按压动画为何不触发（Compose InteractionSource 复盘）",
-    "date": "2026-08-20"
-  },
-  {
     "url": "https://juejin.cn/post/7676092674902868010",
     "title": "1. R8 Configuration Analyzer：量化 Keep 规则的体积/内存优化",
     "date": "2026-08-21"
@@ -288,5 +248,50 @@
     "url": "https://juejin.cn/post/7677859417392775168",
     "title": "9. Kotlin 委托机制：读懂 by 与委托属性",
     "date": "2026-08-26"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/",
+    "title": "1. Compose Multiplatform 1.12.0 正式发布",
+    "date": "2026-08-27"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/08/app-quality-memory-optimization-secure-onboarding.html",
+    "title": "2. Android 官方：抬升应用质量——内存新阈值与设备迁移 Zero-Tap 登录",
+    "date": "2026-08-27"
+  },
+  {
+    "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+    "title": "3. C2PA 相机在 Android 上经不起现实考验",
+    "date": "2026-08-27"
+  },
+  {
+    "url": "https://juejin.cn/post/7678214547980353576",
+    "title": "4. Binder 线程池耗尽实战：持锁同步调用 VHAL 导致 SystemUI 卡顿/ANR",
+    "date": "2026-08-27"
+  },
+  {
+    "url": "https://juejin.cn/post/7678267179139530762",
+    "title": "5. 一次 Android 拍照后卡顿的 Perfetto 定位与优化实践",
+    "date": "2026-08-27"
+  },
+  {
+    "url": "https://juejin.cn/post/7677899267893559338",
+    "title": "6. ViewCompose：让原生 Android View 进入声明式时代",
+    "date": "2026-08-27"
+  },
+  {
+    "url": "https://juejin.cn/post/7678260548069277746",
+    "title": "7. 我常用的 5 个 Kotlin 优化小技巧",
+    "date": "2026-08-27"
+  },
+  {
+    "url": "https://juejin.cn/post/7678152946144559130",
+    "title": "8. Android 12 点击桌面图标启动 Activity 全流程解析",
+    "date": "2026-08-27"
+  },
+  {
+    "url": "https://juejin.cn/post/7677899267893723178",
+    "title": "9. Kotlin 协程 Channel 基础与协程间通信",
+    "date": "2026-08-27"
   }
 ]
