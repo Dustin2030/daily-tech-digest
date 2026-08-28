@@ -293,5 +293,40 @@
     "url": "https://juejin.cn/post/7677899267893723178",
     "title": "9. Kotlin 协程 Channel 基础与协程间通信",
     "date": "2026-08-27"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/08/jetpack-compose-august-2026-release.html",
+    "title": "1. Jetpack Compose August '26 正式发布（Compose 1.12 / BOM 2026.08.00）",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/08/signatures-be-true-domain-errors-and-functional-handling-in-kotlin/",
+    "title": "2. JetBrains：用密封接口显式建模领域错误（Signatures, be true）",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://github.com/Godark14/coroutine-leak-detector",
+    "title": "3. Coroutine Leak Detector：检测协程泄漏的 Android Studio 插件",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://juejin.cn/post/7678556373495971883",
+    "title": "4. 【车载 Android】从 AAR 到 Plugin：Launcher 卡片插件化解耦实践",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://juejin.cn/post/7678586341090803748",
+    "title": "5. 复盘：Firebase 依赖发布导致全球 Android/Flutter 构建失败",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=k8T9IOnXPao",
+    "title": "6. KotlinConf 分享：Gradle DSL 的演进之路",
+    "date": "2026-08-28"
+  },
+  {
+    "url": "https://juejin.cn/post/7678367068548579354",
+    "title": "7. Android 性能优化笔记（二）",
+    "date": "2026-08-28"
   }
 ]
