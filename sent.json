@@ -1,85 +1,5 @@
 [
   {
-    "url": "https://juejin.cn/post/7676092674902868010",
-    "title": "1. R8 Configuration Analyzer：量化 Keep 规则的体积/内存优化",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://dev.to/adilaidev/why-google-stopped-git-tags-for-android-code-5adl",
-    "title": "2. Google 正为部分 AOSP 仓库停用 Git Tag",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://juejin.cn/post/7675731373189201935",
-    "title": "3. Gradle Composite Build：本地源码 / Maven 版本双轨依赖",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://juejin.cn/post/7675992325912559635",
-    "title": "4. Android 存储体系与分区存储（Scoped Storage）",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://juejin.cn/post/7675686590933876777",
-    "title": "5. ContentProvider 与跨进程数据访问",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://dev.to/superfunicular/one-camera-two-consumers-why-recording-and-live-streaming-at-the-same-time-depends-on-your-14i1",
-    "title": "6. 一路相机两个消费者：并发录制+直播受限于 Camera2 硬件等级",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://juejin.cn/post/7676097646553808923",
-    "title": "7. 深入理解 Java/Kotlin 反射、注解与泛型",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://dev.to/gmitch215/what-i-learned-from-700-hours-of-kotlin-3gkl",
-    "title": "8. 700 小时 Kotlin 实战：KMP 的能力与短板",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://proandroiddev.com/composition-over-inheritance-in-android-viewmodels-51f3efba5f90",
-    "title": "1. Composition over Inheritance：用组合重构臃肿的 ViewModel",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://proandroiddev.com/from-double-click-prevention-to-in-flight-deduplication-499976d3a00d",
-    "title": "2. 从防重复点击到「在途请求去重」",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://dev.to/874wokiite/where-kotlin-stops-and-swift-starts-in-a-kotlin-multiplatform-app-211o",
-    "title": "3. KMP 架构：Kotlin 到哪为止、Swift 从哪开始",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://proandroiddev.com/redacted-how-to-keep-your-mobile-apps-secrets-a-secret-c65765e22a31",
-    "title": "4. Redacted：如何守住移动 App 的密钥",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://dev.to/superfunicular/can-two-apps-use-the-same-android-camera-at-once-how-the-os-picks-a-winner-and-why-a-247-2ik3",
-    "title": "5. 两个 App 能同时用同一个摄像头吗？",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://dev.to/gia_lybui/reverse-engineering-android-apps-to-extract-private-api-endpoints-16ng",
-    "title": "6. 逆向 Android App 提取私有 API 接口",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://dev.to/alex9001/i-reverse-engineered-hikvisions-apk-to-fix-push-notifications-on-grapheneos-and-submitted-a-pr-to-2ik2",
-    "title": "7. 逆向海康 APK：修复 GrapheneOS 上的推送失效",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://juejin.cn/post/7676365847232790568",
-    "title": "8. Kotlin 属性访问器：设计的得与失",
-    "date": "2026-08-22"
-  },
-  {
     "url": "https://juejin.cn/post/7676625061881790483",
     "title": "1. 用 Jetpack Compose 实现 iOS 风格 3D 滚轮选择器（WheelPicker）",
     "date": "2026-08-23"
@@ -328,5 +248,45 @@
     "url": "https://juejin.cn/post/7678367068548579354",
     "title": "7. Android 性能优化笔记（二）",
     "date": "2026-08-28"
+  },
+  {
+    "url": "https://docs.gradle.org/9.7.0/release-notes.html",
+    "title": "1. Gradle 9.7.0 正式发布：Isolated Projects 进入孵化，加速大型多模块构建",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://dev.to/yadnyesh_rana/stop-hardcoding-breakpoints-a-practical-guide-to-windowsizeclass-in-jetpack-compose-1na1",
+    "title": "2. 别再硬编码断点：用 WindowSizeClass 做 Compose 自适应布局",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://dev.to/behzodhalil/shipping-onesignal-push-in-a-kotlin-multiplatform-app-5fhj",
+    "title": "3. KMP 应用接入 OneSignal 推送：从设备寻址转向用户寻址",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://dev.to/yadnyesh_rana/your-root-detection-is-theater-move-integrity-checks-to-the-server-5e7k",
+    "title": "4. 本地 Root 检测只是表演：把完整性校验搬到服务端",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://dev.to/codnet_softwarecompany_7/two-features-were-dead-in-every-release-build-for-a-month-and-worked-in-every-debug-build-9po",
+    "title": "5. 正式包里消失一个月的功能：一次 R8 引发的 release-only 事故复盘",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://dev.to/pastdaking/how-i-built-a-floating-dictation-orb-on-android-and-why-the-accessibility-service-is-the-whole-app-1gbd",
+    "title": "6. 无障碍服务即整个 App：Android 悬浮听写球的实现",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://dev.to/haseebthedev0/architecting-a-low-power-gps-geofencing-engine-for-android-background-services-4f93",
+    "title": "7. 低功耗 GPS 地理围栏引擎：GeofencingClient + 前台服务扛住 Doze",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://dev.to/superfunicular/the-output-list-is-the-part-that-changes-android-17-lets-a-camera-session-attach-and-detach-7jg",
+    "title": "8. Android 17 新增 updateOutputConfigurations()：相机会话可动态增删输出流",
+    "date": "2026-08-29"
   }
 ]
