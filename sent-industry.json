@@ -113,5 +113,35 @@
     "url": "https://www.worldjournal.com/wj/story/121343/9701152",
     "title": "智谱GLM-5.3模型权重正式开源,编程能力号称开源模型第一",
     "date": "2026-08-28"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.251",
+    "title": "⚠️ Claude Code 发布 v2.1.251,新增模型切换钩子与远程控制实时流",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist",
+    "title": "联邦法官裁定五角大楼将 Anthropic 列入\"黑名单\"违宪",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://cn.investing.com/news/stock-market-news/article-3543278",
+    "title": "快手光合创作者大会:程一笑披露 AI 渗透超九成、内容战略转向垂类深耕",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.ithome.com/0/995/791.htm",
+    "title": "美团王兴:Keeta 沙特 22 个月实现盈利,巴西市场为下一目标",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://idtechwire.com/researchers-detail-an-android-toolkit-that-feeds-fake-video-into-live-kyc-checks/",
+    "title": "安卓设备现身份核验绕过工具包,可伪造实时摄像头画面骗过 KYC 系统",
+    "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.chinanews.com.cn/gj/2026/08-28/10685685.shtml",
+    "title": "[国际局势·非科技] 尼泊尔北部山洪遇难人数升至 469 人,近千人失联",
+    "date": "2026-08-29"
   }
 ]
