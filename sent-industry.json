@@ -5,16 +5,6 @@
     "date": "2026-08-26"
   },
   {
-    "url": "https://api-docs.deepseek.com/news/news260821/",
-    "title": "DeepSeek发布多模态实验模型V4-Flash-Vision-Exp,部分基准逼近Claude Opus 4.8",
-    "date": "2026-08-22"
-  },
-  {
-    "url": "https://finance.biggo.com/news/7ca9b7b6-430a-4561-975c-ef920e39f73a",
-    "title": "OpenAI全面开源Codex核心框架Harness,采用Apache-2.0协议",
-    "date": "2026-08-22"
-  },
-  {
     "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprqcs5516828.shtml",
     "title": "DeepSeek前7月营收4.75亿元,同比暴增近10倍,冲刺科创板IPO",
     "date": "2026-08-26"
@@ -23,11 +13,6 @@
     "url": "https://finance.technews.tw/2026/08/24/hugging-face-is-exploring-a-sale-that-could-value-it-at-13-billion/",
     "title": "Hugging Face寻求出售,估值或超130亿美元",
     "date": "2026-08-25"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.239",
-    "title": "Claude Code发布v2.1.239,修复Bedrock代理计费翻倍问题并新增anthropic SDK迁移命令",
-    "date": "2026-08-22"
   },
   {
     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.245",
@@ -143,5 +128,15 @@
     "url": "https://www.chinanews.com.cn/gj/2026/08-28/10685685.shtml",
     "title": "[国际局势·非科技] 尼泊尔北部山洪遇难人数升至 469 人,近千人失联",
     "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+    "title": "⚠️ Anthropic宣布Claude Code周限额9月14日起\"提升25%\"，但实际较当前缩水17%",
+    "date": "2026-08-30"
+  },
+  {
+    "url": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-inipzxrx8343054.shtml",
+    "title": "[国际局势·非科技] 尼泊尔北部山洪遇难人数升至675人，2498人失联",
+    "date": "2026-08-30"
   }
 ]
