@@ -288,5 +288,45 @@
     "url": "https://dev.to/superfunicular/the-output-list-is-the-part-that-changes-android-17-lets-a-camera-session-attach-and-detach-7jg",
     "title": "8. Android 17 新增 updateOutputConfigurations()：相机会话可动态增删输出流",
     "date": "2026-08-29"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html",
+    "title": "1. WhatsApp 用 Passkey 重构 10 亿用户登录（官方复盘）",
+    "date": "2026-08-30"
+  },
+  {
+    "url": "https://dev.to/874wokiite/kmp-i-chose-kotlin-multiplatform-for-the-ui-sharing-the-audio-engine-is-what-saved-me-178p",
+    "title": "2. KMP 实战：共享 UI 之外，真正救命的是共享音频引擎",
+    "date": "2026-08-30"
+  },
+  {
+    "url": "https://dev.to/navidseyedain/how-i-built-an-in-place-android-screen-translator-with-jetpack-compose-ml-kit-and-gemini-vision-1667",
+    "title": "3. 用 Compose + ML Kit + Gemini 做实时屏幕翻译（开源）",
+    "date": "2026-08-30"
+  },
+  {
+    "url": "https://juejin.cn/post/7679088949328658442",
+    "title": "4. 用 OpenTelemetry 做 Android 应用监控：全链路追踪",
+    "date": "2026-08-30"
+  },
+  {
+    "url": "https://dev.to/codnet_softwarecompany_7/why-capturing-a-long-screenshot-on-android-is-harder-than-it-looks-575d",
+    "title": "5. Android 长截图为什么这么难：MediaProjection 拼接实战",
+    "date": "2026-08-30"
+  },
+  {
+    "url": "https://dev.to/superfunicular/the-camera-phone-is-the-most-backup-eligible-device-you-own-what-android-auto-backup-actually-b79",
+    "title": "6. Android Auto Backup 到底上传了什么：相机 App 的隐私边界",
+    "date": "2026-08-30"
+  },
+  {
+    "url": "https://dev.to/shubhamnanche/sskcore-turning-production-pain-into-an-android-platform-part-6-2bb0",
+    "title": "7. SskCore（六）：共享库靠显式契约演进",
+    "date": "2026-08-30"
+  },
+  {
+    "url": "https://dev.to/hafid_rizqifaluthi/google-plays-12-tester-rule-what-actually-counts-2026-57jl",
+    "title": "8. Google Play「12 位测试者」规则 2026",
+    "date": "2026-08-30"
   }
 ]
