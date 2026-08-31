@@ -60,11 +60,6 @@
     "date": "2026-08-27"
   },
   {
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/anthropic-expects-to-match-or-top-spacex-s-record-ipo-size",
-    "title": "Anthropic筹备史上最大IPO之一,规模有望追平或超越SpaceX纪录",
-    "date": "2026-08-23"
-  },
-  {
     "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
     "title": "英伟达Q2营收超预期,Q3指引1080亿美元创纪录",
     "date": "2026-08-27"
@@ -138,5 +133,25 @@
     "url": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-inipzxrx8343054.shtml",
     "title": "[国际局势·非科技] 尼泊尔北部山洪遇难人数升至675人，2498人失联",
     "date": "2026-08-30"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+    "title": "⚠️ Anthropic警告:信息窃取木马正批量盗用Claude账号会话",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://aicatchup.com/news/gpt-5-4-chatgpt-codex-access-change",
+    "title": "⚠️ OpenAI今日下线Codex中的GPT-5.4/5.4-mini,替换为GPT-5.6 Terra/Luna",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "title": "索尼音乐、华纳查普尔起诉Anthropic,指控其\"大规模盗版\"训练Claude",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://www.ithome.com/0/996/239.htm",
+    "title": "字节跳动豆包大模型2.2推迟发布,集中补齐编程与Agent能力",
+    "date": "2026-08-31"
   }
 ]
