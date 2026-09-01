@@ -1,50 +1,5 @@
 [
   {
-    "url": "https://juejin.cn/post/7677405707755225094",
-    "title": "1. Android Gradle Plugin 9.0 升级之路",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://android-developers.googleblog.com/2026/08/aaos-sdv-secure-by-design.html",
-    "title": "2. AAOS SDV：面向软件定义汽车的安全设计",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://androidadventures.dev/fun-animations-with-mesh-gradients-jetpack-compose-1-12-0f708eed6c56",
-    "title": "3. Jetpack Compose 1.12 网格渐变动画实战",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=hTbErhonN9o",
-    "title": "4. Kotlin 协程性能追踪：从协程到底层现实（KotlinConf）",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.kmpbits.com/posts/skeletal-compose-multiplatform/",
-    "title": "5. Skeletal：Compose Multiplatform 的自动骨架屏",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://juejin.cn/post/7676907196244852771",
-    "title": "6. DataStore 使用与原理《Android 深水区（十四）》",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://juejin.cn/post/7676421336274337855",
-    "title": "7. 车载 Android 系统 ANR「死亡螺旋」全链路分析",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://medium.com/@freynder/monads-for-kotlin-developers-1129253c534c",
-    "title": "8. Monads for Kotlin Developers",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://juejin.cn/post/7677218586257145871",
-    "title": "9. SQLite 事务与本地一致性《Android 深水区（十五）》",
-    "date": "2026-08-25"
-  },
-  {
     "url": "https://blog.jetbrains.com/kotlin/2026/08/klibsio-grows-to-4200-kmp-projects-with-smarter-discovery-and-new-ai-integrations/",
     "title": "1. Klibs.io 收录突破 4,200+ KMP 库，新增 MCP 与 AI 集成",
     "date": "2026-08-26"
@@ -293,5 +248,45 @@
     "url": "https://juejin.cn/post/7679012813105578024",
     "title": "9. 图解 Android 12 WindowManagerService 的窗口添加流程",
     "date": "2026-08-31"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/08/emulator-adaptive.html",
+    "title": "1. Android 官方：用 adb emu 命令自动化折叠屏/大屏适配测试",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/navigation",
+    "title": "2. AndroidX Navigation 2.10.0 正式版：导航迈向 KMP",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/glance",
+    "title": "3. AndroidX Glance 1.2.0 正式版：声明式小组件稳定基线",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://juejin.cn/post/7679972109053296650",
+    "title": "4. 冷启动从 3 秒压到 800ms 的全链路排查",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://juejin.cn/post/7679972109054165002",
+    "title": "5. 辨析 CoroutineExceptionHandler 与 ContinuationInterceptor",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://juejin.cn/post/7679725569860616218",
+    "title": "6. 协程源码解析（六）：delay() 如何挂起协程",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://juejin.cn/post/7679666563793338404",
+    "title": "7. ViewCompose 进阶：可编译可渲染的声明式闭环",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://juejin.cn/post/7679322561684275215",
+    "title": "8. 从 Binder 驱动视角看系统服务的添加过程",
+    "date": "2026-09-01"
   }
 ]
