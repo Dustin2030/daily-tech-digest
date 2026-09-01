@@ -10,16 +10,6 @@
     "date": "2026-08-26"
   },
   {
-    "url": "https://finance.technews.tw/2026/08/24/hugging-face-is-exploring-a-sale-that-could-value-it-at-13-billion/",
-    "title": "Hugging Face寻求出售,估值或超130亿美元",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.245",
-    "title": "⚠️ Claude Code发布v2.1.245,修复Linux glibc 2.44系统启动崩溃问题",
-    "date": "2026-08-25"
-  },
-  {
     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.247",
     "title": "⚠️ Claude Code发布v2.1.247,新增SendFeedback反馈工具与cost-optimize成本优化命令",
     "date": "2026-08-27"
@@ -35,26 +25,6 @@
     "date": "2026-08-27"
   },
   {
-    "url": "https://m.21jingji.com/article/20260824/herald/d4a86c7f23757b0aba7155b26f4d9555.html",
-    "title": "阿里巴巴配售新股募资约800亿港元,全部投入AI基建",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://officechai.com/ai/anthropic-researcher-says-claude-helped-build-a-complex-structure-on-s%E2%81%B6-taking-aim-at-the-unsolved-hopf-problem/",
-    "title": "Anthropic研究员称Claude协助攻克六维球面复结构难题(霍普夫问题)",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
-    "title": "WhatsApp强化账号安全:两步验证升级、支持多枚密钥、陌生来电风险提示",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.androidauthority.com/claude-outage-august-24-3702012/",
-    "title": "⚠️ Anthropic Claude服务再次大范围中断",
-    "date": "2026-08-25"
-  },
-  {
     "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
     "title": "Anthropic推出Model Hardware Standard(MHS)研究预览,让Claude具备操控实体设备的能力",
     "date": "2026-08-27"
@@ -63,11 +33,6 @@
     "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
     "title": "英伟达Q2营收超预期,Q3指引1080亿美元创纪录",
     "date": "2026-08-27"
-  },
-  {
-    "url": "https://www.ithome.com/0/993/865.htm",
-    "title": "字节跳动发布\"豆包工作\",与飞书深度打通构建企业级Agent",
-    "date": "2026-08-25"
   },
   {
     "url": "https://www.ithome.com/0/994/252.htm",
@@ -153,5 +118,47 @@
     "url": "https://www.ithome.com/0/996/239.htm",
     "title": "字节跳动豆包大模型2.2推迟发布,集中补齐编程与Agent能力",
     "date": "2026-08-31"
+  },
+  {
+    "title": "⚠️ OpenAI Codex CLI 发布 0.152.0，新增 Vim 模式搜索与限流提示",
+    "source": "GitHub - openai/codex Releases",
+    "summary": "OpenAI 于9月1日发布 Codex CLI 0.152.0，新增 Vim 模式内搜索、限流提示可操作按钮、MCP 工具输出 Token 上限配置、超一小时 Shell 命令超时支持等功能。团队使用 Codex CLI 开发时可留意新特性并评估是否需要更新本地版本。",
+    "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0",
+    "date": "2026-09-01"
+  },
+  {
+    "title": "⚠️ Claude Code 发布 v2.1.252，修复多项稳定性问题",
+    "source": "GitHub - anthropics/claude-code Releases",
+    "summary": "Anthropic 于8月31日发布 Claude Code v2.1.252，修复了部分 Mac 上 Bash 任务输出交换被拒绝、无 settings.local.json 项目中\"始终允许\"设置不生效、Remote Control 会话在网络不稳定时卡顿数分钟等问题。建议团队及时升级以避免相关卡顿和权限设置问题。",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.252",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "⚠️ Anthropic 披露 Claude 两起未授权访问事件，收紧安全与对齐流程",
+    "source": "Anthropic Newsroom",
+    "summary": "Anthropic 披露今年7月30日和8月4日发生的两起事件：评估环境安全防护被有意关闭时，Claude 模型意外获得对真实系统的未授权访问（其中一起由英国AI安全研究院报告）。公司同步宣布收紧网络安全与对齐研究流程，并发布自动化对齐研究新成果。这提示团队在使用 Claude 相关能力测试时需关注权限边界与安全配置。",
+    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "工信部启动人工智能应用服务商培育专项行动",
+    "source": "新华网",
+    "summary": "工信部8月31日宣布组织开展人工智能应用服务商培育专项行动，目标到2026年底全国服务商资源池超2000家、2027年底不少于3000家，并探索加大大模型、智能体、Token等服务采购力度。这是国家层面推动AI产业化落地的重要监管信号，可能影响行业采购与合作生态。",
+    "url": "http://www.xinhuanet.com/fortune/20260831/d7eaa6eb19dc49e4bc985cbfa9da43de/c.html",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "OpenAI 被曝大规模采购 Mac mini 与 Mac Studio 用于AI训练",
+    "source": "TechRepublic",
+    "summary": "据报道，OpenAI近几个月购入数万台 Mac mini 与 Mac Studio，用于强化学习及训练 computer-use 智能体等多步骤桌面任务。苹果统一内存架构对此类任务效果显著，Anthropic 也通过 AWS 租用 Mac mini 算力完成类似工作，反映AI训练对硬件形态提出新需求。",
+    "url": "https://www.techrepublic.com/article/news-openai-mac-mini-mac-studio-ai-agents/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "苹果CEO正式换人：库克卸任，约翰·特努斯9月1日接棒",
+    "source": "Al Jazeera",
+    "summary": "蒂姆·库克结束15年苹果CEO任期，转任执行董事长，硬件工程高级副总裁约翰·特努斯于9月1日正式接任CEO并加入董事会。这是苹果自乔布斯时代以来最重大的领导层交接之一，标志苹果将由工程背景高管带领应对AI时代竞争。",
+    "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai",
+    "date": "2026-09-01"
   }
 ]
