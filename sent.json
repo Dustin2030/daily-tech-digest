@@ -288,5 +288,45 @@
     "url": "https://juejin.cn/post/7679322561684275215",
     "title": "8. 从 Binder 驱动视角看系统服务的添加过程",
     "date": "2026-09-01"
+  },
+  {
+    "url": "https://androidstudio.googleblog.com/2026/09/android-studio-quail-4-now-available.html",
+    "title": "1. Android Studio Quail 4 正式版发布",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/09/leverage-gemma-4-android-studio-quail.html",
+    "title": "2. Android Studio 集成本地大模型 Gemma 4",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://dev.to/darshan_rathod/i-got-a-phone-call-my-music-stopped-instantly-so-i-went-digging-into-androids-source-to-find-out-182i",
+    "title": "3. 深入 Android 音频焦点源码：来电为何瞬间暂停音乐",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://dev.to/superfunicular/choosing-which-old-phone-becomes-the-camera-what-android-says-a-third-party-app-can-do-with-the-299a",
+    "title": "4. Camera2 逻辑相机与多摄像头：第三方 App 能拿到什么",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://dev.to/dphmsdev/i-built-a-no-root-android-system-optimizer-that-runs-real-shell-commands-via-shizuku-heres-how-2h5a",
+    "title": "5. 免 root 用 Shizuku 执行真实 shell 命令做系统优化",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://darrylbayliss.net/how-to-build-a-kmp-library-using-xcode-cloud/",
+    "title": "6. 用 Xcode Cloud 为 KMP 共享库搭建 iOS 侧 CI",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://juejin.cn/post/7680126224086056995",
+    "title": "7. Kotlin 协程 Dispatcher 深入解析与用法",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://rifqimfahmi.dev/blog/building-an-android-app-by-hand-one-layer-at-a-time",
+    "title": "8. 手写构建一个 Android App：从 .class 到 APK",
+    "date": "2026-09-02"
   }
 ]
