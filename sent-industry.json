@@ -1,15 +1,5 @@
 [
   {
-    "url": "http://www.eeo.com.cn/2026/0826/1012346.shtml",
-    "title": "阿里推出企业级Agent产品\"千问办公\",搭载Qwen3.8-Flash模型并与钉钉深度打通",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprqcs5516828.shtml",
-    "title": "DeepSeek前7月营收4.75亿元,同比暴增近10倍,冲刺科创板IPO",
-    "date": "2026-08-26"
-  },
-  {
     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.247",
     "title": "⚠️ Claude Code发布v2.1.247,新增SendFeedback反馈工具与cost-optimize成本优化命令",
     "date": "2026-08-27"
@@ -33,11 +23,6 @@
     "url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
     "title": "英伟达Q2营收超预期,Q3指引1080亿美元创纪录",
     "date": "2026-08-27"
-  },
-  {
-    "url": "https://www.ithome.com/0/994/252.htm",
-    "title": "阿里千问预告开源Qwen3.8-Flash-Next,基于下一代Qwen4架构",
-    "date": "2026-08-26"
   },
   {
     "url": "https://www.ithome.com/0/994/630.htm",
@@ -185,5 +170,25 @@
     "url": "https://m.163.com/dy/article/L5LKRTDJ05568W0A.html",
     "title": "腾讯WorkBuddy生态发布会举行，混元Hy4preview接入引发扩容",
     "date": "2026-09-02"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.259",
+    "title": "⚠️ Claude Code 发布 v2.1.259，新增 MCP 服务器统一管理与无人值守权限模式",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.0",
+    "title": "⚠️ OpenAI Codex CLI 发布 0.153.0，Vim 模式支持撤销重做，插件市场功能上线",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://finance.sina.com.cn/jjxw/2026-09-03/doc-iniqpvfw2067537.shtml",
+    "title": "字节跳动获296亿美元银团贷款，创年内亚洲第二大美元银团贷款",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://finance.sina.com.cn/roll/2026-09-03/doc-iniqpvfu1082048.shtml",
+    "title": "美国推动G20采纳AI「轻监管」原则（卡罗来纳原则），中俄等成员国支持",
+    "date": "2026-09-03"
   }
 ]
