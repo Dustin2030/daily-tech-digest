@@ -328,5 +328,55 @@
     "url": "https://rifqimfahmi.dev/blog/building-an-android-app-by-hand-one-layer-at-a-time",
     "title": "8. 手写构建一个 Android App：从 .class 到 APK",
     "date": "2026-09-02"
+  },
+  {
+    "url": "https://dev.to/darkpandawarrior/expectactual-is-the-wrong-default-in-kmp-5g7p",
+    "title": "1. expect/actual 不该是 KMP 的默认选择",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://dev.to/darkpandawarrior/your-lazycolumn-recomposes-on-every-scroll-3amj",
+    "title": "2. 你的 LazyColumn 每次滚动都在重组",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://dev.to/realvancedyoutube/background-tasks-in-kotlin-multiplatform-unifying-android-workmanager-and-ios-bgtaskscheduler-3no4",
+    "title": "3. KMP 统一后台任务：WorkManager 与 BGTaskScheduler",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://juejin.cn/post/7680793159375536163",
+    "title": "4. 协程调度源码：CoroutineScheduler 与 DispatchedContinuation",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://dev.to/pielounw/on-device-ai-in-kotlin-189o",
+    "title": "5. 在 Kotlin 中运行端侧 AI（On-Device AI）",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://medium.com/@zeyad.gasser/turning-the-page-a-real-page-curl-on-ios-with-compose-multiplatform-608ffd4acbdd",
+    "title": "6. 用 Compose Multiplatform 在 iOS 上实现真实翻页卷曲",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://dev.to/xneuronal/android-geofences-that-never-fired-a-permission-promise-that-lied-and-a-cache-that-outlived-the-os-20c2",
+    "title": "7. 地理围栏为何“静默失效”：权限与缓存的排障复盘",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://juejin.cn/post/7680581898922082346",
+    "title": "8. APK 加固原理（五）：SO .text 段加密与运行时动态解密",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://juejin.cn/post/7680879960253038601",
+    "title": "9. 黑屏卡死根因竟是 scrcpy 与 Rockchip 编码器的 DMA-BUF 泄漏",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://juejin.cn/post/7680766055174832171",
+    "title": "10. PDF Viewer KMP：基于 PDFium 内核的跨平台 PDF 库",
+    "date": "2026-09-03"
   }
 ]
