@@ -1,95 +1,5 @@
 [
   {
-    "url": "https://blog.jetbrains.com/kotlin/2026/08/klibsio-grows-to-4200-kmp-projects-with-smarter-discovery-and-new-ai-integrations/",
-    "title": "1. Klibs.io 收录突破 4,200+ KMP 库，新增 MCP 与 AI 集成",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://blog.jetbrains.com/kotlin/2026/08/exploring-compose-html-for-server-side-rendering/",
-    "title": "2. 用 Compose HTML 做服务端渲染（SSR）",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
-    "title": "3. IntelliJ 走向 LSP：Java/Kotlin 智能能力登陆 VS Code、Cursor 与 Agent 工作流",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://www.reddit.com/r/androiddev/comments/1vsgzi2/ama_im_jaewoong_eum_skydoves_ask_me_anything/",
-    "title": "4. skydoves（Jaewoong Eum）在 r/androiddev 做 AmA",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://medium.com/mateedevs/changing-my-mind-about-react-native-9f1a2a42eec0",
-    "title": "5. 一位开发者对 React Native 的重新评估：RN vs KMP/原生",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=BKsRF6uUVvw",
-    "title": "6. 文件系统 API 的隐秘陷阱：抽象泄漏、数据竞争与安全漏洞的交汇点",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://juejin.cn/post/7677854475684020267",
-    "title": "7. Gradle 9.7.0 用 Isolated Projects 给 Android 构建提速",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://juejin.cn/post/7677528603705901092",
-    "title": "8. Kotlin 协程 Flow 异常处理与重试的进阶实践",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://juejin.cn/post/7677859417392775168",
-    "title": "9. Kotlin 委托机制：读懂 by 与委托属性",
-    "date": "2026-08-26"
-  },
-  {
-    "url": "https://blog.jetbrains.com/kotlin/2026/08/compose-multiplatform-1-12-0/",
-    "title": "1. Compose Multiplatform 1.12.0 正式发布",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://android-developers.googleblog.com/2026/08/app-quality-memory-optimization-secure-onboarding.html",
-    "title": "2. Android 官方：抬升应用质量——内存新阈值与设备迁移 Zero-Tap 登录",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-    "title": "3. C2PA 相机在 Android 上经不起现实考验",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://juejin.cn/post/7678214547980353576",
-    "title": "4. Binder 线程池耗尽实战：持锁同步调用 VHAL 导致 SystemUI 卡顿/ANR",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://juejin.cn/post/7678267179139530762",
-    "title": "5. 一次 Android 拍照后卡顿的 Perfetto 定位与优化实践",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://juejin.cn/post/7677899267893559338",
-    "title": "6. ViewCompose：让原生 Android View 进入声明式时代",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://juejin.cn/post/7678260548069277746",
-    "title": "7. 我常用的 5 个 Kotlin 优化小技巧",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://juejin.cn/post/7678152946144559130",
-    "title": "8. Android 12 点击桌面图标启动 Activity 全流程解析",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://juejin.cn/post/7677899267893723178",
-    "title": "9. Kotlin 协程 Channel 基础与协程间通信",
-    "date": "2026-08-27"
-  },
-  {
     "url": "https://android-developers.googleblog.com/2026/08/jetpack-compose-august-2026-release.html",
     "title": "1. Jetpack Compose August '26 正式发布（Compose 1.12 / BOM 2026.08.00）",
     "date": "2026-08-28"
@@ -378,5 +288,50 @@
     "url": "https://juejin.cn/post/7680766055174832171",
     "title": "10. PDF Viewer KMP：基于 PDFium 内核的跨平台 PDF 库",
     "date": "2026-09-03"
+  },
+  {
+    "url": "https://developer.android.com/build/releases/agp-9-4-0-release-notes",
+    "title": "1. Android Gradle Plugin 9.4.0 稳定版发布",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://juejin.cn/post/7680996030843125796",
+    "title": "2. 腾讯音乐开源 Android 秒编方案 Jugg",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://juejin.cn/post/7680938642575949858",
+    "title": "3. 别只混淆代码：用 Kaleido 加固整个 Android Release AAB",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://juejin.cn/post/7681135640989515818",
+    "title": "4. Kotlin 协程「死锁天劫」：同步原语与 ThreadLocal 迁移之道",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://juejin.cn/post/7680842064037806089",
+    "title": "5. Kotlin 中的 Nothing：一个「没有值」的类型有什么用",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://dev.to/cjbrooks12/building-vesper-on-ballast-one-state-model-to-rule-them-all-147m",
+    "title": "6. Ballast 状态模型：一套 State 统治 30+ 屏幕的 KMP 应用",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://dev.to/wassimbeltaief/why-is-form-state-management-in-jetpack-compose-still-this-painful-3mjp",
+    "title": "7. Compose 表单状态为何仍这么痛：Formidable 的 KSP 解法",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://dev.to/dave_gordon/5-places-a-real-time-camera-filter-drops-frames-27lg",
+    "title": "8. 实时相机滤镜掉帧的 5 个高发点",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://dev.to/laicaiapp/android-localization-qa-automate-the-matrix-not-the-language-judgment-57pb",
+    "title": "9. Android 本地化 QA：自动化矩阵，人工判断语言",
+    "date": "2026-09-04"
   }
 ]
