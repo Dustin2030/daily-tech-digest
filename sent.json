@@ -333,5 +333,40 @@
     "url": "https://dev.to/laicaiapp/android-localization-qa-automate-the-matrix-not-the-language-judgment-57pb",
     "title": "9. Android 本地化 QA：自动化矩阵，人工判断语言",
     "date": "2026-09-04"
+  },
+  {
+    "url": "https://dev.to/darkpandawarrior/collectasstate-is-quietly-leaking-your-work-4ak0",
+    "title": "1. collectAsState 正在悄悄泄漏你的后台工作",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://dev.to/ryoitabashi/i-still-cant-write-code-but-i-finally-found-why-the-alarm-fired-and-nothing-happened-2ano",
+    "title": "2. AlarmManager 闹钟响了却什么都没发生：把 PendingIntent 指向前台服务",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://dev.to/codnet_softwarecompany_7/why-androids-scrolling-screenshot-is-greyed-out-in-the-app-you-actually-need-it-in-1n9p",
+    "title": "3. 为什么滚动截图偏偏在你最需要的 App 里变灰",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://dev.to/boyoffi9/i-built-a-real-drop-in-matrix-rain-view-for-android-not-another-canvas-tutorial-25kp",
+    "title": "4. MatrixRainView：把“代码雨”做成生产级自定义 View",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://juejin.cn/post/7681116470865838107",
+    "title": "5. Android Freeform 自由窗口功能演进分析（Android 14 → 17）",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://juejin.cn/post/7681411791893758006",
+    "title": "6. 打破边界（一）：实战编写 Android/iOS 原生模块",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://juejin.cn/post/7681462243146825754",
+    "title": "7. Android 13 BroadcastReceiver 收不到 PDA 扫码广播？排查清单",
+    "date": "2026-09-05"
   }
 ]
