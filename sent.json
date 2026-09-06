@@ -1,80 +1,5 @@
 [
   {
-    "url": "https://android-developers.googleblog.com/2026/08/jetpack-compose-august-2026-release.html",
-    "title": "1. Jetpack Compose August '26 正式发布（Compose 1.12 / BOM 2026.08.00）",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://blog.jetbrains.com/kotlin/2026/08/signatures-be-true-domain-errors-and-functional-handling-in-kotlin/",
-    "title": "2. JetBrains：用密封接口显式建模领域错误（Signatures, be true）",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://github.com/Godark14/coroutine-leak-detector",
-    "title": "3. Coroutine Leak Detector：检测协程泄漏的 Android Studio 插件",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://juejin.cn/post/7678556373495971883",
-    "title": "4. 【车载 Android】从 AAR 到 Plugin：Launcher 卡片插件化解耦实践",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://juejin.cn/post/7678586341090803748",
-    "title": "5. 复盘：Firebase 依赖发布导致全球 Android/Flutter 构建失败",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=k8T9IOnXPao",
-    "title": "6. KotlinConf 分享：Gradle DSL 的演进之路",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://juejin.cn/post/7678367068548579354",
-    "title": "7. Android 性能优化笔记（二）",
-    "date": "2026-08-28"
-  },
-  {
-    "url": "https://docs.gradle.org/9.7.0/release-notes.html",
-    "title": "1. Gradle 9.7.0 正式发布：Isolated Projects 进入孵化，加速大型多模块构建",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://dev.to/yadnyesh_rana/stop-hardcoding-breakpoints-a-practical-guide-to-windowsizeclass-in-jetpack-compose-1na1",
-    "title": "2. 别再硬编码断点：用 WindowSizeClass 做 Compose 自适应布局",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://dev.to/behzodhalil/shipping-onesignal-push-in-a-kotlin-multiplatform-app-5fhj",
-    "title": "3. KMP 应用接入 OneSignal 推送：从设备寻址转向用户寻址",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://dev.to/yadnyesh_rana/your-root-detection-is-theater-move-integrity-checks-to-the-server-5e7k",
-    "title": "4. 本地 Root 检测只是表演：把完整性校验搬到服务端",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://dev.to/codnet_softwarecompany_7/two-features-were-dead-in-every-release-build-for-a-month-and-worked-in-every-debug-build-9po",
-    "title": "5. 正式包里消失一个月的功能：一次 R8 引发的 release-only 事故复盘",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://dev.to/pastdaking/how-i-built-a-floating-dictation-orb-on-android-and-why-the-accessibility-service-is-the-whole-app-1gbd",
-    "title": "6. 无障碍服务即整个 App：Android 悬浮听写球的实现",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://dev.to/haseebthedev0/architecting-a-low-power-gps-geofencing-engine-for-android-background-services-4f93",
-    "title": "7. 低功耗 GPS 地理围栏引擎：GeofencingClient + 前台服务扛住 Doze",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://dev.to/superfunicular/the-output-list-is-the-part-that-changes-android-17-lets-a-camera-session-attach-and-detach-7jg",
-    "title": "8. Android 17 新增 updateOutputConfigurations()：相机会话可动态增删输出流",
-    "date": "2026-08-29"
-  },
-  {
     "url": "https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html",
     "title": "1. WhatsApp 用 Passkey 重构 10 亿用户登录（官方复盘）",
     "date": "2026-08-30"
@@ -368,5 +293,50 @@
     "url": "https://juejin.cn/post/7681462243146825754",
     "title": "7. Android 13 BroadcastReceiver 收不到 PDA 扫码广播？排查清单",
     "date": "2026-09-05"
+  },
+  {
+    "url": "https://source.android.com/docs/core/perf/memory-limiter",
+    "title": "1. Android 17「内存限制器」：2027 年 2 月起给 App 设内存上限",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-toolchain-0-12-multiplatform-library-publishing-wasm-apps-and-more/",
+    "title": "2. Kotlin Toolchain 0.12：命令行发布 KMP 库、Wasm 应用预览、Compose 热重载",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://dev.to/sajidalidev/my-journey-making-compose-multiplatform-work-on-tvos-and-what-i-learned-1mo3",
+    "title": "3. 把 Compose Multiplatform 移植到 tvOS：一次真实的深度改造",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://dev.to/tkuenneth/dealing-with-sensitive-permissions-on-android-3icg",
+    "title": "4. Android「敏感权限」实战：OS 危险权限与 Play 敏感分类的错位",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://dev.to/secbyjasonmiller/no-cve-is-coming-for-android-image-cropper-audit-anyway-93",
+    "title": "5. 没有 CVE 不代表安全：给 Android-Image-Cropper 做一次供应链审计",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://dev.to/patlolla_saikeerthana_56/video-wont-play-turned-out-to-be-four-different-bugs-3fkp",
+    "title": "6. 「视频播放不了」其实是四个不同的 bug：ExoPlayer/Media3 排障复盘",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7681511201547255842",
+    "title": "7. Zygote 创建 App 为什么走 Socket？——源码事实与架构解释的严格区分",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7681491776926859283",
+    "title": "8. 自定义 CoroutineDispatcher：优先级调度、令牌桶限流与线程亲和",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://juejin.cn/post/7681509159190233138",
+    "title": "9. 智能眼镜开发：Android 采集 AI 眼镜麦克风——蓝牙音频路由与 AudioRecord 实战",
+    "date": "2026-09-06"
   }
 ]
