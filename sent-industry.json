@@ -1,15 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
-    "title": "⚠️ Anthropic宣布Claude Code周限额9月14日起\"提升25%\"，但实际较当前缩水17%",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-inipzxrx8343054.shtml",
-    "title": "[国际局势·非科技] 尼泊尔北部山洪遇难人数升至675人，2498人失联",
-    "date": "2026-08-30"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
     "title": "⚠️ Anthropic警告:信息窃取木马正批量盗用Claude账号会话",
     "date": "2026-08-31"
@@ -170,5 +160,35 @@
     "url": "https://www.tribuneindia.com/news/world/nepal-flash-floods-death-toll-surges-to-1344-as-rescue-efforts-continue-around-5000-still-missing/",
     "title": "[国际局势·非科技] 尼泊尔冰崩洪灾死亡人数升至1344人，近5000人失踪",
     "date": "2026-09-06"
+  },
+  {
+    "url": "https://finance.sina.com.cn/roll/2026-09-07/doc-iniqxyne9658925.shtml",
+    "title": "华为、小米同日发布折叠屏旗舰，苹果下周新品跟进",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://k.sina.com.cn/article_5952915720_162d2490806704ruw8.html?from=finance",
+    "title": "月之暗面（Kimi）秘密向港交所递交IPO申请，估值500亿美元",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://openai.com/index/an-alien-mind/",
+    "title": "OpenAI首席科学家发文《An Alien Mind》，呼吁行业设定统一安全底线",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.263",
+    "title": "⚠️ Claude Code 发布 v2.1.263，修复稳定性问题",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.salesforce.com/news/stories/salesforce-simplifies-editions-2026/",
+    "title": "Salesforce推出新版Agentforce套餐，将Slack打包进全部版本",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv",
+    "title": "[国际局势·非科技] 美国特使基辅会晤泽连斯基，乌克兰和谈出现新进展",
+    "date": "2026-09-07"
   }
 ]
