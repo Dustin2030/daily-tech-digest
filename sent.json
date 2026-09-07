@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://android-developers.googleblog.com/2026/08/whatsapp-passkeys-secure-sign-in.html",
-    "title": "1. WhatsApp 用 Passkey 重构 10 亿用户登录（官方复盘）",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://dev.to/874wokiite/kmp-i-chose-kotlin-multiplatform-for-the-ui-sharing-the-audio-engine-is-what-saved-me-178p",
-    "title": "2. KMP 实战：共享 UI 之外，真正救命的是共享音频引擎",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://dev.to/navidseyedain/how-i-built-an-in-place-android-screen-translator-with-jetpack-compose-ml-kit-and-gemini-vision-1667",
-    "title": "3. 用 Compose + ML Kit + Gemini 做实时屏幕翻译（开源）",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://juejin.cn/post/7679088949328658442",
-    "title": "4. 用 OpenTelemetry 做 Android 应用监控：全链路追踪",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://dev.to/codnet_softwarecompany_7/why-capturing-a-long-screenshot-on-android-is-harder-than-it-looks-575d",
-    "title": "5. Android 长截图为什么这么难：MediaProjection 拼接实战",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://dev.to/superfunicular/the-camera-phone-is-the-most-backup-eligible-device-you-own-what-android-auto-backup-actually-b79",
-    "title": "6. Android Auto Backup 到底上传了什么：相机 App 的隐私边界",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://dev.to/shubhamnanche/sskcore-turning-production-pain-into-an-android-platform-part-6-2bb0",
-    "title": "7. SskCore（六）：共享库靠显式契约演进",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://dev.to/hafid_rizqifaluthi/google-plays-12-tester-rule-what-actually-counts-2026-57jl",
-    "title": "8. Google Play「12 位测试者」规则 2026",
-    "date": "2026-08-30"
-  },
-  {
     "url": "https://medium.com/@qamar_safadi/the-recompositions-that-werent-there-d2cf429c47f2",
     "title": "1. Compose 里“看不见的重组”：用内存数据揪出隐藏 Recomposition",
     "date": "2026-08-31"
@@ -338,5 +298,50 @@
     "url": "https://juejin.cn/post/7681509159190233138",
     "title": "9. 智能眼镜开发：Android 采集 AI 眼镜麦克风——蓝牙音频路由与 AudioRecord 实战",
     "date": "2026-09-06"
+  },
+  {
+    "url": "https://www.reddit.com/r/Android/comments/1w93vfm/dev_google_is_killing_access_to_agp_internals/",
+    "title": "1. Google 收紧 AGP 内部类访问，大量自定义构建插件将受影响",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.reddit.com/r/androiddev/comments/1w7z55v/i_added_ios_binary_size_profiling_to_kmprofiler/",
+    "title": "2. kmprofiler 0.2.0：用 Xcode link map 做 KMP iOS 二进制体积分析",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.reddit.com/r/Kotlin/comments/1w7qm5z/sealedclassenumizer_a_k2_compiler_plugin_that/",
+    "title": "3. sealed-class-enumizer：K2 编译器插件，让密封类拥有类枚举 API 且零反射",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://dev.to/yuus_company/json-to-kotlin-data-class-gson-vs-moshi-vs-kotlinxserialization-annotations-34go",
+    "title": "4. Kotlin JSON 序列化选型：Gson vs Moshi vs kotlinx.serialization",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.reddit.com/r/androiddev/comments/1w788ui/left_this_comment_on_a_pr_yesterday_this/",
+    "title": "5. 一条 PR 评论引发的讨论：协程绑错生命周期作用域会泄漏",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.reddit.com/r/Kotlin/comments/1w7tg1o/kmp_logging_design_notes_androidstyle_call_sites/",
+    "title": "6. KMP 日志设计笔记：Android 风格调用点 + 像算术一样组合 Logger",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://juejin.cn/post/7681985571748741147",
+    "title": "7. 掘金：不用 AIDL，手把手教你手写 Binder 代理类",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://juejin.cn/post/7682024345256673318",
+    "title": "8. 掘金：Kotlin 泛型进阶——攻克型变与实化",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://juejin.cn/post/7681574954576986164",
+    "title": "9. 掘金：Android 系统「卸载更新」机制的实现方案与 Android 16 适配",
+    "date": "2026-09-07"
   }
 ]
