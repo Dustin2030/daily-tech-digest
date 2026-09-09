@@ -1,19 +1,5 @@
 [
   {
-    "title": "⚠️ OpenAI Codex CLI 发布 0.152.0，新增 Vim 模式搜索与限流提示",
-    "source": "GitHub - openai/codex Releases",
-    "summary": "OpenAI 于9月1日发布 Codex CLI 0.152.0，新增 Vim 模式内搜索、限流提示可操作按钮、MCP 工具输出 Token 上限配置、超一小时 Shell 命令超时支持等功能。团队使用 Codex CLI 开发时可留意新特性并评估是否需要更新本地版本。",
-    "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0",
-    "date": "2026-09-01"
-  },
-  {
-    "title": "苹果CEO正式换人：库克卸任，约翰·特努斯9月1日接棒",
-    "source": "Al Jazeera",
-    "summary": "蒂姆·库克结束15年苹果CEO任期，转任执行董事长，硬件工程高级副总裁约翰·特努斯于9月1日正式接任CEO并加入董事会。这是苹果自乔布斯时代以来最重大的领导层交接之一，标志苹果将由工程背景高管带领应对AI时代竞争。",
-    "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai",
-    "date": "2026-09-01"
-  },
-  {
     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
     "title": "⚠️ Claude Fable 5.1 / Mythos 5.1 正式发布，Claude Code v2.1.257 同步支持",
     "date": "2026-09-02"
@@ -152,5 +138,20 @@
     "url": "https://www.ithome.com/0/999/197.htm",
     "title": "百度\"小度\"新品发布会，超能小度进驻家庭场景",
     "date": "2026-09-08"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.265",
+    "title": "⚠️ Claude Code 发布 v2.1.265，新增插件目录、工作树并行检出与会话归档，修复符号链接安全绕过",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://finance.sina.com.cn/tech/roll/2026-09-09/doc-iniresye4008617.shtml",
+    "title": "DeepSeek 官宣 Flash 系列模型大幅降价并提速，最高降幅60%",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://ca.investing.com/news/stock-market-news/qualcomm-strikes-ai-chip-deal-with-amazon-offers-right-to-buy-about-4-billion-in-stock-4831131",
+    "title": "高通与亚马逊达成最高600亿美元AI芯片合作",
+    "date": "2026-09-09"
   }
 ]
