@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-    "title": "⚠️ Claude Fable 5.1 / Mythos 5.1 正式发布，Claude Code v2.1.257 同步支持",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-    "title": "⚠️ Anthropic 推出 Enterprise Frontier Safeguards，企业数据可留存在自有云端",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://www.ithome.com/0/996/663.htm",
-    "title": "快手可灵获国家人工智能产业投资基金增资14亿元",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://finance.sina.com.cn/wm/2026-08-27/doc-iniptxkt9008755.shtml",
-    "title": "百度双重主要上市9月1日生效，CFO称AI战略进入收获期",
-    "date": "2026-09-02"
-  },
-  {
-    "url": "https://m.163.com/dy/article/L5LKRTDJ05568W0A.html",
-    "title": "腾讯WorkBuddy生态发布会举行，混元Hy4preview接入引发扩容",
-    "date": "2026-09-02"
-  },
-  {
     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.259",
     "title": "⚠️ Claude Code 发布 v2.1.259，新增 MCP 服务器统一管理与无人值守权限模式",
     "date": "2026-09-03"
@@ -153,5 +128,40 @@
     "url": "https://ca.investing.com/news/stock-market-news/qualcomm-strikes-ai-chip-deal-with-amazon-offers-right-to-buy-about-4-billion-in-stock-4831131",
     "title": "高通与亚马逊达成最高600亿美元AI芯片合作",
     "date": "2026-09-09"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/changelog",
+    "title": "⚠️ Claude Code 发布 v2.1.267，新增推理强度统一限制与系统提示重渲染选项",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://learn.chatgpt.com/docs/changelog",
+    "title": "⚠️ OpenAI Codex CLI 发布 0.154.0，新增实验性 worktree 与后台任务追问能力",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://www.deepseek.com/news/deepseek-v4-1-flash/",
+    "title": "DeepSeek 正式发布 V4.1 Flash 模型，架构升级并大幅降低推理成本",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://9to5mac.com/2026/09/07/whatsapp-will-soon-let-users-chat-with-up-to-five-third-party-ai-agents/",
+    "title": "WhatsApp 测试原生第三方 AI Agent 聊天功能，单账号最多可接入 5 个 Agent",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://tech.sportskeeda.com/mobiles/news-is-telegram-right-now-september-8-2026-outage-status-explored",
+    "title": "Telegram 发生全球性宕机，故障持续超 11 小时",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://wabetainfo.com/whatsapp-to-drop-support-for-older-android-versions-in-september-2026/",
+    "title": "WhatsApp 正式停止支持 Android 5.0/5.1 等旧版本",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://gvwire.com/2026/09/09/microsoft-copilot-goes-down-for-thousands-downdetector-reports/",
+    "title": "Microsoft Copilot 网页版突发大规模故障",
+    "date": "2026-09-10"
   }
 ]
