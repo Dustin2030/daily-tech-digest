@@ -1,55 +1,5 @@
 [
   {
-    "url": "https://dev.to/darkpandawarrior/expectactual-is-the-wrong-default-in-kmp-5g7p",
-    "title": "1. expect/actual 不该是 KMP 的默认选择",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://dev.to/darkpandawarrior/your-lazycolumn-recomposes-on-every-scroll-3amj",
-    "title": "2. 你的 LazyColumn 每次滚动都在重组",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://dev.to/realvancedyoutube/background-tasks-in-kotlin-multiplatform-unifying-android-workmanager-and-ios-bgtaskscheduler-3no4",
-    "title": "3. KMP 统一后台任务：WorkManager 与 BGTaskScheduler",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://juejin.cn/post/7680793159375536163",
-    "title": "4. 协程调度源码：CoroutineScheduler 与 DispatchedContinuation",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://dev.to/pielounw/on-device-ai-in-kotlin-189o",
-    "title": "5. 在 Kotlin 中运行端侧 AI（On-Device AI）",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://medium.com/@zeyad.gasser/turning-the-page-a-real-page-curl-on-ios-with-compose-multiplatform-608ffd4acbdd",
-    "title": "6. 用 Compose Multiplatform 在 iOS 上实现真实翻页卷曲",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://dev.to/xneuronal/android-geofences-that-never-fired-a-permission-promise-that-lied-and-a-cache-that-outlived-the-os-20c2",
-    "title": "7. 地理围栏为何“静默失效”：权限与缓存的排障复盘",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://juejin.cn/post/7680581898922082346",
-    "title": "8. APK 加固原理（五）：SO .text 段加密与运行时动态解密",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://juejin.cn/post/7680879960253038601",
-    "title": "9. 黑屏卡死根因竟是 scrcpy 与 Rockchip 编码器的 DMA-BUF 泄漏",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://juejin.cn/post/7680766055174832171",
-    "title": "10. PDF Viewer KMP：基于 PDFium 内核的跨平台 PDF 库",
-    "date": "2026-09-03"
-  },
-  {
     "url": "https://developer.android.com/build/releases/agp-9-4-0-release-notes",
     "title": "1. Android Gradle Plugin 9.4.0 稳定版发布",
     "date": "2026-09-04"
@@ -303,5 +253,45 @@
     "url": "https://dev.to/codenameone/watch-follow-through-complications-tiles-and-a-companion-wear-apk-1dk2",
     "title": "9. Wear OS 表盘生态开发：Complications、Tiles 与配套 APK",
     "date": "2026-09-09"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/09/wireless-debugging-adb-wifi-2.html",
+    "title": "1. ADB Wi-Fi 2.0：无线调试重写，连接成功率与速度大幅提升",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/versions/all-channel",
+    "title": "2. Jetpack 9月发布列车：Compose 1.12.1 等稳定版转正",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/room",
+    "title": "3. Room 2.8.5 与 Room3 3.0.3 稳定版发布",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://dev.to/godofgeeks/jetpack-compose-internals-3b0",
+    "title": "4. 深入 Jetpack Compose 内部原理",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://dev.to/codenameone/rootless-jailbreak-detection-updating-the-signals-not-the-claim-3b1e",
+    "title": "5. 无根越狱检测的更新之道",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://dev.to/zhenyasedoy/how-ai-hallucinations-can-ruin-your-android-project-and-how-i-built-an-open-source-tool-to-stop-it-2of2",
+    "title": "6. SafeDroid：给 CI 加一道 AI 幻觉依赖防线",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://dev.to/pactortester/tackling-intermittent-android-bugs-rolling-video-buffers-and-automated-logcat-alignment-in-the-32mo",
+    "title": "7. 偶现 Android Bug 捕获：滚动视频缓冲 + logcat 时间对齐",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://dev.to/dmw2007/built-a-user-agent-parser-for-kotlin-multiplatform-42mf",
+    "title": "8. 用 Kotlin Multiplatform 写一个 User-Agent 解析库",
+    "date": "2026-09-10"
   }
 ]
