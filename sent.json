@@ -293,5 +293,45 @@
     "url": "https://dev.to/dmw2007/built-a-user-agent-parser-for-kotlin-multiplatform-42mf",
     "title": "8. 用 Kotlin Multiplatform 写一个 User-Agent 解析库",
     "date": "2026-09-10"
+  },
+  {
+    "url": "https://shopify.engineering/back-to-native",
+    "title": "1. Shopify 宣布从 React Native 回归 Swift/Kotlin 原生",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://dev.to/mbilalkhan192003/android-is-taking-away-orientation-locks-on-large-screens-heres-what-developers-need-to-know-3ob0",
+    "title": "2. Android 16 起：大屏设备不再允许锁定屏幕方向",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+    "title": "3. Android 支持在密码管理器之间安全迁移登录凭据",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://www.collabora.com/news-and-blog/news-and-events/mesa-on-android-how-we-brought-turnip,-skiavk,-and-cuttlefish-to-ci.html",
+    "title": "4. Mesa on Android：Turnip 拿下 Vulkan 1.3 一致性，Cuttlefish 进 CI",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://dev.to/wolfof420street/wiring-up-revenuecat-in-a-kotlin-multiplatform-app-entitlements-webhooks-and-why-the-client-1387",
+    "title": "5. Kotlin Multiplatform 接入 RevenueCat：权益校验必须放后端",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://juejin.cn/post/7683457864930295860",
+    "title": "6. 掘金：Android Studio 使用 AOSP 私有 Stub JAR 访问隐藏接口",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://juejin.cn/post/7683515498159882249",
+    "title": "7. 掘金：Android 12 SystemUI 下拉通知栏的加载流程",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://dev.to/alpha_lay_6947683a9151300/emulators-are-not-enough-a-practical-checklist-for-real-android-device-testing-4b43",
+    "title": "8. Emulators Are Not Enough：Android 真机测试实用清单",
+    "date": "2026-09-11"
   }
 ]
