@@ -1,50 +1,5 @@
 [
   {
-    "url": "https://developer.android.com/build/releases/agp-9-4-0-release-notes",
-    "title": "1. Android Gradle Plugin 9.4.0 稳定版发布",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://juejin.cn/post/7680996030843125796",
-    "title": "2. 腾讯音乐开源 Android 秒编方案 Jugg",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://juejin.cn/post/7680938642575949858",
-    "title": "3. 别只混淆代码：用 Kaleido 加固整个 Android Release AAB",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://juejin.cn/post/7681135640989515818",
-    "title": "4. Kotlin 协程「死锁天劫」：同步原语与 ThreadLocal 迁移之道",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://juejin.cn/post/7680842064037806089",
-    "title": "5. Kotlin 中的 Nothing：一个「没有值」的类型有什么用",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://dev.to/cjbrooks12/building-vesper-on-ballast-one-state-model-to-rule-them-all-147m",
-    "title": "6. Ballast 状态模型：一套 State 统治 30+ 屏幕的 KMP 应用",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://dev.to/wassimbeltaief/why-is-form-state-management-in-jetpack-compose-still-this-painful-3mjp",
-    "title": "7. Compose 表单状态为何仍这么痛：Formidable 的 KSP 解法",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://dev.to/dave_gordon/5-places-a-real-time-camera-filter-drops-frames-27lg",
-    "title": "8. 实时相机滤镜掉帧的 5 个高发点",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://dev.to/laicaiapp/android-localization-qa-automate-the-matrix-not-the-language-judgment-57pb",
-    "title": "9. Android 本地化 QA：自动化矩阵，人工判断语言",
-    "date": "2026-09-04"
-  },
-  {
     "url": "https://dev.to/darkpandawarrior/collectasstate-is-quietly-leaking-your-work-4ak0",
     "title": "1. collectAsState 正在悄悄泄漏你的后台工作",
     "date": "2026-09-05"
@@ -333,5 +288,45 @@
     "url": "https://dev.to/alpha_lay_6947683a9151300/emulators-are-not-enough-a-practical-checklist-for-real-android-device-testing-4b43",
     "title": "8. Emulators Are Not Enough：Android 真机测试实用清单",
     "date": "2026-09-11"
+  },
+  {
+    "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+    "title": "1. Android VPN 流量泄漏新手法：绕过“无 VPN 时阻止连接”",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7683704380166242304",
+    "title": "2. OkHttp 5.3 隐形变更引发线上偶发崩溃：复盘与排查",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7683747144571207714",
+    "title": "3. 不要再把 Flow 当作一个容器",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7684140186456211506",
+    "title": "4. 车载多 App 同屏渲染（二）：SurfaceControlViewHost 跨进程",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7684019310344536127",
+    "title": "5. SO 加固强度自查 Checklist：静态、加载链、运行时看哪几项",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://dev.to/cjbrooks12/designing-a-user-management-system-with-jwts-ktor-and-exposed-2j1a",
+    "title": "6. 用 Ktor + Exposed + JWT 设计用户管理系统",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://github.com/googlefonts/googlesans-flex",
+    "title": "7. Google Sans Flex 开源：Android 品牌字体转为可变字体",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://dev.to/dkmostafa/give-your-ai-agent-hands-android-automation-via-mcp-34lg",
+    "title": "8. 给你的 AI Agent 一双手：通过 MCP 做 Android 自动化",
+    "date": "2026-09-12"
   }
 ]
