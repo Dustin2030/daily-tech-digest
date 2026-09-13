@@ -148,5 +148,40 @@
     "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq",
     "title": "沙特东西输油管道遭无人机袭击后关闭",
     "date": "2026-09-12"
+  },
+  {
+    "url": "https://www.caixin.com/2026-09-12/102484195.html",
+    "title": "中国官方强硬回应Anthropic\"工业级蒸馏\"指控，阿里股价一度下跌，月之暗面紧急辟谣\"创始人被带走\"传闻",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://www.greynoise.io/blog/ai-orchestrated-campaign-against-papercut-ng-mf",
+    "title": "俄语黑客利用数百个AI智能体（基于Codex框架、驱动模型选用DeepSeek）自动化攻破48国395家机构",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://www.timesofisrael.com/trump-said-to-reject-saudi-request-for-strikes-on-houthis-as-they-seize-red-sea-island/",
+    "title": "也门胡塞武装攻占红海咽喉巴卜-曼德海峡，沙特王储两次请求美国空袭遭特朗普拒绝",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/changelog",
+    "title": "Claude Code 发布 v2.1.270，修复只读 git 命令误触发权限确认的回归问题",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
+    "title": "Anthropic CEO罕见发文呼吁\"放慢AI发展步伐\"，此前一名安全研究员公开辞职警告风险",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://www.globenewswire.com/news-release/2026/09/10/3359139/0/en/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australia-s-data-center-ecosystem.html",
+    "title": "英伟达联合8家澳大利亚基建伙伴，计划到2027年建成最高2GW AI算力产能",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://aboutsignal.com/news/signal-introduces-on-device-backups-for-iphone-and-ipad/",
+    "title": "Signal iOS 8.29上线Wi-Fi Aware快速换机功能，\"设备端备份\"开放公测",
+    "date": "2026-09-13"
   }
 ]
