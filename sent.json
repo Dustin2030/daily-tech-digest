@@ -328,5 +328,45 @@
     "url": "https://dev.to/dkmostafa/give-your-ai-agent-hands-android-automation-via-mcp-34lg",
     "title": "8. 给你的 AI Agent 一双手：通过 MCP 做 Android 自动化",
     "date": "2026-09-12"
+  },
+  {
+    "url": "https://dev.to/tkuenneth/androids-ai-era-hype-vs-architecture-13kf",
+    "title": "1. Android 的 AI 时代：营销叙事 vs 真实架构",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://speakerdeck.com/itsmedreamwalker/a2ui-for-android-safely-rendering-ai-generated-ui-with-jetpack-compose-droidkaigi-2026",
+    "title": "2. DroidKaigi 2026：用 Jetpack Compose 安全渲染 AI 生成的 UI（A2UI）",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://dev.to/874wokiite/kmpno-server-same-track-on-both-platforms-4jci",
+    "title": "3. KMP 实战：无服务端，把音乐生成 DSP 搬到端侧",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://dev.to/excalibra/droid-asc-a-high-performance-tool-for-android-reverse-engineering-and-vulnerability-discovery-1ci9",
+    "title": "4. Droid ASC：主打高性能的 Android 逆向与漏洞挖掘工具",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://dev.to/_anubhav/should-your-thread-keep-the-jvm-alive-3khn",
+    "title": "5. 你的线程该不该让 JVM 保持存活？",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://juejin.cn/post/7684118428586475571",
+    "title": "6. 2GB 内存 Android 工业终端上的 OOM 治理实战",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://juejin.cn/post/7684190922504077312",
+    "title": "7. Android 16 系统 App 开机自启动：绕过 BAL 拦截",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://juejin.cn/post/7684172753694261274",
+    "title": "8. 两个 SDK 抢一个摄像头：Android 相机资源仲裁设计",
+    "date": "2026-09-13"
   }
 ]
