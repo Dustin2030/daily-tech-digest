@@ -1,20 +1,5 @@
 [
   {
-    "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.4",
-    "title": "⚠️ OpenAI Codex CLI 发布 0.153.3/0.153.4，GPT-6-Astra 成为默认模型并接入 Bedrock",
-    "date": "2026-09-06"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.261",
-    "title": "⚠️ Claude Code 发布 v2.1.261，新增技能诊断工具与细粒度输出配置",
-    "date": "2026-09-06"
-  },
-  {
-    "url": "https://www.tribuneindia.com/news/world/nepal-flash-floods-death-toll-surges-to-1344-as-rescue-efforts-continue-around-5000-still-missing/",
-    "title": "[国际局势·非科技] 尼泊尔冰崩洪灾死亡人数升至1344人，近5000人失踪",
-    "date": "2026-09-06"
-  },
-  {
     "url": "https://finance.sina.com.cn/roll/2026-09-07/doc-iniqxyne9658925.shtml",
     "title": "华为、小米同日发布折叠屏旗舰，苹果下周新品跟进",
     "date": "2026-09-07"
@@ -183,5 +168,25 @@
     "url": "https://aboutsignal.com/news/signal-introduces-on-device-backups-for-iphone-and-ipad/",
     "title": "Signal iOS 8.29上线Wi-Fi Aware快速换机功能，\"设备端备份\"开放公测",
     "date": "2026-09-13"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+    "title": "⚠️ Claude Code 周使用限额今日起缩减17%",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://www.abc.net.au/news/2026-09-13/houthis-hit-saudi-base-amid-renewed-fighting-with-yemen/107147690",
+    "title": "胡塞武装袭击沙特南部沙鲁拉军事基地,油价应声上涨",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://wabetainfo.com/whatsapp-will-make-calls-available-for-users-without-an-account/",
+    "title": "WhatsApp 测试访客通话功能,无账号用户也可加入通话",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://wabetainfo.com/whatsapp-is-rolling-out-a-redesigned-navigation-interface-for-ipad/",
+    "title": "WhatsApp 为 iPad 推出仿 Mac 风格侧边栏导航",
+    "date": "2026-09-14"
   }
 ]
