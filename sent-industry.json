@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://finance.sina.com.cn/roll/2026-09-07/doc-iniqxyne9658925.shtml",
-    "title": "华为、小米同日发布折叠屏旗舰，苹果下周新品跟进",
-    "date": "2026-09-07"
-  },
-  {
-    "url": "https://k.sina.com.cn/article_5952915720_162d2490806704ruw8.html?from=finance",
-    "title": "月之暗面（Kimi）秘密向港交所递交IPO申请，估值500亿美元",
-    "date": "2026-09-07"
-  },
-  {
-    "url": "https://openai.com/index/an-alien-mind/",
-    "title": "OpenAI首席科学家发文《An Alien Mind》，呼吁行业设定统一安全底线",
-    "date": "2026-09-07"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.263",
-    "title": "⚠️ Claude Code 发布 v2.1.263，修复稳定性问题",
-    "date": "2026-09-07"
-  },
-  {
-    "url": "https://www.salesforce.com/news/stories/salesforce-simplifies-editions-2026/",
-    "title": "Salesforce推出新版Agentforce套餐，将Slack打包进全部版本",
-    "date": "2026-09-07"
-  },
-  {
-    "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv",
-    "title": "[国际局势·非科技] 美国特使基辅会晤泽连斯基，乌克兰和谈出现新进展",
-    "date": "2026-09-07"
-  },
-  {
     "url": "https://www.ithome.com/0/999/529.htm",
     "title": "小鹏机器人生产线正式启用，全球首位高阶通用人形机器人自主走下产线",
     "date": "2026-09-08"
@@ -188,5 +158,20 @@
     "url": "https://wabetainfo.com/whatsapp-is-rolling-out-a-redesigned-navigation-interface-for-ipad/",
     "title": "WhatsApp 为 iPad 推出仿 Mac 风格侧边栏导航",
     "date": "2026-09-14"
+  },
+  {
+    "url": "https://www.thepaper.cn/newsDetail_forward_34061877",
+    "title": "智谱完成约50亿美元融资,加码下一代GLM模型与自研算力",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://www.epochtimes.com/gb/26/9/15/n14849805.htm",
+    "title": "胡塞武装攻占红海哈尼什群岛,沙特石油出口通道风险升级",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://finance.eastmoney.com/a/202609113872341851.html",
+    "title": "国产AI芯片\"四小龙\"燧原科技科创板上市,首日暴涨188%",
+    "date": "2026-09-15"
   }
 ]
