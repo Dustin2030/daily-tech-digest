@@ -293,5 +293,50 @@
     "url": "https://juejin.cn/post/7682499191227006995",
     "title": "10. Android 测试全景：从单元测试到 UI 自动化的完整实践",
     "date": "2026-09-14"
+  },
+  {
+    "url": "https://shopify.engineering/back-to-native",
+    "title": "1. Shopify 全面转回原生：Swift/Kotlin 取代 React Native",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://github.com/bitsycore/compose-desktop-native",
+    "title": "2. Compose Desktop Native：脱离 JVM 的原生桌面二进制",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://dev.to/yadnyesh_rana/gemini-nano-isnt-on-most-of-your-users-phones-heres-the-feature-detection-pattern-that-doesnt-58dl",
+    "title": "3. Gemini Nano 并非人人可用：生产级特性探测模式",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://dev.to/cjbrooks12/designing-a-user-management-system-with-jwts-ktor-and-exposed-2j1a",
+    "title": "4. 用 JWT + Ktor + Exposed 设计 KMP 用户管理系统",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://dev.to/toolloom/kotlin-inline-classes-zero-overhead-wrappers-for-safer-domain-modeling-35nb",
+    "title": "5. Kotlin 内联/值类：零开销包装做安全领域建模",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://dev.to/vmodal_ai/building-a-gemini-powered-ai-assistant-for-android-xr-glasses-with-kotlin-41jg",
+    "title": "6. 用 Kotlin 在 Android XR 眼镜上构建 Gemini 语音助手",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://juejin.cn/post/7684943124759068682",
+    "title": "7. Android 性能优化：启动、内存、卡顿一站式排查手册",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://juejin.cn/post/7685190703505686554",
+    "title": "8. 车载多 App 同屏渲染（三）：RemoteCompose 序列化 UI",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://juejin.cn/post/7684800289061191706",
+    "title": "9. Android 485 串口通信踩坑 + Modbus 可靠通信实战",
+    "date": "2026-09-15"
   }
 ]
