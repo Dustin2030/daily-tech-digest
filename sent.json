@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://juejin.cn/post/7682190370526183434",
-    "title": "1. 9月 Android Drop：Gemini 不再只是聊天助手",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://juejin.cn/post/7682633827692658740",
-    "title": "2. Android 17 重写 MessageQueue：治理 Handler 隐性卡顿",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://johnoreilly.dev/posts/genai-kotlin-sdk/",
-    "title": "3. Google 官方 Kotlin Gen AI SDK 上手（Gemini）",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://touchlab.co/compose-multiplatform-business-decision",
-    "title": "4. Compose Multiplatform 更像商业决策，而非纯技术决策",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://juejin.cn/post/7682663370555195446",
-    "title": "5. AndroidKMP 实战：跨平台瀑布流布局实现",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://joebirch.co/android/animating-between-numbers-in-jetpack-compose/",
-    "title": "6. 在 Jetpack Compose 中做数字滚动动画",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://juejin.cn/post/7682593227544805382",
-    "title": "7. 适配小米“中折”折叠屏，非得买真机吗？",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://juejin.cn/post/7682314741113716763",
-    "title": "8. Messenger：Android 最轻量的 IPC 方式",
-    "date": "2026-09-08"
-  },
-  {
     "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-2-4-20-released/",
     "title": "1. Kotlin 2.4.20 稳定版发布",
     "date": "2026-09-09"
@@ -338,5 +298,45 @@
     "url": "https://juejin.cn/post/7684800289061191706",
     "title": "9. Android 485 串口通信踩坑 + Modbus 可靠通信实战",
     "date": "2026-09-15"
+  },
+  {
+    "url": "https://dev.to/jamilxt/jetbrains-ranked-ai-agents-on-real-kotlin-projects-the-token-column-is-the-real-story-22li",
+    "title": "1. JetBrains 官方 Kotlin Benchmark 上线：AI 编码 Agent 有了 Kotlin 专属评测",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://juejin.cn/post/7685332147725844490",
+    "title": "2. Mermaid 原生渲染：不用 WebView，用 Kotlin + Compose Multiplatform 画图",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://dev.to/xsveda/how-a-class-name-can-break-your-kotlin-multiplatform-build-with-swiftui-5bh7",
+    "title": "3. 一个类名如何在 SwiftUI 侧搞崩你的 KMP 构建",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://juejin.cn/post/7684612482775941183",
+    "title": "4. 写过 4000 行 ViewModel 后，我开始这样拆 Compose 页面",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://dev.to/wanghengwen/40k-loc-shared-90-building-a-cross-platform-shared-e-bike-ops-app-1m5f",
+    "title": "5. ~40k 行代码、90% 共享：一个跨平台共享电单车运维 App 实战",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://dev.to/ranab4b/--5fno",
+    "title": "6. 模块化不只是“代码更干净”，更是构建速度的杠杆",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://juejin.cn/post/7685202974937546792",
+    "title": "7. Compose 焦点控制与应用",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://juejin.cn/post/7684534717442179082",
+    "title": "8. 从零开始搭建 Kotlin 项目的架构测试套件",
+    "date": "2026-09-16"
   }
 ]
