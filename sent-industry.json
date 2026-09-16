@@ -1,15 +1,5 @@
 [
   {
-    "url": "https://www.ithome.com/0/999/529.htm",
-    "title": "小鹏机器人生产线正式启用，全球首位高阶通用人形机器人自主走下产线",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://www.ithome.com/0/999/197.htm",
-    "title": "百度\"小度\"新品发布会，超能小度进驻家庭场景",
-    "date": "2026-09-08"
-  },
-  {
     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.265",
     "title": "⚠️ Claude Code 发布 v2.1.265，新增插件目录、工作树并行检出与会话归档，修复符号链接安全绕过",
     "date": "2026-09-09"
@@ -173,5 +163,25 @@
     "url": "https://finance.eastmoney.com/a/202609113872341851.html",
     "title": "国产AI芯片\"四小龙\"燧原科技科创板上市,首日暴涨188%",
     "date": "2026-09-15"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/changelog",
+    "title": "⚠️ Claude Code 发布 v2.1.273，新增网关请求头、会话分支与 MCP 断线提醒",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://news.qq.com/rain/a/20260915A08PDW00",
+    "title": "飞书发布8.0版本，与豆包工作原生融合推出\"豆包工作伙伴\"",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://www.thinkadvisor.com/2026/09/15/anthropic-releases-claude-for-financial-advisors/",
+    "title": "Anthropic 推出 Claude 中小企业与金融顾问专属方案",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://boereport.com/2026/09/15/oil-loadings-suspended-at-saudis-red-sea-port-of-yanbu-shipping-sources-say/",
+    "title": "胡塞武装升级袭击沙特，延布港原油装载暂停、油价应声上涨",
+    "date": "2026-09-16"
   }
 ]
