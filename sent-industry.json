@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.265",
-    "title": "⚠️ Claude Code 发布 v2.1.265，新增插件目录、工作树并行检出与会话归档，修复符号链接安全绕过",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://finance.sina.com.cn/tech/roll/2026-09-09/doc-iniresye4008617.shtml",
-    "title": "DeepSeek 官宣 Flash 系列模型大幅降价并提速，最高降幅60%",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://ca.investing.com/news/stock-market-news/qualcomm-strikes-ai-chip-deal-with-amazon-offers-right-to-buy-about-4-billion-in-stock-4831131",
-    "title": "高通与亚马逊达成最高600亿美元AI芯片合作",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://code.claude.com/docs/en/changelog",
-    "title": "⚠️ Claude Code 发布 v2.1.267，新增推理强度统一限制与系统提示重渲染选项",
-    "date": "2026-09-10"
-  },
-  {
     "url": "https://learn.chatgpt.com/docs/changelog",
     "title": "⚠️ OpenAI Codex CLI 发布 0.154.0，新增实验性 worktree 与后台任务追问能力",
     "date": "2026-09-10"
@@ -85,11 +65,6 @@
     "date": "2026-09-12"
   },
   {
-    "url": "https://code.claude.com/docs/en/changelog",
-    "title": "⚠️ Claude Code 发布 v2.1.269，新增插件评测与输出样式切换",
-    "date": "2026-09-12"
-  },
-  {
     "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq",
     "title": "沙特东西输油管道遭无人机袭击后关闭",
     "date": "2026-09-12"
@@ -107,11 +82,6 @@
   {
     "url": "https://www.timesofisrael.com/trump-said-to-reject-saudi-request-for-strikes-on-houthis-as-they-seize-red-sea-island/",
     "title": "也门胡塞武装攻占红海咽喉巴卜-曼德海峡，沙特王储两次请求美国空袭遭特朗普拒绝",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://code.claude.com/docs/en/changelog",
-    "title": "Claude Code 发布 v2.1.270，修复只读 git 命令误触发权限确认的回归问题",
     "date": "2026-09-13"
   },
   {
@@ -183,5 +153,30 @@
     "url": "https://boereport.com/2026/09/15/oil-loadings-suspended-at-saudis-red-sea-port-of-yanbu-shipping-sources-say/",
     "title": "胡塞武装升级袭击沙特，延布港原油装载暂停、油价应声上涨",
     "date": "2026-09-16"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.274",
+    "title": "⚠️ Claude Code 发布 v2.1.274，修复多项会话稳定性问题",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "title": "Anthropic、OpenAI、Google 讨论联合筹建AI行业标准机构",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://siliconangle.com/2026/09/16/anthropic-brings-cowork-directly-inside-claudes-chat-interface/",
+    "title": "⚠️ Anthropic 将 Claude Cowork 并入主聊天界面，同步上线 Docs 与 Slides",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://www.ithome.com/1/003/087.htm",
+    "title": "努比亚发布“全球首款AI智能体手机”NaviX Ultra，5999元起",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca",
+    "title": "沙特宣布在麦加附近拦截胡塞武装无人机，谴责“越过红线”",
+    "date": "2026-09-17"
   }
 ]
