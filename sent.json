@@ -1,90 +1,5 @@
 [
   {
-    "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-2-4-20-released/",
-    "title": "1. Kotlin 2.4.20 稳定版发布",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://dev.to/john-rocky/litert-vs-tensorflow-lite-what-changed-plus-the-old-name-new-name-cheat-sheet-40nl",
-    "title": "2. LiteRT 全面取代 TensorFlow Lite",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://dev.to/yadnyesh_rana/why-your-compose-screenshot-tests-are-flaky-and-the-fix-isnt-add-sleep-1721",
-    "title": "3. 你的 Compose 截图测试为何总是 flaky",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://juejin.cn/post/7683020866855288842",
-    "title": "4. 彻底搞懂 Kotlin 协程上下文：plus 与 CombinedContext 左偏结构",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://juejin.cn/post/7683086663757529138",
-    "title": "5. Android 架构演进：从生命周期事件到结构化任务",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://juejin.cn/post/7683086663756955698",
-    "title": "6. AndroidKMP 实战：跨平台网络请求",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://dev.to/haseebthedev0/optimizing-geofencing-lessons-from-battery-management-in-android-lo8",
-    "title": "7. 优化 Android 地理围栏：来自电量管理的经验",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://dev.to/umer_mustufa_dc812f61edb3/building-an-on-device-spam-call-blocker-for-android-without-harvesting-user-contacts-3n14",
-    "title": "8. 端侧反骚扰来电拦截：不采集通讯录的实现",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://dev.to/codenameone/watch-follow-through-complications-tiles-and-a-companion-wear-apk-1dk2",
-    "title": "9. Wear OS 表盘生态开发：Complications、Tiles 与配套 APK",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://android-developers.googleblog.com/2026/09/wireless-debugging-adb-wifi-2.html",
-    "title": "1. ADB Wi-Fi 2.0：无线调试重写，连接成功率与速度大幅提升",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://developer.android.com/jetpack/androidx/versions/all-channel",
-    "title": "2. Jetpack 9月发布列车：Compose 1.12.1 等稳定版转正",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://developer.android.com/jetpack/androidx/releases/room",
-    "title": "3. Room 2.8.5 与 Room3 3.0.3 稳定版发布",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://dev.to/godofgeeks/jetpack-compose-internals-3b0",
-    "title": "4. 深入 Jetpack Compose 内部原理",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://dev.to/codenameone/rootless-jailbreak-detection-updating-the-signals-not-the-claim-3b1e",
-    "title": "5. 无根越狱检测的更新之道",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://dev.to/zhenyasedoy/how-ai-hallucinations-can-ruin-your-android-project-and-how-i-built-an-open-source-tool-to-stop-it-2of2",
-    "title": "6. SafeDroid：给 CI 加一道 AI 幻觉依赖防线",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://dev.to/pactortester/tackling-intermittent-android-bugs-rolling-video-buffers-and-automated-logcat-alignment-in-the-32mo",
-    "title": "7. 偶现 Android Bug 捕获：滚动视频缓冲 + logcat 时间对齐",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://dev.to/dmw2007/built-a-user-agent-parser-for-kotlin-multiplatform-42mf",
-    "title": "8. 用 Kotlin Multiplatform 写一个 User-Agent 解析库",
-    "date": "2026-09-10"
-  },
-  {
     "url": "https://shopify.engineering/back-to-native",
     "title": "1. Shopify 宣布从 React Native 回归 Swift/Kotlin 原生",
     "date": "2026-09-11"
@@ -255,11 +170,6 @@
     "date": "2026-09-14"
   },
   {
-    "url": "https://shopify.engineering/back-to-native",
-    "title": "1. Shopify 全面转回原生：Swift/Kotlin 取代 React Native",
-    "date": "2026-09-15"
-  },
-  {
     "url": "https://github.com/bitsycore/compose-desktop-native",
     "title": "2. Compose Desktop Native：脱离 JVM 的原生桌面二进制",
     "date": "2026-09-15"
@@ -267,16 +177,6 @@
   {
     "url": "https://dev.to/yadnyesh_rana/gemini-nano-isnt-on-most-of-your-users-phones-heres-the-feature-detection-pattern-that-doesnt-58dl",
     "title": "3. Gemini Nano 并非人人可用：生产级特性探测模式",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://dev.to/cjbrooks12/designing-a-user-management-system-with-jwts-ktor-and-exposed-2j1a",
-    "title": "4. 用 JWT + Ktor + Exposed 设计 KMP 用户管理系统",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://dev.to/toolloom/kotlin-inline-classes-zero-overhead-wrappers-for-safer-domain-modeling-35nb",
-    "title": "5. Kotlin 内联/值类：零开销包装做安全领域建模",
     "date": "2026-09-15"
   },
   {
@@ -338,5 +238,50 @@
     "url": "https://juejin.cn/post/7684534717442179082",
     "title": "8. 从零开始搭建 Kotlin 项目的架构测试套件",
     "date": "2026-09-16"
+  },
+  {
+    "url": "https://dev.to/codenameone/pick-one-contact-without-asking-for-the-address-book-578c",
+    "title": "1. Android 17 新增 ACTION_PICK_CONTACTS：选单个联系人不再要通讯录权限",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://dev.to/superfunicular/the-minimum-version-floor-is-what-actually-retires-a-phone-and-nobody-publishes-it-37gk",
+    "title": "2. 真正让一部手机“退役”的是 minSdkVersion，而非厂商停更",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7685982162483298345",
+    "title": "3. AndroidKMP 实战：跨平台导航与 WebView 集成",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7685591445944795162",
+    "title": "4. Kotlin Flow combine 源码剖析：一个 Channel 如何优雅合并多条流",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7685966472066334763",
+    "title": "5. 不用 Netty：Android 手写 TCP 客户端实战——协议帧、粘包与可靠重连",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://dev.to/superfunicular/the-range-header-is-the-whole-feature-serving-recorded-video-from-a-phones-own-web-server-3hje",
+    "title": "6. Range 头就是全部：在手机自带 Web 服务器上回放录像",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7685936943797895222",
+    "title": "7. CoroutineKit：一个生产级的 Kotlin 协程与 Flow 工具库",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://dev.to/paul-brooks/bdd-in-kotlin-the-options-and-how-to-choose-3mha",
+    "title": "8. Kotlin 的 BDD 怎么选：六个方案与决策思路",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7685915750247809065",
+    "title": "9. 硬件异步事件下的业务一致性：智能柜领取/归还流程的竞态设计",
+    "date": "2026-09-17"
   }
 ]
