@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://learn.chatgpt.com/docs/changelog",
-    "title": "⚠️ OpenAI Codex CLI 发布 0.154.0，新增实验性 worktree 与后台任务追问能力",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://www.deepseek.com/news/deepseek-v4-1-flash/",
-    "title": "DeepSeek 正式发布 V4.1 Flash 模型，架构升级并大幅降低推理成本",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://9to5mac.com/2026/09/07/whatsapp-will-soon-let-users-chat-with-up-to-five-third-party-ai-agents/",
-    "title": "WhatsApp 测试原生第三方 AI Agent 聊天功能，单账号最多可接入 5 个 Agent",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://tech.sportskeeda.com/mobiles/news-is-telegram-right-now-september-8-2026-outage-status-explored",
-    "title": "Telegram 发生全球性宕机，故障持续超 11 小时",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://wabetainfo.com/whatsapp-to-drop-support-for-older-android-versions-in-september-2026/",
-    "title": "WhatsApp 正式停止支持 Android 5.0/5.1 等旧版本",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://gvwire.com/2026/09/09/microsoft-copilot-goes-down-for-thousands-downdetector-reports/",
-    "title": "Microsoft Copilot 网页版突发大规模故障",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://freedom.tech/posts/2026-09-10-claude-code-2-1-268/",
-    "title": "⚠️ Claude Code 发布 v2.1.268，新增网关计费与安全告警配置",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://openai.com/index/introducing-the-agents-api/",
-    "title": "⚠️ OpenAI 发布 Agents API 公测版，Codex 引擎能力开放为托管云端服务",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-    "title": "Anthropic 发布年度最详细威胁情报报告，披露多起 Claude 被滥用案例",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://betanews.com/article/meta-is-upgrading-advanced-chat-privacy-in-whatsapp-with-new-restricted-chat-features/",
-    "title": "WhatsApp 测试「受限聊天」新隐私功能",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-taps-citic-securities-shanghai-120650036.html",
-    "title": "DeepSeek 启动上海科创板上市筹备，估值或达750亿美元",
-    "date": "2026-09-11"
-  },
-  {
-    "url": "https://technode.global/2026/09/10/apple-iphone-duo-foldable-launch/",
-    "title": "苹果发布首款折叠屏 iPhone Duo，搭载2纳米 A20 Pro 芯片",
-    "date": "2026-09-11"
-  },
-  {
     "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/12/openai-agents-attacked-rubygems-before-hugging-face-incident-researchers-say/",
     "title": "⚠️ OpenAI 承认旗下 AI Agent 曾攻击代码托管平台 RubyGems",
     "date": "2026-09-12"
@@ -178,5 +118,45 @@
     "url": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca",
     "title": "沙特宣布在麦加附近拦截胡塞武装无人机，谴责“越过红线”",
     "date": "2026-09-17"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/changelog",
+    "title": "⚠️ Claude Code 一周内连发两版本，新增网关登录确认等功能后紧急修复代理请求全部失败的缺陷",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://m.21jingji.com/article/20260917/herald/363e7190923e722e98779180b29fb289.html",
+    "title": "字节跳动完成296亿美元银团贷款加码AI基建，净利润率三年持续走低",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.business-standard.com/technology/artificial-intelligence/anthropic-says-claude-drives-over-25-of-its-research-and-development-126091800158_1.html",
+    "title": "⚠️ Anthropic披露Claude已能独立完成公司26%的模型研发工作，正参与训练下一代模型",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "title": "Meta向WhatsApp Business开放第三方AI智能体自动配置，支持通过Claude、Codex完成账号搭建",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://mixdesk.com/blog/en/whatsapp-business-api-pricing-october-2026/",
+    "title": "WhatsApp Business API计费模式10月起迎重大调整，超额消息将开始收费",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://slack.com/whats-new",
+    "title": "Slack新增AI工具与MCP服务器使用分析仪表盘，加码企业级AI治理",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://uctoday.com/microsoft-teams-copilot-whats-new-in-september-2026",
+    "title": "微软Teams会议助手升级，可在会中自动网页搜索并翻译纪要",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.thenationalnews.com/news/gulf/2026/09/17/one-killed-and-two-injured-by-houthi-drone-debris-in-saudi-arabias-taif/",
+    "title": "胡塞武装袭击升级，无人机残骸致沙特塔伊夫1死2伤，沙特称袭击逼近麦加\"红线\"",
+    "date": "2026-09-18"
   }
 ]
