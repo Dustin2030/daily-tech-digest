@@ -283,5 +283,45 @@
     "url": "https://dev.to/icyzip/a-paste-button-is-a-capability-negotiation-not-a-clipboard-read-41i5",
     "title": "8. 「粘贴」按钮是一次能力协商，而非简单读剪贴板",
     "date": "2026-09-18"
+  },
+  {
+    "url": "https://github.com/ktorio/ktor/releases/tag/3.6.0",
+    "title": "1. Ktor 3.6.0 正式发布（稳定版）",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://developer.android.com/blog/posts/introducing-the-android-x-security-state-libraries-a-unified-view-of-device-security",
+    "title": "2. AndroidX Security State 库 1.1.0 稳定版",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://developer.android.com/blog/posts/android-bench-2-0-pushing-the-frontier-with-challenging-long-horizon-tasks",
+    "title": "3. Android Bench 2.0：面向长周期任务的 Agent 评测",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://www.androidauthority.com/grapheneos-android-17-qpr1-security-patches-comments-3712218/",
+    "title": "4. GrapheneOS 指控：Android 17 首次绕过 AOSP 新增开发者 API",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://juejin.cn/post/7686445760866959369",
+    "title": "5. Kuikly：KMP 在 HarmonyOS NEXT 上的原生跨端实践",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://cactuscompute.com/needle",
+    "title": "6. Cactus Needle 3：8–29MB 端侧自动化模型",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://dev.to/haseebthedev0/architecting-battery-efficient-geofencing-for-automated-sound-profiles-4f33",
+    "title": "7. 电量高效的 Geofencing + 自动情景声音架构",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://dev.to/codenameone/lies-damn-lies-and-benchmarks-1f4p",
+    "title": "8. Lies, Damn Lies and Benchmarks：跨端框架性能实战复盘",
+    "date": "2026-09-19"
   }
 ]
