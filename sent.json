@@ -1,0 +1,327 @@
+[
+  {
+    "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+    "title": "1. Android VPN 流量泄漏新手法：绕过“无 VPN 时阻止连接”",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7683704380166242304",
+    "title": "2. OkHttp 5.3 隐形变更引发线上偶发崩溃：复盘与排查",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7683747144571207714",
+    "title": "3. 不要再把 Flow 当作一个容器",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7684140186456211506",
+    "title": "4. 车载多 App 同屏渲染（二）：SurfaceControlViewHost 跨进程",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://juejin.cn/post/7684019310344536127",
+    "title": "5. SO 加固强度自查 Checklist：静态、加载链、运行时看哪几项",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://dev.to/cjbrooks12/designing-a-user-management-system-with-jwts-ktor-and-exposed-2j1a",
+    "title": "6. 用 Ktor + Exposed + JWT 设计用户管理系统",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://github.com/googlefonts/googlesans-flex",
+    "title": "7. Google Sans Flex 开源：Android 品牌字体转为可变字体",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://dev.to/dkmostafa/give-your-ai-agent-hands-android-automation-via-mcp-34lg",
+    "title": "8. 给你的 AI Agent 一双手：通过 MCP 做 Android 自动化",
+    "date": "2026-09-12"
+  },
+  {
+    "url": "https://dev.to/tkuenneth/androids-ai-era-hype-vs-architecture-13kf",
+    "title": "1. Android 的 AI 时代：营销叙事 vs 真实架构",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://speakerdeck.com/itsmedreamwalker/a2ui-for-android-safely-rendering-ai-generated-ui-with-jetpack-compose-droidkaigi-2026",
+    "title": "2. DroidKaigi 2026：用 Jetpack Compose 安全渲染 AI 生成的 UI（A2UI）",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://dev.to/874wokiite/kmpno-server-same-track-on-both-platforms-4jci",
+    "title": "3. KMP 实战：无服务端，把音乐生成 DSP 搬到端侧",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://dev.to/excalibra/droid-asc-a-high-performance-tool-for-android-reverse-engineering-and-vulnerability-discovery-1ci9",
+    "title": "4. Droid ASC：主打高性能的 Android 逆向与漏洞挖掘工具",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://dev.to/_anubhav/should-your-thread-keep-the-jvm-alive-3khn",
+    "title": "5. 你的线程该不该让 JVM 保持存活？",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://juejin.cn/post/7684118428586475571",
+    "title": "6. 2GB 内存 Android 工业终端上的 OOM 治理实战",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://juejin.cn/post/7684190922504077312",
+    "title": "7. Android 16 系统 App 开机自启动：绕过 BAL 拦截",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://juejin.cn/post/7684172753694261274",
+    "title": "8. 两个 SDK 抢一个摄像头：Android 相机资源仲裁设计",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
+    "title": "1. ADK for Kotlin 1.0 正式发布：用 Kotlin 写生产级 AI Agent",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=6D1yV5o4CWo",
+    "title": "2. Google 揭秘 google.com/search 如何构建在 Kotlin 协程之上",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://github.com/google/artemis",
+    "title": "3. Google 开源 ARTEMIS：自然语言指令变可靠 Android 自动化",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://github.com/bitsycore/compose-desktop-native/",
+    "title": "4. Compose Desktop Native：Compose 桌面应用打成脱离 JVM 的原生二进制",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://medium.com/@behzodhalil/recompositionmode-immediate-is-a-frame-clock-70a0c8c94364",
+    "title": "5. 深入 Molecule：RecompositionMode.Immediate 其实是一个帧时钟",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://dev.to/toolloom/kotlin-inline-classes-zero-overhead-wrappers-for-safer-domain-modeling-35nb",
+    "title": "6. Kotlin value/inline class：零开销包装写更安全的领域模型",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://github.com/Coding-Meet/Library-Insight/",
+    "title": "7. Library Insight：给 AI 助手喂版本精确的 Kotlin/KMP API 上下文",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://juejin.cn/post/7684573646438301706",
+    "title": "8. Jake Wharton 长访谈：Kotlin 的黄金时代结束了吗？",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://juejin.cn/post/7682800396524732425",
+    "title": "9. Android BLE 扫描失败排查：为什么必须同时申请蓝牙和定位权限",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://juejin.cn/post/7682499191227006995",
+    "title": "10. Android 测试全景：从单元测试到 UI 自动化的完整实践",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://github.com/bitsycore/compose-desktop-native",
+    "title": "2. Compose Desktop Native：脱离 JVM 的原生桌面二进制",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://dev.to/yadnyesh_rana/gemini-nano-isnt-on-most-of-your-users-phones-heres-the-feature-detection-pattern-that-doesnt-58dl",
+    "title": "3. Gemini Nano 并非人人可用：生产级特性探测模式",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://dev.to/vmodal_ai/building-a-gemini-powered-ai-assistant-for-android-xr-glasses-with-kotlin-41jg",
+    "title": "6. 用 Kotlin 在 Android XR 眼镜上构建 Gemini 语音助手",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://juejin.cn/post/7684943124759068682",
+    "title": "7. Android 性能优化：启动、内存、卡顿一站式排查手册",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://juejin.cn/post/7685190703505686554",
+    "title": "8. 车载多 App 同屏渲染（三）：RemoteCompose 序列化 UI",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://juejin.cn/post/7684800289061191706",
+    "title": "9. Android 485 串口通信踩坑 + Modbus 可靠通信实战",
+    "date": "2026-09-15"
+  },
+  {
+    "url": "https://dev.to/jamilxt/jetbrains-ranked-ai-agents-on-real-kotlin-projects-the-token-column-is-the-real-story-22li",
+    "title": "1. JetBrains 官方 Kotlin Benchmark 上线：AI 编码 Agent 有了 Kotlin 专属评测",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://juejin.cn/post/7685332147725844490",
+    "title": "2. Mermaid 原生渲染：不用 WebView，用 Kotlin + Compose Multiplatform 画图",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://dev.to/xsveda/how-a-class-name-can-break-your-kotlin-multiplatform-build-with-swiftui-5bh7",
+    "title": "3. 一个类名如何在 SwiftUI 侧搞崩你的 KMP 构建",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://juejin.cn/post/7684612482775941183",
+    "title": "4. 写过 4000 行 ViewModel 后，我开始这样拆 Compose 页面",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://dev.to/wanghengwen/40k-loc-shared-90-building-a-cross-platform-shared-e-bike-ops-app-1m5f",
+    "title": "5. ~40k 行代码、90% 共享：一个跨平台共享电单车运维 App 实战",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://dev.to/ranab4b/--5fno",
+    "title": "6. 模块化不只是“代码更干净”，更是构建速度的杠杆",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://juejin.cn/post/7685202974937546792",
+    "title": "7. Compose 焦点控制与应用",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://juejin.cn/post/7684534717442179082",
+    "title": "8. 从零开始搭建 Kotlin 项目的架构测试套件",
+    "date": "2026-09-16"
+  },
+  {
+    "url": "https://dev.to/codenameone/pick-one-contact-without-asking-for-the-address-book-578c",
+    "title": "1. Android 17 新增 ACTION_PICK_CONTACTS：选单个联系人不再要通讯录权限",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://dev.to/superfunicular/the-minimum-version-floor-is-what-actually-retires-a-phone-and-nobody-publishes-it-37gk",
+    "title": "2. 真正让一部手机“退役”的是 minSdkVersion，而非厂商停更",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7685982162483298345",
+    "title": "3. AndroidKMP 实战：跨平台导航与 WebView 集成",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7685591445944795162",
+    "title": "4. Kotlin Flow combine 源码剖析：一个 Channel 如何优雅合并多条流",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7685966472066334763",
+    "title": "5. 不用 Netty：Android 手写 TCP 客户端实战——协议帧、粘包与可靠重连",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://dev.to/superfunicular/the-range-header-is-the-whole-feature-serving-recorded-video-from-a-phones-own-web-server-3hje",
+    "title": "6. Range 头就是全部：在手机自带 Web 服务器上回放录像",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7685936943797895222",
+    "title": "7. CoroutineKit：一个生产级的 Kotlin 协程与 Flow 工具库",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://dev.to/paul-brooks/bdd-in-kotlin-the-options-and-how-to-choose-3mha",
+    "title": "8. Kotlin 的 BDD 怎么选：六个方案与决策思路",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://juejin.cn/post/7685915750247809065",
+    "title": "9. 硬件异步事件下的业务一致性：智能柜领取/归还流程的竞态设计",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-2-4-20-released/",
+    "title": "1. Kotlin 2.4.20 正式发布（稳定版）",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://juejin.cn/post/7686341837753368611",
+    "title": "2. 跨平台开发地图 · 2026年9月",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://juejin.cn/post/7686389996108300338",
+    "title": "3. 造一个「录制回放 + LLM 自主操作手机」的 Android 自动化测试平台（一）",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.gamingonlinux.com/2026/09/lepton-from-valve-to-run-android-games-on-linux-is-now-open-source/",
+    "title": "4. Valve 开源 Lepton：在 Linux/SteamOS 上运行 Android 应用",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://dev.to/synfinity-dynamics-pvt-ltd/what-really-happens-when-you-open-a-kotlin-android-app-a-deep-dive-into-the-app-lifecycle-4jbd",
+    "title": "5. 深入剖析：打开一个 Kotlin Android App 时到底发生了什么",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://dev.to/sajidalidev/build-setup-targets-source-sets-and-buildsrc-for-tvos-in-a-compose-multiplatform-fork-4nbf",
+    "title": "6. Compose Multiplatform 上 tvOS：Targets、Source Sets 与 buildSrc 构建配置",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://dev.to/_02872163a196e011/android-apk-ni-xiang-shi-zhan-cong-jadx-apktool-dao-frida-ghidrali-jie-dex-so-tuo-ke-yu-jia-gu-1kk0",
+    "title": "7. Android APK 逆向实战：从 JADX、Apktool 到 Frida、Ghidra，理解 DEX/SO/脱壳与加固",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://dev.to/icyzip/a-paste-button-is-a-capability-negotiation-not-a-clipboard-read-41i5",
+    "title": "8. 「粘贴」按钮是一次能力协商，而非简单读剪贴板",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://github.com/ktorio/ktor/releases/tag/3.6.0",
+    "title": "1. Ktor 3.6.0 正式发布（稳定版）",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://developer.android.com/blog/posts/introducing-the-android-x-security-state-libraries-a-unified-view-of-device-security",
+    "title": "2. AndroidX Security State 库 1.1.0 稳定版",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://developer.android.com/blog/posts/android-bench-2-0-pushing-the-frontier-with-challenging-long-horizon-tasks",
+    "title": "3. Android Bench 2.0：面向长周期任务的 Agent 评测",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://www.androidauthority.com/grapheneos-android-17-qpr1-security-patches-comments-3712218/",
+    "title": "4. GrapheneOS 指控：Android 17 首次绕过 AOSP 新增开发者 API",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://juejin.cn/post/7686445760866959369",
+    "title": "5. Kuikly：KMP 在 HarmonyOS NEXT 上的原生跨端实践",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://cactuscompute.com/needle",
+    "title": "6. Cactus Needle 3：8–29MB 端侧自动化模型",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://dev.to/haseebthedev0/architecting-battery-efficient-geofencing-for-automated-sound-profiles-4f33",
+    "title": "7. 电量高效的 Geofencing + 自动情景声音架构",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://dev.to/codenameone/lies-damn-lies-and-benchmarks-1f4p",
+    "title": "8. Lies, Damn Lies and Benchmarks：跨端框架性能实战复盘",
+    "date": "2026-09-19"
+  }
+]
