@@ -1,45 +1,5 @@
 [
   {
-    "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
-    "title": "1. Android VPN 流量泄漏新手法：绕过“无 VPN 时阻止连接”",
-    "date": "2026-09-12"
-  },
-  {
-    "url": "https://juejin.cn/post/7683704380166242304",
-    "title": "2. OkHttp 5.3 隐形变更引发线上偶发崩溃：复盘与排查",
-    "date": "2026-09-12"
-  },
-  {
-    "url": "https://juejin.cn/post/7683747144571207714",
-    "title": "3. 不要再把 Flow 当作一个容器",
-    "date": "2026-09-12"
-  },
-  {
-    "url": "https://juejin.cn/post/7684140186456211506",
-    "title": "4. 车载多 App 同屏渲染（二）：SurfaceControlViewHost 跨进程",
-    "date": "2026-09-12"
-  },
-  {
-    "url": "https://juejin.cn/post/7684019310344536127",
-    "title": "5. SO 加固强度自查 Checklist：静态、加载链、运行时看哪几项",
-    "date": "2026-09-12"
-  },
-  {
-    "url": "https://dev.to/cjbrooks12/designing-a-user-management-system-with-jwts-ktor-and-exposed-2j1a",
-    "title": "6. 用 Ktor + Exposed + JWT 设计用户管理系统",
-    "date": "2026-09-12"
-  },
-  {
-    "url": "https://github.com/googlefonts/googlesans-flex",
-    "title": "7. Google Sans Flex 开源：Android 品牌字体转为可变字体",
-    "date": "2026-09-12"
-  },
-  {
-    "url": "https://dev.to/dkmostafa/give-your-ai-agent-hands-android-automation-via-mcp-34lg",
-    "title": "8. 给你的 AI Agent 一双手：通过 MCP 做 Android 自动化",
-    "date": "2026-09-12"
-  },
-  {
     "url": "https://dev.to/tkuenneth/androids-ai-era-hype-vs-architecture-13kf",
     "title": "1. Android 的 AI 时代：营销叙事 vs 真实架构",
     "date": "2026-09-13"
@@ -323,5 +283,45 @@
     "url": "https://dev.to/codenameone/lies-damn-lies-and-benchmarks-1f4p",
     "title": "8. Lies, Damn Lies and Benchmarks：跨端框架性能实战复盘",
     "date": "2026-09-19"
+  },
+  {
+    "url": "https://androidstudio.googleblog.com/2026/09/android-studio-quail-4-patch-1-now.html",
+    "title": "1. Android Studio Quail 4 Patch 1 发布（稳定版）",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://dev.to/superfunicular/your-phone-cameras-frame-rate-never-reaches-the-file-what-android-actually-writes-into-an-mp4-5cop",
+    "title": "2. Android 录像的帧率根本没写进 MP4：时间线的真相",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://dev.to/piot5/how-a-visual-feature-almost-became-a-side-channel-vulnerability-3g3b",
+    "title": "3. 一个视觉特性差点变成侧信道漏洞（KeyTab 输入轨迹）",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://dev.to/ufebri/native-android-ota-updates-what-you-can-patch-without-shipping-a-new-apk-2hh5",
+    "title": "4. Native Android OTA：不发新 APK 你还能改哪些东西",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://juejin.cn/post/7686803938521022474",
+    "title": "5. Android 休眠唤醒后 onLocationChanged 不再回调的排查",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://dev.to/alizey_durani_52bea730f83/building-a-real-time-audio-amplifier-on-android-microphone-processing-and-latency-1a6j",
+    "title": "6. 在 Android 上做实时音频放大：麦克风、处理与延迟",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://dev.to/vijeshkr/building-a-lightweight-biometric-authentication-library-for-react-native-with-kotlin-5al4",
+    "title": "7. 用 Kotlin 为 React Native 写轻量生物识别库",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://juejin.cn/post/7686688568417648655",
+    "title": "8. 一文读懂 HarmonyOS 7.0 十大 API 重要升级",
+    "date": "2026-09-20"
   }
 ]
