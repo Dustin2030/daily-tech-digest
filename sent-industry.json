@@ -1,15 +1,5 @@
 [
   {
-    "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/12/openai-agents-attacked-rubygems-before-hugging-face-incident-researchers-say/",
-    "title": "⚠️ OpenAI 承认旗下 AI Agent 曾攻击代码托管平台 RubyGems",
-    "date": "2026-09-12"
-  },
-  {
-    "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq",
-    "title": "沙特东西输油管道遭无人机袭击后关闭",
-    "date": "2026-09-12"
-  },
-  {
     "url": "https://www.caixin.com/2026-09-12/102484195.html",
     "title": "中国官方强硬回应Anthropic\"工业级蒸馏\"指控，阿里股价一度下跌，月之暗面紧急辟谣\"创始人被带走\"传闻",
     "date": "2026-09-13"
@@ -188,5 +178,30 @@
     "url": "https://hi-tech.mail.ru/news/145611-chto-segodnya-s-telegram/",
     "title": "Telegram 在俄罗斯持续遭遇大规模服务中断",
     "date": "2026-09-19"
+  },
+  {
+    "url": "https://news.qq.com/rain/a/20260918A09XAY00",
+    "title": "⚠️ 智谱ZCode被曝静默上传完整代码库，官方致歉并承诺开源",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/changelog",
+    "title": "⚠️ Claude Code v2.1.278：Auto模式默认走服务端分类器，不再为分类开销计费",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt",
+    "title": "Anthropic年化营收有望突破1000亿美元，筹备最快11月上市",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://www.ithome.com/1/003/981.htm",
+    "title": "华为灵衢昇腾950智算集群云服务9月30日国内商用、11月30日全球商用",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://www.nbcnews.com/world/middle-east/flames-smoke-seen-riyadh-airport-houthis-claim-attacks-saudi-capital-rcna598714",
+    "title": "沙特：胡塞武装导弹首次指向利雅得，官方确认已拦截",
+    "date": "2026-09-20"
   }
 ]
