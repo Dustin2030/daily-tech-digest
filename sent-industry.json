@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://www.caixin.com/2026-09-12/102484195.html",
-    "title": "中国官方强硬回应Anthropic\"工业级蒸馏\"指控，阿里股价一度下跌，月之暗面紧急辟谣\"创始人被带走\"传闻",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://www.greynoise.io/blog/ai-orchestrated-campaign-against-papercut-ng-mf",
-    "title": "俄语黑客利用数百个AI智能体（基于Codex框架、驱动模型选用DeepSeek）自动化攻破48国395家机构",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://www.timesofisrael.com/trump-said-to-reject-saudi-request-for-strikes-on-houthis-as-they-seize-red-sea-island/",
-    "title": "也门胡塞武装攻占红海咽喉巴卜-曼德海峡，沙特王储两次请求美国空袭遭特朗普拒绝",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
-    "title": "Anthropic CEO罕见发文呼吁\"放慢AI发展步伐\"，此前一名安全研究员公开辞职警告风险",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://www.globenewswire.com/news-release/2026/09/10/3359139/0/en/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australia-s-data-center-ecosystem.html",
-    "title": "英伟达联合8家澳大利亚基建伙伴，计划到2027年建成最高2GW AI算力产能",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://aboutsignal.com/news/signal-introduces-on-device-backups-for-iphone-and-ipad/",
-    "title": "Signal iOS 8.29上线Wi-Fi Aware快速换机功能，\"设备端备份\"开放公测",
-    "date": "2026-09-13"
-  },
-  {
     "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
     "title": "⚠️ Claude Code 周使用限额今日起缩减17%",
     "date": "2026-09-14"
@@ -203,5 +173,25 @@
     "url": "https://www.nbcnews.com/world/middle-east/flames-smoke-seen-riyadh-airport-houthis-claim-attacks-saudi-capital-rcna598714",
     "title": "沙特：胡塞武装导弹首次指向利雅得，官方确认已拦截",
     "date": "2026-09-20"
+  },
+  {
+    "url": "https://www.benzinga.com/markets/tech/26/09/61884045/anthropic-races-to-defend-enterprise-ai-lead-against-openais-gpt-6-astra-but-weighs-safety-concerns-report",
+    "title": "⚠️ Anthropic考虑推出新模型应对OpenAI GPT-6 Astra竞争压力",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://news.qq.com/rain/a/20260920A0D9MM00",
+    "title": "沙特阿美暂停10月对欧洲原油供应,东西输油管道遭袭",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699748.shtml",
+    "title": "特朗普宣布将组建\"人工智能部队\"并任命AI总管",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://finance.sina.com.cn/tech/digi/2026-09-20/doc-inismzva9299199.shtml",
+    "title": "硅基流动完成新一轮融资,年内累计近29亿元",
+    "date": "2026-09-21"
   }
 ]
