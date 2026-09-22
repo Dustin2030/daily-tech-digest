@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
-    "title": "⚠️ Claude Code 周使用限额今日起缩减17%",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.abc.net.au/news/2026-09-13/houthis-hit-saudi-base-amid-renewed-fighting-with-yemen/107147690",
-    "title": "胡塞武装袭击沙特南部沙鲁拉军事基地,油价应声上涨",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://wabetainfo.com/whatsapp-will-make-calls-available-for-users-without-an-account/",
-    "title": "WhatsApp 测试访客通话功能,无账号用户也可加入通话",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://wabetainfo.com/whatsapp-is-rolling-out-a-redesigned-navigation-interface-for-ipad/",
-    "title": "WhatsApp 为 iPad 推出仿 Mac 风格侧边栏导航",
-    "date": "2026-09-14"
-  },
-  {
     "url": "https://www.thepaper.cn/newsDetail_forward_34061877",
     "title": "智谱完成约50亿美元融资,加码下一代GLM模型与自研算力",
     "date": "2026-09-15"
@@ -193,5 +173,35 @@
     "url": "https://finance.sina.com.cn/tech/digi/2026-09-20/doc-inismzva9299199.shtml",
     "title": "硅基流动完成新一轮融资,年内累计近29亿元",
     "date": "2026-09-21"
+  },
+  {
+    "url": "https://finance.eastmoney.com/a/202609223881155918.html",
+    "title": "阿里云栖大会：吴泳铭官宣5-10万亿参数模型与真武V900芯片",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "title": "Meta个人AI智能体Muse两周登顶iOS免费榜，反超ChatGPT",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://finance.sina.com.cn/tech/digi/2026-09-21/doc-inisqvrz9289464.shtml",
+    "title": "蚂蚁集团重组支付宝事业群，全面押注智能体商业",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+    "title": "Anthropic推出生命科学验证计划，放宽Claude生物安全限制",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://thesauditimes.net/en/jeddah-prepares-for-a-new-gulf-football-showdown-as-eight-nations-target-khaleeji-27-glory/",
+    "title": "第27届海湾杯9月23日吉达开幕，沙特首战科威特",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://news.sina.com.cn/c/xl/2026-09-22/doc-inisscmm8883471.shtml",
+    "title": "习近平将于9月23日至25日对美国进行国事访问",
+    "date": "2026-09-22"
   }
 ]
