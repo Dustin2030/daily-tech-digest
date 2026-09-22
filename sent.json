@@ -1,55 +1,5 @@
 [
   {
-    "url": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
-    "title": "1. ADK for Kotlin 1.0 正式发布：用 Kotlin 写生产级 AI Agent",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.youtube.com/watch?v=6D1yV5o4CWo",
-    "title": "2. Google 揭秘 google.com/search 如何构建在 Kotlin 协程之上",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://github.com/google/artemis",
-    "title": "3. Google 开源 ARTEMIS：自然语言指令变可靠 Android 自动化",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://github.com/bitsycore/compose-desktop-native/",
-    "title": "4. Compose Desktop Native：Compose 桌面应用打成脱离 JVM 的原生二进制",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://medium.com/@behzodhalil/recompositionmode-immediate-is-a-frame-clock-70a0c8c94364",
-    "title": "5. 深入 Molecule：RecompositionMode.Immediate 其实是一个帧时钟",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://dev.to/toolloom/kotlin-inline-classes-zero-overhead-wrappers-for-safer-domain-modeling-35nb",
-    "title": "6. Kotlin value/inline class：零开销包装写更安全的领域模型",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://github.com/Coding-Meet/Library-Insight/",
-    "title": "7. Library Insight：给 AI 助手喂版本精确的 Kotlin/KMP API 上下文",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://juejin.cn/post/7684573646438301706",
-    "title": "8. Jake Wharton 长访谈：Kotlin 的黄金时代结束了吗？",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://juejin.cn/post/7682800396524732425",
-    "title": "9. Android BLE 扫描失败排查：为什么必须同时申请蓝牙和定位权限",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://juejin.cn/post/7682499191227006995",
-    "title": "10. Android 测试全景：从单元测试到 UI 自动化的完整实践",
-    "date": "2026-09-14"
-  },
-  {
     "url": "https://github.com/bitsycore/compose-desktop-native",
     "title": "2. Compose Desktop Native：脱离 JVM 的原生桌面二进制",
     "date": "2026-09-15"
@@ -328,5 +278,45 @@
     "url": "https://juejin.cn/post/7687445339747958793",
     "title": "9. Kotlin 协程闯关：看代码猜结果",
     "date": "2026-09-21"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
+    "title": "1. Googlebook 亮相：基于 Android 的笔记本正式登场",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/09/bring-android-game-to-car-screen.html",
+    "title": "2. Android 车机游戏正式 GA：可发布到 Play 正式轨道",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://dev.to/yadnyesh_rana/why-your-compose-ui-test-cant-find-that-button-semantics-vs-text-matching-367b",
+    "title": "3. 为什么你的 Compose UI 测试找不到那个按钮：Semantics vs 文本匹配",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://dev.to/aldys4/droid-asc-a-super-fast-android-decompiler-41-to-269-times-faster-than-jadx-5ff",
+    "title": "4. Droid ASC：号称比 JADX 快 41–269 倍的 Android 反编译器",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://juejin.cn/post/7687583607785619466",
+    "title": "5. 实战：实现 120fps 流畅的渐变进度条",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://juejin.cn/post/7687781116218261542",
+    "title": "6. Android MeasureSpec 详解",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://dev.to/kfiradut/our-android-qa-pipeline-passed-the-screenshots-proved-it-was-wrong-14ab",
+    "title": "7. 我们的 Android QA 流水线通过了，截图却证明它错了",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://juejin.cn/post/7687540119348346922",
+    "title": "8. Android 10 后台弹窗与 APK 自动更新实战",
+    "date": "2026-09-22"
   }
 ]
