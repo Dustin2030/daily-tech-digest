@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://github.com/bitsycore/compose-desktop-native",
-    "title": "2. Compose Desktop Native：脱离 JVM 的原生桌面二进制",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://dev.to/yadnyesh_rana/gemini-nano-isnt-on-most-of-your-users-phones-heres-the-feature-detection-pattern-that-doesnt-58dl",
-    "title": "3. Gemini Nano 并非人人可用：生产级特性探测模式",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://dev.to/vmodal_ai/building-a-gemini-powered-ai-assistant-for-android-xr-glasses-with-kotlin-41jg",
-    "title": "6. 用 Kotlin 在 Android XR 眼镜上构建 Gemini 语音助手",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://juejin.cn/post/7684943124759068682",
-    "title": "7. Android 性能优化：启动、内存、卡顿一站式排查手册",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://juejin.cn/post/7685190703505686554",
-    "title": "8. 车载多 App 同屏渲染（三）：RemoteCompose 序列化 UI",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://juejin.cn/post/7684800289061191706",
-    "title": "9. Android 485 串口通信踩坑 + Modbus 可靠通信实战",
-    "date": "2026-09-15"
-  },
-  {
     "url": "https://dev.to/jamilxt/jetbrains-ranked-ai-agents-on-real-kotlin-projects-the-token-column-is-the-real-story-22li",
     "title": "1. JetBrains 官方 Kotlin Benchmark 上线：AI 编码 Agent 有了 Kotlin 专属评测",
     "date": "2026-09-16"
@@ -318,5 +288,50 @@
     "url": "https://juejin.cn/post/7687540119348346922",
     "title": "8. Android 10 后台弹窗与 APK 自动更新实战",
     "date": "2026-09-22"
+  },
+  {
+    "url": "https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.12.1",
+    "title": "1. Compose Multiplatform 1.12.1 正式发布（稳定版）",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/09/adaptive-development-scale-app-googlebook.html",
+    "title": "2. 让应用登陆 Googlebook：自适应开发指南",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://dev.to/cfournel/memory-not-speed-is-the-hard-part-of-running-an-llm-on-a-phone-53mk",
+    "title": "3. 手机上跑 LLM，真正的难点是内存而非速度",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://dev.to/874wokiite/kmpwhat-it-took-to-ship-one-kotlin-app-to-both-stores-4fpn",
+    "title": "4. 一个 Kotlin App 上架双端（KMP 实战复盘）",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://dev.to/874wokiite/cmpone-canvas-drawn-cassette-deck-ui-identical-on-android-and-ios-2bbp",
+    "title": "5. CMP Canvas 手绘磁带机 UI，双端像素级一致",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://juejin.cn/post/7688201221527765027",
+    "title": "6. Jetpack Compose 副作用（SideEffect）详解",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://juejin.cn/post/7687972882229002281",
+    "title": "7. Kotlin 协程中的 Job：结构化并发与取消",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://juejin.cn/post/7687810043569455131",
+    "title": "8. Kotlin 协程源码解析：协程是如何切换线程的",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://juejin.cn/post/7688212417864908827",
+    "title": "9. AOSP 编译：lunch xxx-userdebug 背后发生了什么",
+    "date": "2026-09-23"
   }
 ]
