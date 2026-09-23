@@ -1,20 +1,5 @@
 [
   {
-    "url": "https://www.thepaper.cn/newsDetail_forward_34061877",
-    "title": "智谱完成约50亿美元融资,加码下一代GLM模型与自研算力",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.epochtimes.com/gb/26/9/15/n14849805.htm",
-    "title": "胡塞武装攻占红海哈尼什群岛,沙特石油出口通道风险升级",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://finance.eastmoney.com/a/202609113872341851.html",
-    "title": "国产AI芯片\"四小龙\"燧原科技科创板上市,首日暴涨188%",
-    "date": "2026-09-15"
-  },
-  {
     "url": "https://code.claude.com/docs/en/changelog",
     "title": "⚠️ Claude Code 发布 v2.1.273，新增网关请求头、会话分支与 MCP 断线提醒",
     "date": "2026-09-16"
@@ -203,5 +188,35 @@
     "url": "https://news.sina.com.cn/c/xl/2026-09-22/doc-inisscmm8883471.shtml",
     "title": "习近平将于9月23日至25日对美国进行国事访问",
     "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/22/anthropic-unveils-claude-opus-55/",
+    "title": "⚠️ Anthropic 正式发布 Claude Opus 5.5，性能对标旗舰模型但价格大幅下调",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://9to5mac.com/2026/09/22/openai-upgrading-chatgpt-and-codex-with-two-more-gpt-6-models/",
+    "title": "⚠️ OpenAI 向 Codex 与 ChatGPT Work 全面开放 GPT-6 Sol、GPT-6 Luna",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://www.business-standard.com/world-news/deepseek-openai-and-anthropic-to-brief-un-security-council-on-ai-this-week-126092201553_1.html",
+    "title": "Dario Amodei、Sam Altman将出席联合国安理会人工智能安全简报会，DeepSeek、月之暗面同场",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://gulfnews.com/world/gulf/saudi/saudi-national-day-2026-to-bring-airshows-naval-displays-and-fireworks-across-kingdom-1.500681422",
+    "title": "沙特阿拉伯迎来建国96周年国庆日",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
+    "title": "AMD股价大涨，市值历史上首次突破1万亿美元",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://9to5google.com/2026/09/22/snapdragon-8-elite-gen-6/",
+    "title": "高通骁龙峰会发布骁龙8 Elite Gen 6双芯片战略",
+    "date": "2026-09-23"
   }
 ]
