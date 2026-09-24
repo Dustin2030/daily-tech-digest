@@ -1,51 +1,6 @@
 [
   {
     "url": "https://code.claude.com/docs/en/changelog",
-    "title": "⚠️ Claude Code 发布 v2.1.273，新增网关请求头、会话分支与 MCP 断线提醒",
-    "date": "2026-09-16"
-  },
-  {
-    "url": "https://news.qq.com/rain/a/20260915A08PDW00",
-    "title": "飞书发布8.0版本，与豆包工作原生融合推出\"豆包工作伙伴\"",
-    "date": "2026-09-16"
-  },
-  {
-    "url": "https://www.thinkadvisor.com/2026/09/15/anthropic-releases-claude-for-financial-advisors/",
-    "title": "Anthropic 推出 Claude 中小企业与金融顾问专属方案",
-    "date": "2026-09-16"
-  },
-  {
-    "url": "https://boereport.com/2026/09/15/oil-loadings-suspended-at-saudis-red-sea-port-of-yanbu-shipping-sources-say/",
-    "title": "胡塞武装升级袭击沙特，延布港原油装载暂停、油价应声上涨",
-    "date": "2026-09-16"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.274",
-    "title": "⚠️ Claude Code 发布 v2.1.274，修复多项会话稳定性问题",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "title": "Anthropic、OpenAI、Google 讨论联合筹建AI行业标准机构",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://siliconangle.com/2026/09/16/anthropic-brings-cowork-directly-inside-claudes-chat-interface/",
-    "title": "⚠️ Anthropic 将 Claude Cowork 并入主聊天界面，同步上线 Docs 与 Slides",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://www.ithome.com/1/003/087.htm",
-    "title": "努比亚发布“全球首款AI智能体手机”NaviX Ultra，5999元起",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca",
-    "title": "沙特宣布在麦加附近拦截胡塞武装无人机，谴责“越过红线”",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://code.claude.com/docs/en/changelog",
     "title": "⚠️ Claude Code 一周内连发两版本，新增网关登录确认等功能后紧急修复代理请求全部失败的缺陷",
     "date": "2026-09-18"
   },
@@ -218,5 +173,35 @@
     "url": "https://9to5google.com/2026/09/22/snapdragon-8-elite-gen-6/",
     "title": "高通骁龙峰会发布骁龙8 Elite Gen 6双芯片战略",
     "date": "2026-09-23"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/changelog",
+    "title": "⚠️ Claude Code 默认模型升级至 Claude Opus 5.5",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "title": "Meta Connect 2026:AI智能体 Muse 大升级,同步发布多款AI硬件",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://www.huxiu.com/article/4893371.html",
+    "title": "阿里云栖大会发布AI原生电脑QwenBook与千问办公硬件QwenNote A2",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://www.ithome.com/0/967/455.htm",
+    "title": "腾讯发布首款面向境外游客的支付App TenPayGo",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://www.abc.net.au/news/2026-09-24/ai-industry-un-bleak-warnings/107186256",
+    "title": "联合国大会AI监管交锋:特朗普拒绝全球AI监管框架,古特雷斯呼吁多边治理",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://news.ifeng.com/c/8wf5aoRJixk",
+    "title": "以色列总理内塔尼亚胡设定五年目标:成为全球第三大AI强国",
+    "date": "2026-09-24"
   }
 ]
