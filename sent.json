@@ -1,0 +1,292 @@
+[
+  {
+    "url": "https://blog.jetbrains.com/kotlin/2026/09/kotlin-2-4-20-released/",
+    "title": "1. Kotlin 2.4.20 正式发布（稳定版）",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://juejin.cn/post/7686341837753368611",
+    "title": "2. 跨平台开发地图 · 2026年9月",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://juejin.cn/post/7686389996108300338",
+    "title": "3. 造一个「录制回放 + LLM 自主操作手机」的 Android 自动化测试平台（一）",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.gamingonlinux.com/2026/09/lepton-from-valve-to-run-android-games-on-linux-is-now-open-source/",
+    "title": "4. Valve 开源 Lepton：在 Linux/SteamOS 上运行 Android 应用",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://dev.to/synfinity-dynamics-pvt-ltd/what-really-happens-when-you-open-a-kotlin-android-app-a-deep-dive-into-the-app-lifecycle-4jbd",
+    "title": "5. 深入剖析：打开一个 Kotlin Android App 时到底发生了什么",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://dev.to/sajidalidev/build-setup-targets-source-sets-and-buildsrc-for-tvos-in-a-compose-multiplatform-fork-4nbf",
+    "title": "6. Compose Multiplatform 上 tvOS：Targets、Source Sets 与 buildSrc 构建配置",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://dev.to/_02872163a196e011/android-apk-ni-xiang-shi-zhan-cong-jadx-apktool-dao-frida-ghidrali-jie-dex-so-tuo-ke-yu-jia-gu-1kk0",
+    "title": "7. Android APK 逆向实战：从 JADX、Apktool 到 Frida、Ghidra，理解 DEX/SO/脱壳与加固",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://dev.to/icyzip/a-paste-button-is-a-capability-negotiation-not-a-clipboard-read-41i5",
+    "title": "8. 「粘贴」按钮是一次能力协商，而非简单读剪贴板",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://github.com/ktorio/ktor/releases/tag/3.6.0",
+    "title": "1. Ktor 3.6.0 正式发布（稳定版）",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://developer.android.com/blog/posts/introducing-the-android-x-security-state-libraries-a-unified-view-of-device-security",
+    "title": "2. AndroidX Security State 库 1.1.0 稳定版",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://developer.android.com/blog/posts/android-bench-2-0-pushing-the-frontier-with-challenging-long-horizon-tasks",
+    "title": "3. Android Bench 2.0：面向长周期任务的 Agent 评测",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://www.androidauthority.com/grapheneos-android-17-qpr1-security-patches-comments-3712218/",
+    "title": "4. GrapheneOS 指控：Android 17 首次绕过 AOSP 新增开发者 API",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://juejin.cn/post/7686445760866959369",
+    "title": "5. Kuikly：KMP 在 HarmonyOS NEXT 上的原生跨端实践",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://cactuscompute.com/needle",
+    "title": "6. Cactus Needle 3：8–29MB 端侧自动化模型",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://dev.to/haseebthedev0/architecting-battery-efficient-geofencing-for-automated-sound-profiles-4f33",
+    "title": "7. 电量高效的 Geofencing + 自动情景声音架构",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://dev.to/codenameone/lies-damn-lies-and-benchmarks-1f4p",
+    "title": "8. Lies, Damn Lies and Benchmarks：跨端框架性能实战复盘",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://androidstudio.googleblog.com/2026/09/android-studio-quail-4-patch-1-now.html",
+    "title": "1. Android Studio Quail 4 Patch 1 发布（稳定版）",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://dev.to/superfunicular/your-phone-cameras-frame-rate-never-reaches-the-file-what-android-actually-writes-into-an-mp4-5cop",
+    "title": "2. Android 录像的帧率根本没写进 MP4：时间线的真相",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://dev.to/piot5/how-a-visual-feature-almost-became-a-side-channel-vulnerability-3g3b",
+    "title": "3. 一个视觉特性差点变成侧信道漏洞（KeyTab 输入轨迹）",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://dev.to/ufebri/native-android-ota-updates-what-you-can-patch-without-shipping-a-new-apk-2hh5",
+    "title": "4. Native Android OTA：不发新 APK 你还能改哪些东西",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://juejin.cn/post/7686803938521022474",
+    "title": "5. Android 休眠唤醒后 onLocationChanged 不再回调的排查",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://dev.to/alizey_durani_52bea730f83/building-a-real-time-audio-amplifier-on-android-microphone-processing-and-latency-1a6j",
+    "title": "6. 在 Android 上做实时音频放大：麦克风、处理与延迟",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://dev.to/vijeshkr/building-a-lightweight-biometric-authentication-library-for-react-native-with-kotlin-5al4",
+    "title": "7. 用 Kotlin 为 React Native 写轻量生物识别库",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://juejin.cn/post/7686688568417648655",
+    "title": "8. 一文读懂 HarmonyOS 7.0 十大 API 重要升级",
+    "date": "2026-09-20"
+  },
+  {
+    "url": "https://touchlab.co/gradle-transitive-dependency-resolution",
+    "title": "1. Gradle 依赖解析里藏着的运行时崩溃",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://aditlal.dev/built-composeproof/",
+    "title": "2. ComposeProof：给 AI Agent 装上“眼睛”验证 Compose UI",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://proandroiddev.com/on-device-ai-series-part-5-litert-lm-d6c23b102094",
+    "title": "3. 端侧 AI 实战（五）：LiteRT-LM 的 Engine/Session 模型",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://returnzero.dev/articles/one-android-app-why-so-many-processes",
+    "title": "4. 一个 App 为什么要开这么多进程？",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://dev.to/superfunicular/why-your-phone-security-camera-uses-mobile-data-on-shared-wi-fi-captive-portals-explained-5ejn",
+    "title": "5. Captive Portal 揭秘：共享 Wi-Fi 下摄像头为何还在走流量",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://dev.to/ufebri/understanding-clear-data-on-android-38pi",
+    "title": "6. 搞懂 Android 的“清除数据”",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://juejin.cn/post/7687077659597406249",
+    "title": "7. Android 工业终端保活实战：前台服务 + 开机自启 + 更新自启三重保障",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://juejin.cn/post/7686998011197554707",
+    "title": "8. SO 加固强度怎么量化？腾讯 ACE 与 FairGuard 静态分析实测",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://juejin.cn/post/7687445339747958793",
+    "title": "9. Kotlin 协程闯关：看代码猜结果",
+    "date": "2026-09-21"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
+    "title": "1. Googlebook 亮相：基于 Android 的笔记本正式登场",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/09/bring-android-game-to-car-screen.html",
+    "title": "2. Android 车机游戏正式 GA：可发布到 Play 正式轨道",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://dev.to/yadnyesh_rana/why-your-compose-ui-test-cant-find-that-button-semantics-vs-text-matching-367b",
+    "title": "3. 为什么你的 Compose UI 测试找不到那个按钮：Semantics vs 文本匹配",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://dev.to/aldys4/droid-asc-a-super-fast-android-decompiler-41-to-269-times-faster-than-jadx-5ff",
+    "title": "4. Droid ASC：号称比 JADX 快 41–269 倍的 Android 反编译器",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://juejin.cn/post/7687583607785619466",
+    "title": "5. 实战：实现 120fps 流畅的渐变进度条",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://juejin.cn/post/7687781116218261542",
+    "title": "6. Android MeasureSpec 详解",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://dev.to/kfiradut/our-android-qa-pipeline-passed-the-screenshots-proved-it-was-wrong-14ab",
+    "title": "7. 我们的 Android QA 流水线通过了，截图却证明它错了",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://juejin.cn/post/7687540119348346922",
+    "title": "8. Android 10 后台弹窗与 APK 自动更新实战",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.12.1",
+    "title": "1. Compose Multiplatform 1.12.1 正式发布（稳定版）",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/09/adaptive-development-scale-app-googlebook.html",
+    "title": "2. 让应用登陆 Googlebook：自适应开发指南",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://dev.to/cfournel/memory-not-speed-is-the-hard-part-of-running-an-llm-on-a-phone-53mk",
+    "title": "3. 手机上跑 LLM，真正的难点是内存而非速度",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://dev.to/874wokiite/kmpwhat-it-took-to-ship-one-kotlin-app-to-both-stores-4fpn",
+    "title": "4. 一个 Kotlin App 上架双端（KMP 实战复盘）",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://dev.to/874wokiite/cmpone-canvas-drawn-cassette-deck-ui-identical-on-android-and-ios-2bbp",
+    "title": "5. CMP Canvas 手绘磁带机 UI，双端像素级一致",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://juejin.cn/post/7688201221527765027",
+    "title": "6. Jetpack Compose 副作用（SideEffect）详解",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://juejin.cn/post/7687972882229002281",
+    "title": "7. Kotlin 协程中的 Job：结构化并发与取消",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://juejin.cn/post/7687810043569455131",
+    "title": "8. Kotlin 协程源码解析：协程是如何切换线程的",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://juejin.cn/post/7688212417864908827",
+    "title": "9. AOSP 编译：lunch xxx-userdebug 背后发生了什么",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/navigation3",
+    "title": "1. Jetpack Navigation3 1.2.0 稳定版发布",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/work",
+    "title": "2. WorkManager 2.12.0 稳定版发布",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/releases/wear-compose",
+    "title": "3. Wear Compose 1.7.0 稳定版发布",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://developer.android.com/jetpack/androidx/versions/all-channel",
+    "title": "4. AndroidX 9 月稳定版批量落地",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://juejin.cn/post/7688209623506108454",
+    "title": "5. 跨技术栈：在 Flutter/Compose 中复用自定义 View 思想",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://juejin.cn/post/7688201221527765027",
+    "title": "6. Jetpack Compose 副作用 SideEffect 详解",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://dev.to/afeemuhammodwafy/building-bakiledger-designing-an-offline-first-personal-ledger-with-kotlin-and-jetpack-compose-4924",
+    "title": "7. 离线优先账本 BakiLedger：Kotlin+Compose 的取舍实践",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://dev.to/_02872163a196e011/breaking-the-ai-reverse-engineering-barrier-a-deep-dive-into-xopprotector-an-open-source-android-amf",
+    "title": "8. XopProtector：对抗 AI 逆向的开源 Android 加固方案",
+    "date": "2026-09-24"
+  }
+]
