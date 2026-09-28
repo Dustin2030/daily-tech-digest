@@ -1,120 +1,5 @@
 [
   {
-    "url": "https://code.claude.com/docs/en/changelog",
-    "title": "⚠️ Claude Code 一周内连发两版本，新增网关登录确认等功能后紧急修复代理请求全部失败的缺陷",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://m.21jingji.com/article/20260917/herald/363e7190923e722e98779180b29fb289.html",
-    "title": "字节跳动完成296亿美元银团贷款加码AI基建，净利润率三年持续走低",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://www.business-standard.com/technology/artificial-intelligence/anthropic-says-claude-drives-over-25-of-its-research-and-development-126091800158_1.html",
-    "title": "⚠️ Anthropic披露Claude已能独立完成公司26%的模型研发工作，正参与训练下一代模型",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "title": "Meta向WhatsApp Business开放第三方AI智能体自动配置，支持通过Claude、Codex完成账号搭建",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://mixdesk.com/blog/en/whatsapp-business-api-pricing-october-2026/",
-    "title": "WhatsApp Business API计费模式10月起迎重大调整，超额消息将开始收费",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://slack.com/whats-new",
-    "title": "Slack新增AI工具与MCP服务器使用分析仪表盘，加码企业级AI治理",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://uctoday.com/microsoft-teams-copilot-whats-new-in-september-2026",
-    "title": "微软Teams会议助手升级，可在会中自动网页搜索并翻译纪要",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://www.thenationalnews.com/news/gulf/2026/09/17/one-killed-and-two-injured-by-houthi-drone-debris-in-saudi-arabias-taif/",
-    "title": "胡塞武装袭击升级，无人机残骸致沙特塔伊夫1死2伤，沙特称袭击逼近麦加\"红线\"",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/",
-    "title": "Claude Code 新增原生支持 AGENTS.md,多工具协作更省心",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/openai-to-retire-gpt-5-5-from-chatgpt-work-and-codex-on-october-14-what-changes-to-expect-555782-2026-09-16",
-    "title": "OpenAI 将于10月14日从 Codex/ChatGPT 下线 GPT-5.5",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
-    "title": "阿里 Qwen 发布全模态模型 Qwen3.8-Omni-Flash",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.salesforceben.com/salesforce-launches-aiforce-at-dreamforce-26-ai-replaces-the-ui/",
-    "title": "Salesforce Dreamforce 大会推出\"AIforce\",打通CRM数据接入Slack与Claude",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://m.21jingji.com/article/20260919/herald/69d17df09c32556f3aa8d93bcabcc656.html",
-    "title": "智谱涨价与融资双双升级:年内API均价涨约101%,融资意向滚存至650亿元",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://hi-tech.mail.ru/news/145611-chto-segodnya-s-telegram/",
-    "title": "Telegram 在俄罗斯持续遭遇大规模服务中断",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://news.qq.com/rain/a/20260918A09XAY00",
-    "title": "⚠️ 智谱ZCode被曝静默上传完整代码库，官方致歉并承诺开源",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://code.claude.com/docs/en/changelog",
-    "title": "⚠️ Claude Code v2.1.278：Auto模式默认走服务端分类器，不再为分类开销计费",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt",
-    "title": "Anthropic年化营收有望突破1000亿美元，筹备最快11月上市",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.ithome.com/1/003/981.htm",
-    "title": "华为灵衢昇腾950智算集群云服务9月30日国内商用、11月30日全球商用",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.nbcnews.com/world/middle-east/flames-smoke-seen-riyadh-airport-houthis-claim-attacks-saudi-capital-rcna598714",
-    "title": "沙特：胡塞武装导弹首次指向利雅得，官方确认已拦截",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://www.benzinga.com/markets/tech/26/09/61884045/anthropic-races-to-defend-enterprise-ai-lead-against-openais-gpt-6-astra-but-weighs-safety-concerns-report",
-    "title": "⚠️ Anthropic考虑推出新模型应对OpenAI GPT-6 Astra竞争压力",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://news.qq.com/rain/a/20260920A0D9MM00",
-    "title": "沙特阿美暂停10月对欧洲原油供应,东西输油管道遭袭",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://www.chinanews.com.cn/gj/2026/09-20/10699748.shtml",
-    "title": "特朗普宣布将组建\"人工智能部队\"并任命AI总管",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://finance.sina.com.cn/tech/digi/2026-09-20/doc-inismzva9299199.shtml",
-    "title": "硅基流动完成新一轮融资,年内累计近29亿元",
-    "date": "2026-09-21"
-  },
-  {
     "url": "https://finance.eastmoney.com/a/202609223881155918.html",
     "title": "阿里云栖大会：吴泳铭官宣5-10万亿参数模型与真武V900芯片",
     "date": "2026-09-22"
@@ -203,5 +88,35 @@
     "url": "https://news.ifeng.com/c/8wf5aoRJixk",
     "title": "以色列总理内塔尼亚胡设定五年目标:成为全球第三大AI强国",
     "date": "2026-09-24"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7690669421370573347/",
+    "title": "⚠️ Anthropic 发布 Claude Sonnet 5.5，提速 30%、成本最高降 30%，已在 Claude Code 上线",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia",
+    "title": "⚠️ NVIDIA 发布开放智能体安全平台，与 Anthropic Claude Managed Agents 深度集成",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7690694341672632842/",
+    "title": "AMD 以约 82 亿美元收购 World Labs，李飞飞出任首席科学家",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "http://www2.xinhuanet.com/20260925/0ef030371a0e49ff88201e0c675a8c50/c.html",
+    "title": "法国宣布派兵保护沙特延布石油设施，英法拟向沙特提供军事支持",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.remio.ai/es/post/openai-codex-0-158-0-adds-enterprise-controls-alongside-faster-workflows-es",
+    "title": "OpenAI Codex 0.158.0 发布，强化企业级控制与远程执行",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7690223809701429769/",
+    "title": "xAI Colossus 2 年底前部署 66 万颗 Blackwell GPU，冲击全球最大 AI 数据中心",
+    "date": "2026-09-29"
   }
 ]
