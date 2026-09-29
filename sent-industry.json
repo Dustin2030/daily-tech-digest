@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://finance.eastmoney.com/a/202609223881155918.html",
-    "title": "阿里云栖大会：吴泳铭官宣5-10万亿参数模型与真武V900芯片",
-    "date": "2026-09-22"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-    "title": "Meta个人AI智能体Muse两周登顶iOS免费榜，反超ChatGPT",
-    "date": "2026-09-22"
-  },
-  {
-    "url": "https://finance.sina.com.cn/tech/digi/2026-09-21/doc-inisqvrz9289464.shtml",
-    "title": "蚂蚁集团重组支付宝事业群，全面押注智能体商业",
-    "date": "2026-09-22"
-  },
-  {
-    "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-    "title": "Anthropic推出生命科学验证计划，放宽Claude生物安全限制",
-    "date": "2026-09-22"
-  },
-  {
-    "url": "https://thesauditimes.net/en/jeddah-prepares-for-a-new-gulf-football-showdown-as-eight-nations-target-khaleeji-27-glory/",
-    "title": "第27届海湾杯9月23日吉达开幕，沙特首战科威特",
-    "date": "2026-09-22"
-  },
-  {
-    "url": "https://news.sina.com.cn/c/xl/2026-09-22/doc-inisscmm8883471.shtml",
-    "title": "习近平将于9月23日至25日对美国进行国事访问",
-    "date": "2026-09-22"
-  },
-  {
     "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/22/anthropic-unveils-claude-opus-55/",
     "title": "⚠️ Anthropic 正式发布 Claude Opus 5.5，性能对标旗舰模型但价格大幅下调",
     "date": "2026-09-23"
@@ -118,5 +88,35 @@
     "url": "http://m.toutiao.com/group/7690223809701429769/",
     "title": "xAI Colossus 2 年底前部署 66 万颗 Blackwell GPU，冲击全球最大 AI 数据中心",
     "date": "2026-09-29"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7691008843576279578/",
+    "title": "⚠️ OpenAI 在 Codex 上线 GPT-6.1 Sol：性能接近 Astra、成本更低",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7691020468949746216/",
+    "title": "⚠️ Codex CLI 焕新升级：支持语音对话与多智能体并行",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7691056436352139818/",
+    "title": "⚠️ OpenAI 发布全天候在线智能体 Dot",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+    "title": "Meta 发布企业 AI 平台，挖角 MongoDB CEO 掌舵",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://www.adslzone.net/noticias/whatsapp/#",
+    "title": "WhatsApp 用户名功能正式铺开：不用手机号也能加好友",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7691015015301792283/",
+    "title": "沙特空袭也门多地，胡塞称通信设施与学校被炸，冲突持续升级",
+    "date": "2026-09-30"
   }
 ]
