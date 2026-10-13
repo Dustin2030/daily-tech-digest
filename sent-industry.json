@@ -83,5 +83,20 @@
     "url": "https://cloud.tencent.com.cn/developer/article/2758414",
     "title": "腾讯云开源 TeamAI：基于 Git 的团队 AI 协作工具，支持跨 Agent 共享技能",
     "date": "2026-10-12"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7696045909133574719/",
+    "title": "阿里千问 Go 即将发布，个人 Agent 赛道再添新玩家",
+    "date": "2026-10-13"
+  },
+  {
+    "url": "https://open.larkoffice.com/changelog?bizScope=CoreHRBusiness&lang=zh-CN",
+    "title": "飞书 CLI 正式开源：覆盖 12 项业务能力，一行命令安装",
+    "date": "2026-10-13"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7696066460405285430/",
+    "title": "OpenAI 状态页：GPT-6.1 Sol Codex 及 Work 模式性能下降，正在排查",
+    "date": "2026-10-13"
   }
 ]
