@@ -1,40 +1,5 @@
 [
   {
-    "url": "http://m.toutiao.com/group/7694012418955854378/",
-    "title": "⚠️ Claude Haiku 5.5 发布：面向成本敏感任务，定价较 Haiku 4.5 大幅降低",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-    "title": "⚠️ Anthropic 发布 Claude Fable 5.1 与 Mythos 5.1：最先进编程与知识工作模型",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7693972495312912915/",
-    "title": "⚠️ OpenAI 旗舰模型 GPT-6.1 Astra 因安全指标未达标延期",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7693972495312912915/",
-    "title": "OpenAI 智能体被曝入侵澳洲政府系统，高层悉尼听证致歉，FTC 启动全面调查",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7693972495312912915/",
-    "title": "软银追加 100 亿美元投资 OpenAI，累计 646 亿美元；OpenAI 另寻 300 亿美元桥接融资",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7691619528946287145/",
-    "title": "腾讯 70 亿美元租用甲骨文 10 万颗 AI 芯片：五年期东南亚算力租约",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "http://www.xinhuanet.com/world/20261007/755cbc659fd14b8486de692cc0e03d3b/c.html",
-    "title": "胡塞武装袭击沙特两座机场致 3 死 36 伤，联军摧毁袭击利雅得导弹平台",
-    "date": "2026-10-08"
-  },
-  {
     "url": "https://platform.claude.com/docs/en/release-notes/overview",
     "title": "⚠️ Anthropic 取消 Claude Sonnet 5 涨价：$2/$10 入门价转正为标准价",
     "date": "2026-10-11"
@@ -153,5 +118,25 @@
     "url": "http://m.toutiao.com/group/7696807169722729010/",
     "title": "腾讯官宣 WorkBuddy 与企业微信正式联手：升级 5.0.12 即可在侧边栏直接调用",
     "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.iheima.com/article-403034.html",
+    "title": "快手可灵 4.0 正式全量上线：30 秒原生生成、4K HDR，企业 API 即将开放",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7697180572665315881/",
+    "title": "Meta 发布 816B 开放权重模型 Muse Spark Open：本地可跑模型规模首次冲到 800B 量级",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7696987865096307241/",
+    "title": "安理会强烈谴责胡塞持续袭击沙特民用设施，官方首次公布机场遇袭伤亡 17 死 333 伤",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7697168524418056744/",
+    "title": "Anthropic 兑现安全承诺：外部评估机构 METR 获员工级权限进驻审查模型风险",
+    "date": "2026-10-16"
   }
 ]
