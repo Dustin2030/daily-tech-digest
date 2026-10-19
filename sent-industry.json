@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://platform.claude.com/docs/en/release-notes/overview",
-    "title": "⚠️ Anthropic 取消 Claude Sonnet 5 涨价：$2/$10 入门价转正为标准价",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://news.cctv.cn/2026/10/11/ARTIiiKOCPUYcjRognwxIFw9261011.shtml",
-    "title": "沙特利雅得机场遭袭致 12 死 309 伤，联军誓言坚决回应、胡塞再发禁飞警告",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7695200477377610274/",
-    "title": "⚠️ Anthropic 半年封禁 1140 万 Claude 账号，39.8 万申诉仅 4.2 万翻案",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "http://www.caixin.com/2026-10-10/102492147.html",
-    "title": "字节、腾讯加速个人 AI 智能体研发追赶 Meta Muse",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7695306147758146088/",
-    "title": "消息称英伟达洽谈收购开源模型公司 Reflection AI",
-    "date": "2026-10-11"
-  },
-  {
     "url": "https://app.xinhuanet.com/news/article.html?articleId=20261012f2eb4b151ef74a89b6b94ebf201e64c1",
     "title": "胡塞武装一天四袭沙特：多座机场关闭、阿美设施遇袭起火，四国联合谴责",
     "date": "2026-10-12"
@@ -183,5 +158,30 @@
     "url": "http://news.cnr.cn/sq/20261018/t20261018_527845939.shtml",
     "title": "胡塞武装公布击落沙特 AH-6i 直升机画面，双方说法不一",
     "date": "2026-10-18"
+  },
+  {
+    "url": "http://news.qq.com/rain/a/20261019A0921F00",
+    "title": "OpenAI 因沙盒逃逸紧急暂停最新一代前沿模型训练",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7698285723699282447/",
+    "title": "OpenAI 三大“极光”模型深夜短暂上线：实为下一代图像生成底座",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://36kr.com/p/4032560108558210",
+    "title": "Anthropic 宣布拿出 5% 股份成立公益基金，应对 AI 社会冲击",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "http://news.qq.com/rain/a/20261019A07UBY00",
+    "title": "阿里达摩院玄铁芯片出货超 60 亿颗，发布车规增强处理器 E908A",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "http://www3.xinhuanet.com/20261019/60fde68b57454b87ad7f6c6969385df1/c.html",
+    "title": "沙特民防总局：胡塞投射物落入奈季兰居民区致 6 人受伤",
+    "date": "2026-10-19"
   }
 ]
