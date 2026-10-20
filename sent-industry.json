@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://app.xinhuanet.com/news/article.html?articleId=20261012f2eb4b151ef74a89b6b94ebf201e64c1",
-    "title": "胡塞武装一天四袭沙特：多座机场关闭、阿美设施遇袭起火，四国联合谴责",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7695691801199018522/",
-    "title": "Claude Opus 5.5 Max 首登 Arena 智能体榜即夺冠，Anthropic 多榜霸榜",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "http://www.chinaview.cn/20261012/e71f9ff522304b2b8b67208815618ab4/c.html",
-    "title": "【国际局势】特朗普宣布俄乌达成能源停火，泽连斯基称不知情",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7695684812505465387/",
-    "title": "月之暗面拟在 IPO 前和解股东纠纷，上市筹备持续推进",
-    "date": "2026-10-12"
-  },
-  {
-    "url": "https://cloud.tencent.com.cn/developer/article/2758414",
-    "title": "腾讯云开源 TeamAI：基于 Git 的团队 AI 协作工具，支持跨 Agent 共享技能",
-    "date": "2026-10-12"
-  },
-  {
     "url": "http://m.toutiao.com/group/7696045909133574719/",
     "title": "阿里千问 Go 即将发布，个人 Agent 赛道再添新玩家",
     "date": "2026-10-13"
@@ -183,5 +158,30 @@
     "url": "http://www3.xinhuanet.com/20261019/60fde68b57454b87ad7f6c6969385df1/c.html",
     "title": "沙特民防总局：胡塞投射物落入奈季兰居民区致 6 人受伤",
     "date": "2026-10-19"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7698670347603771923/",
+    "title": "OpenAI 拟融资 300 亿美元，目标估值超 1.4 万亿美元",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7698652119057826344/",
+    "title": "【国际局势】以色列总理下令“推翻伊朗政权”",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "http://tech.cnr.cn/techph/20261020/t20261020_527847729.shtml",
+    "title": "新石器完成 E 轮 4 亿美元融资：国内自动驾驶最大单笔，阿里参投",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7698663601757831714/",
+    "title": "MiniMax 发布新一代 Flash 模型 M3.1 Flash，预告 Pro 版本",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "http://www.xinhuanet.com/20261020/00cde3ac7f3e4e27b821c0fdf3d9fb88/c.html",
+    "title": "沙特冲突持续升级：胡塞 48 小时 6 袭沙特目标，今日利雅得再遭导弹被拦截",
+    "date": "2026-10-20"
   }
 ]
