@@ -1,20 +1,5 @@
 [
   {
-    "url": "http://m.toutiao.com/group/7696045909133574719/",
-    "title": "阿里千问 Go 即将发布，个人 Agent 赛道再添新玩家",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://open.larkoffice.com/changelog?bizScope=CoreHRBusiness&lang=zh-CN",
-    "title": "飞书 CLI 正式开源：覆盖 12 项业务能力，一行命令安装",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7696066460405285430/",
-    "title": "OpenAI 状态页：GPT-6.1 Sol Codex 及 Work 模式性能下降，正在排查",
-    "date": "2026-10-13"
-  },
-  {
     "url": "http://m.toutiao.com/group/7696345145876202003/",
     "title": "生成式 AI 首家破产独角兽：Character.AI 启动第 11 章程序，迪士尼 2000 万美元保底竞标",
     "date": "2026-10-14"
@@ -183,5 +168,25 @@
     "url": "http://www.xinhuanet.com/20261020/00cde3ac7f3e4e27b821c0fdf3d9fb88/c.html",
     "title": "沙特冲突持续升级：胡塞 48 小时 6 袭沙特目标，今日利雅得再遭导弹被拦截",
     "date": "2026-10-20"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7698903914648846875/",
+    "title": "DeepSeek 遭美国联邦机构全面禁用，商务部回应强烈反对",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.chinadaily.com.cn/a/202610/21/WS6ad81580e4b06d4aa0563e99.html",
+    "title": "沙特宣布推迟旗舰投资大会 FII 至 2027，冲突升级冲击经济议程",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7699029802438754852/",
+    "title": "【国际局势】FT 爆料：以色列原定 10 日大规模空袭伊朗，因特朗普反对搁置",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7699030554525123112/",
+    "title": "高通宣布全球绩效导向裁员，11 月起陆续发出通知",
+    "date": "2026-10-21"
   }
 ]
