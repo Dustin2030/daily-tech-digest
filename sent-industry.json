@@ -1,30 +1,5 @@
 [
   {
-    "url": "http://m.toutiao.com/group/7696345145876202003/",
-    "title": "生成式 AI 首家破产独角兽：Character.AI 启动第 11 章程序，迪士尼 2000 万美元保底竞标",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7696431700800307739/",
-    "title": "Anthropic 自研版本控制系统 Scion 并全量迁出 Git：单日合并量飙至 3 万次",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7696445262117519910/",
-    "title": "腾讯敲定约 380 亿元票据融资，继续为 AI 投入加杠杆",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "http://www.caixin.com/2026-10-13/102492839.html",
-    "title": "字节 Seed 单独设立大模型安全与对齐部门，称系国内首家",
-    "date": "2026-10-14"
-  },
-  {
-    "url": "https://m.36kr.com/newsflashes/4025418964127624",
-    "title": "OpenAI 洽谈收购安全公司 Trail of Bits，加码网络安全业务",
-    "date": "2026-10-14"
-  },
-  {
     "url": "http://m.toutiao.com/group/7696744708953866790/",
     "title": "⚠️ Claude Code 桌面版史诗级更新：自动嵌套会话并行跑任务，支持环境复用与 Git Worktree 隔离",
     "date": "2026-10-15"
@@ -188,5 +163,25 @@
     "url": "http://m.toutiao.com/group/7699030554525123112/",
     "title": "高通宣布全球绩效导向裁员，11 月起陆续发出通知",
     "date": "2026-10-21"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7699370368036864553/",
+    "title": "DeepSeek 完成约 1000 亿元新一轮融资，创中国 AI 行业最大融资纪录",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.eet-china.com/news/202610213085.html",
+    "title": "字节、阿里、腾讯向英伟达订购超 300 万张显卡，总价逾 350 亿美元",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://hub.baai.ac.cn/?tag_id=55",
+    "title": "DeepSeek 开源核心推理框架 DeepInfer",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7699401232242311707/",
+    "title": "Meta 公布三季报：广告收入增 26%，Muse 上线约 6 周超千万用户",
+    "date": "2026-10-22"
   }
 ]
