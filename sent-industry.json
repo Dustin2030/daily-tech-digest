@@ -1,30 +1,5 @@
 [
   {
-    "url": "http://m.toutiao.com/group/7697541223250264585/",
-    "title": "Anthropic 研究：Claude 设计的量子电路超越已发表最优方案",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "http://finance.sina.cn/2026-10-17/detail-inivpnhf7205943.d.html",
-    "title": "DeepSeek 官宣“许愿式编程”：V4.1 Flash 更新至 1017 版本，网页/APP/API 已同步",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7697479946536583699/",
-    "title": "Meta 更新商业账号条款引争议：用 Meta 做广告即默许抓取官网内容训练 AI",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://www.cls.cn/detail/2507462",
-    "title": "“风清”人工智能全球短中期集合天气预报系统 V1.0 投入运行",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "http://www.xinhuanet.com/20261017/643cbed9caf94bb7a188bfe1d13d2eea/c.html",
-    "title": "英国外交部发布公告：建议本国公民避免前往沙特大部分地区",
-    "date": "2026-10-17"
-  },
-  {
     "url": "http://news.qq.com/rain/a/20261018A086HU00",
     "title": "Anthropic 重构代码审查：AI 预审让回滚率降 40%，日提交破 3 万",
     "date": "2026-10-18"
@@ -183,5 +158,25 @@
     "url": "http://m.toutiao.com/group/7700133994746233380/",
     "title": "【国际局势】欧洲、中东八国外长会议表态：均不赞成对伊朗发动新打击",
     "date": "2026-10-24"
+  },
+  {
+    "url": "https://help.openai.com/zh-hans-cn/articles/11391654-chatgpt-business-release-notes",
+    "title": "⚠️ OpenAI 大幅更新 Codex：接入 Slack、开放 SDK 控制，费率卡与 Token 定价对齐",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "http://www.xinhuanet.com/world/20261025/7dc2c3e3e97d43fe85ac61bcd97e0de1/c.html",
+    "title": "利雅得机场停运两周后部分复航，胡塞警告仍是打击目标，联军当日拦截多枚导弹",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7700512067668689418/",
+    "title": "【国际局势】伊朗称击落美军无人机，美国从中东多国撤人增兵、特朗普放话或动武",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084113.htm",
+    "title": "国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》",
+    "date": "2026-10-25"
   }
 ]
