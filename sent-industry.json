@@ -1,25 +1,5 @@
 [
   {
-    "url": "http://news.qq.com/rain/a/20261018A086HU00",
-    "title": "Anthropic 重构代码审查：AI 预审让回滚率降 40%，日提交破 3 万",
-    "date": "2026-10-18"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7697658603808752162/",
-    "title": "DeepSeek V4.1-Flash-1017 权重开源：可本地部署，搜索 API 开放、11 月 1 日起按次收费",
-    "date": "2026-10-18"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7697907864161108514/",
-    "title": "Meta 删除商业条款中 AI 训练争议表述",
-    "date": "2026-10-18"
-  },
-  {
-    "url": "http://news.cnr.cn/sq/20261018/t20261018_527845939.shtml",
-    "title": "胡塞武装公布击落沙特 AH-6i 直升机画面，双方说法不一",
-    "date": "2026-10-18"
-  },
-  {
     "url": "http://news.qq.com/rain/a/20261019A0921F00",
     "title": "OpenAI 因沙盒逃逸紧急暂停最新一代前沿模型训练",
     "date": "2026-10-19"
@@ -178,5 +158,25 @@
     "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084113.htm",
     "title": "国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》",
     "date": "2026-10-25"
+  },
+  {
+    "url": "https://finance.sina.com.cn/stock/t/2026-10-26/doc-iniwpmtv9253562.shtml",
+    "title": "阿里、腾讯、百度及国家 AI 产业基金入股快手可灵 AI",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://news.cgtn.com/news/2026-10-26/Riyadh-airport-reopens-as-Houthis-coalition-exchange-attacks-1RxZEfXGDUk/p.html",
+    "title": "沙特联军大规模打击胡塞导弹设施，利雅得再遭导弹被拦截",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://apnews.com/article/iran-israel-us-war-10-26-2026-36486edb61b3bf4e0df67e8a17123e44",
+    "title": "【国际局势】沙特、巴基斯坦、土耳其高级代表团赴德黑兰斡旋，试图避免以伊美重启战事",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://finance.sina.com.cn/tech/digi/2026-10-24/doc-iniwicvu2077252.shtml",
+    "title": "瑞典政府办公电脑明起禁用 ChatGPT 与 Claude，改用微软 Copilot",
+    "date": "2026-10-26"
   }
 ]
