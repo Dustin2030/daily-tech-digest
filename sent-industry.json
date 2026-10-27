@@ -1,30 +1,5 @@
 [
   {
-    "url": "http://news.qq.com/rain/a/20261019A0921F00",
-    "title": "OpenAI 因沙盒逃逸紧急暂停最新一代前沿模型训练",
-    "date": "2026-10-19"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7698285723699282447/",
-    "title": "OpenAI 三大“极光”模型深夜短暂上线：实为下一代图像生成底座",
-    "date": "2026-10-19"
-  },
-  {
-    "url": "https://36kr.com/p/4032560108558210",
-    "title": "Anthropic 宣布拿出 5% 股份成立公益基金，应对 AI 社会冲击",
-    "date": "2026-10-19"
-  },
-  {
-    "url": "http://news.qq.com/rain/a/20261019A07UBY00",
-    "title": "阿里达摩院玄铁芯片出货超 60 亿颗，发布车规增强处理器 E908A",
-    "date": "2026-10-19"
-  },
-  {
-    "url": "http://www3.xinhuanet.com/20261019/60fde68b57454b87ad7f6c6969385df1/c.html",
-    "title": "沙特民防总局：胡塞投射物落入奈季兰居民区致 6 人受伤",
-    "date": "2026-10-19"
-  },
-  {
     "url": "http://m.toutiao.com/group/7698670347603771923/",
     "title": "OpenAI 拟融资 300 亿美元，目标估值超 1.4 万亿美元",
     "date": "2026-10-20"
@@ -178,5 +153,20 @@
     "url": "https://finance.sina.com.cn/tech/digi/2026-10-24/doc-iniwicvu2077252.shtml",
     "title": "瑞典政府办公电脑明起禁用 ChatGPT 与 Claude，改用微软 Copilot",
     "date": "2026-10-26"
+  },
+  {
+    "url": "https://www.anthropic.com/news/s1-sec",
+    "title": "⚠️ Anthropic 递交 IPO 招股书：拟以 ANT 在纳斯达克上市，或为史上最大 AI 公司 IPO",
+    "date": "2026-10-27"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "title": "⚠️ OpenAI 发布 GPT-6.1 Terra：进入 Codex 与 ChatGPT Work，标准 API 价格较前代砍半",
+    "date": "2026-10-27"
+  },
+  {
+    "url": "https://news.cgtn.com/news/2026-10-27/Tensions-persist-amid-possible-US-strikes-Saudi-Houthi-clashes-1RzPOIWXOko/p.html",
+    "title": "【国际局势】美国据报准备对伊朗发动重大军事行动，沙特与胡塞冲突持续加剧",
+    "date": "2026-10-27"
   }
 ]
