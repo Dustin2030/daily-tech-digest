@@ -1,30 +1,5 @@
 [
   {
-    "url": "http://m.toutiao.com/group/7698670347603771923/",
-    "title": "OpenAI 拟融资 300 亿美元，目标估值超 1.4 万亿美元",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7698652119057826344/",
-    "title": "【国际局势】以色列总理下令“推翻伊朗政权”",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "http://tech.cnr.cn/techph/20261020/t20261020_527847729.shtml",
-    "title": "新石器完成 E 轮 4 亿美元融资：国内自动驾驶最大单笔，阿里参投",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7698663601757831714/",
-    "title": "MiniMax 发布新一代 Flash 模型 M3.1 Flash，预告 Pro 版本",
-    "date": "2026-10-20"
-  },
-  {
-    "url": "http://www.xinhuanet.com/20261020/00cde3ac7f3e4e27b821c0fdf3d9fb88/c.html",
-    "title": "沙特冲突持续升级：胡塞 48 小时 6 袭沙特目标，今日利雅得再遭导弹被拦截",
-    "date": "2026-10-20"
-  },
-  {
     "url": "http://m.toutiao.com/group/7698903914648846875/",
     "title": "DeepSeek 遭美国联邦机构全面禁用，商务部回应强烈反对",
     "date": "2026-10-21"
@@ -168,5 +143,25 @@
     "url": "https://news.cgtn.com/news/2026-10-27/Tensions-persist-amid-possible-US-strikes-Saudi-Houthi-clashes-1RzPOIWXOko/p.html",
     "title": "【国际局势】美国据报准备对伊朗发动重大军事行动，沙特与胡塞冲突持续加剧",
     "date": "2026-10-27"
+  },
+  {
+    "url": "https://news.cctv.cn/2026/10/28/ARTIKp8iuF4ty1JOUYrPD2OK261028.shtml",
+    "title": "【国际局势】以色列议会选举无明确赢家：内塔尼亚胡阵营未获多数席位，组阁陷入僵局",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://m.sohu.com/a/1093912282_121157270/",
+    "title": "【沙特】胡塞武装导弹袭击 Ras Tanura 炼油厂，国际油价跳涨、风险溢价抬升",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "http://biz.finance.sina.com.cn/usstock/usstock_news.php?symbol=TCEHY",
+    "title": "【国内 IT】阿里、腾讯等中企寻求与 SK 海力士、三星签署长期内存供货协议",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://technode.com/2026/10/28/baidu-reportedly-developing-world-model-as-autonomous-driving-ambitions-expand/",
+    "title": "【国内 IT】百度将披露世界模型研发进展，或率先用于自动驾驶",
+    "date": "2026-10-28"
   }
 ]
