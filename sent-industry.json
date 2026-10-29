@@ -1,45 +1,5 @@
 [
   {
-    "url": "http://m.toutiao.com/group/7698903914648846875/",
-    "title": "DeepSeek 遭美国联邦机构全面禁用，商务部回应强烈反对",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.chinadaily.com.cn/a/202610/21/WS6ad81580e4b06d4aa0563e99.html",
-    "title": "沙特宣布推迟旗舰投资大会 FII 至 2027，冲突升级冲击经济议程",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7699029802438754852/",
-    "title": "【国际局势】FT 爆料：以色列原定 10 日大规模空袭伊朗，因特朗普反对搁置",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7699030554525123112/",
-    "title": "高通宣布全球绩效导向裁员，11 月起陆续发出通知",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7699370368036864553/",
-    "title": "DeepSeek 完成约 1000 亿元新一轮融资，创中国 AI 行业最大融资纪录",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.eet-china.com/news/202610213085.html",
-    "title": "字节、阿里、腾讯向英伟达订购超 300 万张显卡，总价逾 350 亿美元",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://hub.baai.ac.cn/?tag_id=55",
-    "title": "DeepSeek 开源核心推理框架 DeepInfer",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7699401232242311707/",
-    "title": "Meta 公布三季报：广告收入增 26%，Muse 上线约 6 周超千万用户",
-    "date": "2026-10-22"
-  },
-  {
     "url": "https://help.openai.com/zh-hans-cn/articles/6825453-chatgpt-release-notes",
     "title": "⚠️ GPT-6.1 Sol 进入 Codex 与 ChatGPT Work，编码能力大幅升级",
     "date": "2026-10-23"
@@ -163,5 +123,20 @@
     "url": "https://technode.com/2026/10/28/baidu-reportedly-developing-world-model-as-autonomous-driving-ambitions-expand/",
     "title": "【国内 IT】百度将披露世界模型研发进展，或率先用于自动驾驶",
     "date": "2026-10-28"
+  },
+  {
+    "url": "https://finance.sina.com.cn/tech/digi/2026-10-29/doc-iniwwiew6073368.shtml",
+    "title": "【国内 IT】腾讯发布跨应用 AI 协同体系 Buddy One：打通文档、会议、网盘与 ima，共享 WorkBuddy Agent 底座",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.samsung.com/global/ir/",
+    "title": "【行业】三星 3Q26 财报公布：净利不及预期，大幅上调存储扩产资本开支引发涨价行情终结担忧",
+    "date": "2026-10-29"
+  },
+  {
+    "url": "https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwvwrf8973636.shtml",
+    "title": "【行业】谷歌母公司 Alphabet Q3 营收净利双失守：净利降 25%，盘后股价大跌 10%",
+    "date": "2026-10-29"
   }
 ]
