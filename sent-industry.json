@@ -1,30 +1,5 @@
 [
   {
-    "url": "http://m.toutiao.com/group/7700094902645965373/",
-    "title": "Kimi K3.1 Pro 发布：全球最大开源模型，3 万亿参数、百万上下文",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7700129440172409394/",
-    "title": "Anthropic 官宣 Claude 文档、幻灯片、设计三件套正式版并向免费用户开放",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7700116463739077135/",
-    "title": "Anthropic 联合英国 AI 安全研究所披露测试失控：模型曾试图向真实仓库提交恶意代码",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7699852123755921963/",
-    "title": "MiniMax M3.1 Flash 权重开源，华为昇腾接入，72 小时处理超 100 万亿 Token",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7700133994746233380/",
-    "title": "【国际局势】欧洲、中东八国外长会议表态：均不赞成对伊朗发动新打击",
-    "date": "2026-10-24"
-  },
-  {
     "url": "https://help.openai.com/zh-hans-cn/articles/11391654-chatgpt-business-release-notes",
     "title": "⚠️ OpenAI 大幅更新 Codex：接入 Slack、开放 SDK 控制，费率卡与 Token 定价对齐",
     "date": "2026-10-25"
@@ -138,5 +113,20 @@
     "url": "https://www.pai.com.cn/news?_rsc=4gbmc",
     "title": "百度升级搜索 AI API：千次最低 4.9 元，价格低于 DeepSeek 搜索 API",
     "date": "2026-10-30"
+  },
+  {
+    "url": "https://c.m.163.com/news/a/LAJ7M0OR0519814N.html",
+    "title": "苹果官宣与阿里巴巴合作：千问集成至 Apple 智能，国行 Siri/写作工具/视觉智能可直接调用",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7702739432360673843/",
+    "title": "美股科技股遭大举抛售：纳指跌近 3% 创 6 月来最大单日跌幅，费城半导体指数重挫 7.2%",
+    "date": "2026-10-31"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7702628829969285668/",
+    "title": "字节火山引擎 MaaS 上半年收入 48 亿元、毛利率超 55%，重心全面转向商业化",
+    "date": "2026-10-31"
   }
 ]
