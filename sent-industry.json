@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://help.openai.com/zh-hans-cn/articles/11391654-chatgpt-business-release-notes",
-    "title": "⚠️ OpenAI 大幅更新 Codex：接入 Slack、开放 SDK 控制，费率卡与 Token 定价对齐",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "http://www.xinhuanet.com/world/20261025/7dc2c3e3e97d43fe85ac61bcd97e0de1/c.html",
-    "title": "利雅得机场停运两周后部分复航，胡塞警告仍是打击目标，联军当日拦截多枚导弹",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7700512067668689418/",
-    "title": "【国际局势】伊朗称击落美军无人机，美国从中东多国撤人增兵、特朗普放话或动武",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084113.htm",
-    "title": "国办印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》",
-    "date": "2026-10-25"
-  },
-  {
     "url": "https://finance.sina.com.cn/stock/t/2026-10-26/doc-iniwpmtv9253562.shtml",
     "title": "阿里、腾讯、百度及国家 AI 产业基金入股快手可灵 AI",
     "date": "2026-10-26"
@@ -128,5 +108,20 @@
     "url": "http://m.toutiao.com/group/7702628829969285668/",
     "title": "字节火山引擎 MaaS 上半年收入 48 亿元、毛利率超 55%，重心全面转向商业化",
     "date": "2026-10-31"
+  },
+  {
+    "url": "https://m.thepaper.cn/newsDetail_forward_34377724",
+    "title": "长鑫科技第六代 DRAM 完成工程样片验证：基于 4F² 架构，进入量产前夜，Q3 营收同比大增 613%",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7703109855346786856/",
+    "title": "Anthropic 确认 Claude Code 正阻止游戏逆向克隆：在 Opus 5.5 系统提示词中加入约束",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://timesof.ai/2026/10/google-jules-shutdown-december-31-antigravity",
+    "title": "Google 宣布关闭 AI 编码代理 Jules：12 月 31 日停运并并入 Antigravity，产品线合并为单一入口",
+    "date": "2026-11-01"
   }
 ]
