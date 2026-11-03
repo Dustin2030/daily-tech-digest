@@ -1,20 +1,5 @@
 [
   {
-    "url": "https://www.anthropic.com/news/s1-sec",
-    "title": "⚠️ Anthropic 递交 IPO 招股书：拟以 ANT 在纳斯达克上市，或为史上最大 AI 公司 IPO",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "title": "⚠️ OpenAI 发布 GPT-6.1 Terra：进入 Codex 与 ChatGPT Work，标准 API 价格较前代砍半",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://news.cgtn.com/news/2026-10-27/Tensions-persist-amid-possible-US-strikes-Saudi-Houthi-clashes-1RzPOIWXOko/p.html",
-    "title": "【国际局势】美国据报准备对伊朗发动重大军事行动，沙特与胡塞冲突持续加剧",
-    "date": "2026-10-27"
-  },
-  {
     "url": "https://news.cctv.cn/2026/10/28/ARTIKp8iuF4ty1JOUYrPD2OK261028.shtml",
     "title": "【国际局势】以色列议会选举无明确赢家：内塔尼亚胡阵营未获多数席位，组阁陷入僵局",
     "date": "2026-10-28"
@@ -118,5 +103,15 @@
     "url": "https://www.pai.com.cn/news?_rsc=1ddg5",
     "title": "小米汽车 10 月交付超 5 万台：单月交付创新高，股价盘中涨超 6%",
     "date": "2026-11-02"
+  },
+  {
+    "url": "https://news.sina.com.cn/w/2026-11-03/doc-inixmnpy9961367.shtml",
+    "title": "【国际局势】美国袭击伊朗格什姆岛：美伊从威慑走向实际军事摩擦",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "http://finance.sina.cn/2026-11-03/detail-inixncmw2188656.d.html",
+    "title": "沙特阿美 Q3 净利 362.52 亿美元、同比大增 34.6%：沙特经济基本面依旧强劲",
+    "date": "2026-11-03"
   }
 ]
