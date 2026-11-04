@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://news.cctv.cn/2026/10/28/ARTIKp8iuF4ty1JOUYrPD2OK261028.shtml",
-    "title": "【国际局势】以色列议会选举无明确赢家：内塔尼亚胡阵营未获多数席位，组阁陷入僵局",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://m.sohu.com/a/1093912282_121157270/",
-    "title": "【沙特】胡塞武装导弹袭击 Ras Tanura 炼油厂，国际油价跳涨、风险溢价抬升",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "http://biz.finance.sina.com.cn/usstock/usstock_news.php?symbol=TCEHY",
-    "title": "【国内 IT】阿里、腾讯等中企寻求与 SK 海力士、三星签署长期内存供货协议",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://technode.com/2026/10/28/baidu-reportedly-developing-world-model-as-autonomous-driving-ambitions-expand/",
-    "title": "【国内 IT】百度将披露世界模型研发进展，或率先用于自动驾驶",
-    "date": "2026-10-28"
-  },
-  {
     "url": "https://finance.sina.com.cn/tech/digi/2026-10-29/doc-iniwwiew6073368.shtml",
     "title": "【国内 IT】腾讯发布跨应用 AI 协同体系 Buddy One：打通文档、会议、网盘与 ima，共享 WorkBuddy Agent 底座",
     "date": "2026-10-29"
@@ -113,5 +93,20 @@
     "url": "http://finance.sina.cn/2026-11-03/detail-inixncmw2188656.d.html",
     "title": "沙特阿美 Q3 净利 362.52 亿美元、同比大增 34.6%：沙特经济基本面依旧强劲",
     "date": "2026-11-03"
+  },
+  {
+    "url": "http://tech.cnr.cn/techgd/20261104/t20261104_527862108.shtml",
+    "title": "【国内 IT】腾讯混元 Hy4 正式发布：首次跻身最强开源模型之列，首支持视觉理解与电脑操作，押注办公协同",
+    "date": "2026-11-04"
+  },
+  {
+    "url": "https://saudipress.com/saudi-aramco-acquires-forty-nine-percent-stake-in-artificial-intelligence-firm-humain-in-multi-billion-dollar-deal",
+    "title": "【沙特】沙特阿美 26 亿美元收购 HUMAIN 49% 股权：沙特加速国家级 AI 基建布局",
+    "date": "2026-11-04"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7704238545174528552/",
+    "title": "【国内 IT】《智能体发展自律公约》发布：信通院联合华为、阿里、腾讯、百度等 20 家单位共治智能体",
+    "date": "2026-11-04"
   }
 ]
