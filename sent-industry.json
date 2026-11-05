@@ -1,20 +1,5 @@
 [
   {
-    "url": "https://finance.sina.com.cn/tech/digi/2026-10-29/doc-iniwwiew6073368.shtml",
-    "title": "【国内 IT】腾讯发布跨应用 AI 协同体系 Buddy One：打通文档、会议、网盘与 ima，共享 WorkBuddy Agent 底座",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.samsung.com/global/ir/",
-    "title": "【行业】三星 3Q26 财报公布：净利不及预期，大幅上调存储扩产资本开支引发涨价行情终结担忧",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwvwrf8973636.shtml",
-    "title": "【行业】谷歌母公司 Alphabet Q3 营收净利双失守：净利降 25%，盘后股价大跌 10%",
-    "date": "2026-10-29"
-  },
-  {
     "url": "https://finance.sina.com.cn/stock/t/2026-10-30/doc-iniwywtu2229910.shtml",
     "title": "币安遭史上最大黑客攻击：损失约 63 亿美元，暂停充提、冻结 30 亿美元，比特币跌破 7.7 万美元",
     "date": "2026-10-30"
@@ -108,5 +93,25 @@
     "url": "http://m.toutiao.com/group/7704238545174528552/",
     "title": "【国内 IT】《智能体发展自律公约》发布：信通院联合华为、阿里、腾讯、百度等 20 家单位共治智能体",
     "date": "2026-11-04"
+  },
+  {
+    "url": "http://www.shturl.cc/9507446fb0f56a7f84b605ebc5626f26",
+    "title": "OpenAI 宣布收购 Pierre Computer：Code Storage/Trees/Diffs 并入 Codex，从 AI 编程助手走向软件开发平台，直指 GitHub 地盘",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7704470575468593707/",
+    "title": "月之暗面开放 Kimi K3.1 Pro 权重：2.8 万亿参数开源模型登顶 Agent Arena 开放榜",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "https://3w.huanqiu.com/a/c36dc8/4TtzYhJBkmu",
+    "title": "【沙特】胡塞武装向沙特开出 510 亿美元结束敌对条件：红海油轮遇袭与曼德海峡控制权成谈判筹码",
+    "date": "2026-11-05"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7704510888879620662/",
+    "title": "【国内 IT】字节 AI 应用扣子（Coze）将全面下线：团队已并入豆包，企业版 11 月底停止新购",
+    "date": "2026-11-05"
   }
 ]
