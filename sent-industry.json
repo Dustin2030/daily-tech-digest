@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://finance.sina.com.cn/stock/t/2026-10-30/doc-iniwywtu2229910.shtml",
-    "title": "币安遭史上最大黑客攻击：损失约 63 亿美元，暂停充提、冻结 30 亿美元，比特币跌破 7.7 万美元",
-    "date": "2026-10-30"
-  },
-  {
-    "url": "https://finance.sina.com.cn/wm/2026-10-30/doc-iniwynec4727132.shtml",
-    "title": "英特尔盘前暴跌 26%：Q4 指引远低于预期、以色列晶圆厂事故叠加 PC 需求疲软",
-    "date": "2026-10-30"
-  },
-  {
-    "url": "https://en.fnnews.com/news/202610301540505038",
-    "title": "韩国存储股集体暴跌：KOSPI 收跌 3.5%，SK 海力士跌超 7%、三星电子跌 3%",
-    "date": "2026-10-30"
-  },
-  {
-    "url": "https://finance.sina.com.cn/roll/2026-10-30/doc-iniwzazt8136287.shtml",
-    "title": "DeepSeek 千亿融资细节曝光：近 30 家机构参投，投后估值 6155 亿元人民币",
-    "date": "2026-10-30"
-  },
-  {
-    "url": "https://www.pai.com.cn/news?_rsc=4gbmc",
-    "title": "百度升级搜索 AI API：千次最低 4.9 元，价格低于 DeepSeek 搜索 API",
-    "date": "2026-10-30"
-  },
-  {
     "url": "https://c.m.163.com/news/a/LAJ7M0OR0519814N.html",
     "title": "苹果官宣与阿里巴巴合作：千问集成至 Apple 智能，国行 Siri/写作工具/视觉智能可直接调用",
     "date": "2026-10-31"
@@ -113,5 +88,20 @@
     "url": "http://m.toutiao.com/group/7704510888879620662/",
     "title": "【国内 IT】字节 AI 应用扣子（Coze）将全面下线：团队已并入豆包，企业版 11 月底停止新购",
     "date": "2026-11-05"
+  },
+  {
+    "url": "https://www.miit.gov.cn/jgsj/xgj/sbgl/art/2026/art_f4c2b6e9b6df4bab84fbb272f156fc49.html",
+    "title": "【国内 IT】工信部发文：预置智能体的手机、平板、可穿戴设备进网检测须做智能体适配验证与涉诈风险评估",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7704965760975749670/",
+    "title": "OpenAI 发布 GPT-6 Cyber 网络安全专用模型：已在火狐挖出 81 个高危漏洞，经 Codex 向安全客户开放",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://m.ithome.com/html/1023051.htm",
+    "title": "Anthropic 为 Claude 加入个人理财功能：通过 Plaid 只读接入银行与信用卡账户",
+    "date": "2026-11-06"
   }
 ]
