@@ -1,50 +1,5 @@
 [
   {
-    "url": "https://c.m.163.com/news/a/LAJ7M0OR0519814N.html",
-    "title": "苹果官宣与阿里巴巴合作：千问集成至 Apple 智能，国行 Siri/写作工具/视觉智能可直接调用",
-    "date": "2026-10-31"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7702739432360673843/",
-    "title": "美股科技股遭大举抛售：纳指跌近 3% 创 6 月来最大单日跌幅，费城半导体指数重挫 7.2%",
-    "date": "2026-10-31"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7702628829969285668/",
-    "title": "字节火山引擎 MaaS 上半年收入 48 亿元、毛利率超 55%，重心全面转向商业化",
-    "date": "2026-10-31"
-  },
-  {
-    "url": "https://m.thepaper.cn/newsDetail_forward_34377724",
-    "title": "长鑫科技第六代 DRAM 完成工程样片验证：基于 4F² 架构，进入量产前夜，Q3 营收同比大增 613%",
-    "date": "2026-11-01"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7703109855346786856/",
-    "title": "Anthropic 确认 Claude Code 正阻止游戏逆向克隆：在 Opus 5.5 系统提示词中加入约束",
-    "date": "2026-11-01"
-  },
-  {
-    "url": "https://timesof.ai/2026/10/google-jules-shutdown-december-31-antigravity",
-    "title": "Google 宣布关闭 AI 编码代理 Jules：12 月 31 日停运并并入 Antigravity，产品线合并为单一入口",
-    "date": "2026-11-01"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7703367563765400099/",
-    "title": "OpenAI 灰测 GPT-6.2 Astra、Anthropic 源码现 Claude 5.5 双旗舰：两大下一代模型同日曝光",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://www.meituan.com/news/NN261102280001343",
-    "title": "美团发布 LongCat-2.5 大模型：1.6 万亿参数、训练全程国产算力，强化智能体编程",
-    "date": "2026-11-02"
-  },
-  {
-    "url": "https://www.pai.com.cn/news?_rsc=1ddg5",
-    "title": "小米汽车 10 月交付超 5 万台：单月交付创新高，股价盘中涨超 6%",
-    "date": "2026-11-02"
-  },
-  {
     "url": "https://news.sina.com.cn/w/2026-11-03/doc-inixmnpy9961367.shtml",
     "title": "【国际局势】美国袭击伊朗格什姆岛：美伊从威慑走向实际军事摩擦",
     "date": "2026-11-03"
@@ -103,5 +58,25 @@
     "url": "https://m.ithome.com/html/1023051.htm",
     "title": "Anthropic 为 Claude 加入个人理财功能：通过 Plaid 只读接入银行与信用卡账户",
     "date": "2026-11-06"
+  },
+  {
+    "url": "https://finance.sina.com.cn/7x24/2026-11-09/doc-iniycwiw3279052.shtml",
+    "title": "谷歌发布第八代 TPU 两款新芯片：8tx 主打保密计算、8i Max 主打长上下文，正面挑战英伟达",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "http://www.xinhuanet.com/world/20261108/ce64268a1c5945579f82b40e8c3d44cb/c.html",
+    "title": "【沙特】胡塞武装袭击利雅得：沙特阿美办公楼受损，机场与石油设施同遭打击",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "http://news.iresearch.cn/content/202611/572881.shtml",
+    "title": "Mistral 开源 1 万亿参数 Mistral Large 4 权重：代码智能体能力追平 GLM-5.3，API 价格腰斩",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.cls.cn/detail/2528290",
+    "title": "中国移动与智谱签署战略合作：GLM 系列接入移动云 MaaS，打通算力到商业化全链条",
+    "date": "2026-11-09"
   }
 ]
