@@ -208,5 +208,20 @@
     "date": "2026-09-28",
     "title": "8. 一个设备多个 App 抢：跨进程共享服务的架构设计",
     "url": "https://juejin.cn/post/7689030185366536238"
+  },
+  {
+    "url": "https://proandroiddev.com/migrating-a-real-android-app-to-kotlin-multiplatform-3-4-sharing-the-ui-without-losing-safety-net-f74a6bf408ae",
+    "title": "KMP 迁移实录：共享 Compose UI，也要保住截图回归测试",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://proandroiddev.com/ai-by-lazy-r8-shrinking-and-obfuscation-handled-by-your-agent-e7cb3e124520",
+    "title": "把 R8 优化交给 Agent：规则可以委托，验证依据仍须审查",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://proandroiddev.com/ai-coding-for-android-reflections-and-building-self-verification-2ca1d2f598a7",
+    "title": "Android AI 编码实践：把自验证纳入完整开发流程",
+    "date": "2026-11-10"
   }
 ]
