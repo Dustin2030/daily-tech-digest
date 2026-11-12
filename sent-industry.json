@@ -1,15 +1,72 @@
 [
-  {"url":"http://www.shturl.cc/9507446fb0f56a7f84b605ebc5626f26","title":"OpenAI 宣布收购 Pierre Computer：Code Storage/Trees/Diffs 并入 Codex，从 AI 编程助手走向软件开发平台，直指 GitHub 地盘","date":"2026-11-05"},
-  {"url":"http://m.toutiao.com/group/7704470575468593707/","title":"月之暗面开放 Kimi K3.1 Pro 权重：2.8 万亿参数开源模型登顶 Agent Arena 开放榜","date":"2026-11-05"},
-  {"url":"https://3w.huanqiu.com/a/c36dc8/4TtzYhJBkmu","title":"【沙特】胡塞武装向沙特开出 510 亿美元结束敌对条件：红海油轮遇袭与曼德海峡控制权成谈判筹码","date":"2026-11-05"},
-  {"url":"http://m.toutiao.com/group/7704510888879620662/","title":"【国内 IT】字节 AI 应用扣子（Coze）将全面下线：团队已并入豆包，企业版 11 月底停止新购","date":"2026-11-05"},
-  {"url":"https://www.miit.gov.cn/jgsj/xgj/sbgl/art/2026/art_f4c2b6e9b6df4bab84fbb272f156fc49.html","title":"【国内 IT】工信部发文：预置智能体的手机、平板、可穿戴设备进网检测须做智能体适配验证与涉诈风险评估","date":"2026-11-06"},
-  {"url":"http://m.toutiao.com/group/7704965760975749670/","title":"OpenAI 发布 GPT-6 Cyber 网络安全专用模型：已在火狐挖出 81 个高危漏洞，经 Codex 向安全客户开放","date":"2026-11-06"},
-  {"url":"https://m.ithome.com/html/1023051.htm","title":"Anthropic 为 Claude 加入个人理财功能：通过 Plaid 只读接入银行与信用卡账户","date":"2026-11-06"},
-  {"url":"https://finance.sina.com.cn/7x24/2026-11-09/doc-iniycwiw3279052.shtml","title":"谷歌发布第八代 TPU 两款新芯片：8tx 主打保密计算、8i Max 主打长上下文，正面挑战英伟达","date":"2026-11-09"},
-  {"url":"http://www.xinhuanet.com/world/20261108/ce64268a1c5945579f82b40e8c3d44cb/c.html","title":"【沙特】胡塞武装袭击利雅得：沙特阿美办公楼受损，机场与石油设施同遭打击","date":"2026-11-09"},
-  {"url":"http://news.iresearch.cn/content/202611/572881.shtml","title":"Mistral 开源 1 万亿参数 Mistral Large 4 权重：代码智能体能力追平 GLM-5.3，API 价格腰斩","date":"2026-11-09"},
-  {"url":"https://www.cls.cn/detail/2528290","title":"中国移动与智谱签署战略合作：GLM 系列接入移动云 MaaS，打通算力到商业化全链条","date":"2026-11-09"},
-  {"url":"https://learn.chatgpt.com/docs/changelog?date=2026-10-15","title":"Codex CLI 0.167.1 发布","date":"2026-11-11"},
-  {"url":"https://www.marketscreener.com/news/saudi-led-coalition-says-it-shot-down-houthi-missiles-aimed-at-riyadh-ce785fd3d08eff25","title":"【沙特】拦截指向利雅得的弹道导弹与巡航导弹：针对城市与能源设施的安全风险升级","date":"2026-11-11"}
+  {
+    "url": "https://www.miit.gov.cn/jgsj/xgj/sbgl/art/2026/art_f4c2b6e9b6df4bab84fbb272f156fc49.html",
+    "title": "【国内 IT】工信部发文：预置智能体的手机、平板、可穿戴设备进网检测须做智能体适配验证与涉诈风险评估",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "http://m.toutiao.com/group/7704965760975749670/",
+    "title": "OpenAI 发布 GPT-6 Cyber 网络安全专用模型：已在火狐挖出 81 个高危漏洞，经 Codex 向安全客户开放",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://m.ithome.com/html/1023051.htm",
+    "title": "Anthropic 为 Claude 加入个人理财功能：通过 Plaid 只读接入银行与信用卡账户",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://finance.sina.com.cn/7x24/2026-11-09/doc-iniycwiw3279052.shtml",
+    "title": "谷歌发布第八代 TPU 两款新芯片：8tx 主打保密计算、8i Max 主打长上下文，正面挑战英伟达",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "http://www.xinhuanet.com/world/20261108/ce64268a1c5945579f82b40e8c3d44cb/c.html",
+    "title": "【沙特】胡塞武装袭击利雅得：沙特阿美办公楼受损，机场与石油设施同遭打击",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "http://news.iresearch.cn/content/202611/572881.shtml",
+    "title": "Mistral 开源 1 万亿参数 Mistral Large 4 权重：代码智能体能力追平 GLM-5.3，API 价格腰斩",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.cls.cn/detail/2528290",
+    "title": "中国移动与智谱签署战略合作：GLM 系列接入移动云 MaaS，打通算力到商业化全链条",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://learn.chatgpt.com/docs/changelog?date=2026-10-15",
+    "title": "Codex CLI 0.167.1 发布",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://www.marketscreener.com/news/saudi-led-coalition-says-it-shot-down-houthi-missiles-aimed-at-riyadh-ce785fd3d08eff25",
+    "title": "【沙特】拦截指向利雅得的弹道导弹与巡航导弹：针对城市与能源设施的安全风险升级",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://m.thepaper.cn/expressNews?contId=34366135",
+    "title": "百度发布文心应用模型与“词元所”",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+    "title": "AWS 推出开源本地 AWS Emulator",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://developers.cloudflare.com/changelog/product-group/application-security/",
+    "title": "Cloudflare Tunnel 扩展 URL 规范化以加强路径访问控制",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning/",
+    "title": "GitHub Secret Scanning 审计日志字段今日变更",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://malaysia.news.yahoo.com/saudi-arabia-intercepts-houthi-missiles-195031157.html",
+    "title": "【沙特】沙特拦截更多胡塞导弹与无人机，冲突外溢风险上升",
+    "date": "2026-11-12"
+  }
 ]
