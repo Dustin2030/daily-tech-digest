@@ -1,20 +1,5 @@
 [
   {
-    "url": "https://www.miit.gov.cn/jgsj/xgj/sbgl/art/2026/art_f4c2b6e9b6df4bab84fbb272f156fc49.html",
-    "title": "【国内 IT】工信部发文：预置智能体的手机、平板、可穿戴设备进网检测须做智能体适配验证与涉诈风险评估",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "http://m.toutiao.com/group/7704965760975749670/",
-    "title": "OpenAI 发布 GPT-6 Cyber 网络安全专用模型：已在火狐挖出 81 个高危漏洞，经 Codex 向安全客户开放",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://m.ithome.com/html/1023051.htm",
-    "title": "Anthropic 为 Claude 加入个人理财功能：通过 Plaid 只读接入银行与信用卡账户",
-    "date": "2026-11-06"
-  },
-  {
     "url": "https://finance.sina.com.cn/7x24/2026-11-09/doc-iniycwiw3279052.shtml",
     "title": "谷歌发布第八代 TPU 两款新芯片：8tx 主打保密计算、8i Max 主打长上下文，正面挑战英伟达",
     "date": "2026-11-09"
@@ -68,5 +53,30 @@
     "url": "https://malaysia.news.yahoo.com/saudi-arabia-intercepts-houthi-missiles-195031157.html",
     "title": "【沙特】沙特拦截更多胡塞导弹与无人机，冲突外溢风险上升",
     "date": "2026-11-12"
+  },
+  {
+    "url": "https://www.eeo.com.cn/2026/1112/1091302.shtml",
+    "title": "【国内 IT】字节跳动明确 AI 追赶路线：瞄准 2029—2030 年跻身全球前沿",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://ir.jd.com/static-files/c6b24887-7549-4485-a47b-6972a36b0f9c",
+    "title": "【国内 IT】京东完成对欧洲 CECONOMY 的 13.35 亿欧元收购",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://learn.chatgpt.com/docs/changelog",
+    "title": "Codex CLI 0.168.0 发布：模型提供商选择与 TUI 工作区上线",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
+    "title": "Claude Code 2.1.323 推出实验性 Code Mode 与插件兼容性声明",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://www.cyprus-mail.com/2026/11/12/yemens-houthis-say-they-attacked-pumping-station-on-saudi-arabias-east-west-oil-pipeline",
+    "title": "【沙特】胡塞称袭击东西向输油管线泵站与延布设施，沙方称拦截无人机",
+    "date": "2026-11-13"
   }
 ]
