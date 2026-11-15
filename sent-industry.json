@@ -98,5 +98,30 @@
     "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api/",
     "title": "GitHub 为代码扫描 AI Scan 增加组织级与仓库级 REST 管理",
     "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.investing.com/news/commodities-news/saudiled-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province-5027639",
+    "title": "【沙特】联军称拦截指向利雅得的两枚弹道导弹及东部省三架无人机",
+    "date": "2026-11-15"
+  },
+  {
+    "url": "https://mailservices.isc.upenn.edu/computing/email/penno365/alerts/ms-incidents.html",
+    "title": "Microsoft 365 全球故障恢复：此前影响 Outlook、Teams 与 SharePoint",
+    "date": "2026-11-15"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases",
+    "title": "Claude Code 2.1.325 更新安全、权限与 MCP 集成稳定性",
+    "date": "2026-11-15"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview",
+    "title": "Microsoft Teams 预览 Socket Mode，开发 Agent 可免公网 HTTPS 入口",
+    "date": "2026-11-15"
+  },
+  {
+    "url": "https://docs.databricks.com/aws/en/release-notes/whats-coming",
+    "title": "Databricks 合规工作区默认开放 Genie Agent 文件上传",
+    "date": "2026-11-15"
   }
 ]
