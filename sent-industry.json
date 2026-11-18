@@ -1,15 +1,5 @@
 [
   {
-    "url": "https://learn.chatgpt.com/docs/changelog?date=2026-10-15",
-    "title": "Codex CLI 0.167.1 发布",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://www.marketscreener.com/news/saudi-led-coalition-says-it-shot-down-houthi-missiles-aimed-at-riyadh-ce785fd3d08eff25",
-    "title": "【沙特】拦截指向利雅得的弹道导弹与巡航导弹：针对城市与能源设施的安全风险升级",
-    "date": "2026-11-11"
-  },
-  {
     "url": "https://m.thepaper.cn/expressNews?contId=34366135",
     "title": "百度发布文心应用模型与“词元所”",
     "date": "2026-11-12"
@@ -153,5 +143,40 @@
     "url": "https://www.devopsdigest.com/industry-news?destination=industry-news%3Fpage%253D90%2523main-content%3D%26page%3D8&page=0",
     "title": "Semgrep 发布面向 AI Agent 的应用安全平台",
     "date": "2026-11-17"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol，覆盖 Codex 和 API",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.327",
+    "title": "Claude Code 2.1.327 增加 MCP 标准输入与配置诊断",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://about.fb.com/news/2026/11/introducing-direct-an-app-just-for-messaging/",
+    "title": "Meta 开测独立即时通讯应用 Direct",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://particle.news/topic/messaging-applications/i6hAvyYHzUZ8t4f",
+    "title": "WhatsApp Beta 推出端到端加密云备份",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://ir.jd.com/node/12441/pdf",
+    "title": "【国内 IT】京东公布三季度业绩，继续押注物理 AI 与供应链",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+    "title": "Microsoft Agent Framework 的 PyPI 包遭投毒，凭据风险波及 CI 与云环境",
+    "date": "2026-11-18"
+  },
+  {
+    "url": "https://apnews.com/article/mideast-news-iran-bahrain-us-november-18-2026-b71b1d25f3cff987b4b",
+    "title": "【沙特】沙特领导的联军对胡塞武装发动大规模空袭并拦截导弹",
+    "date": "2026-11-18"
   }
 ]
