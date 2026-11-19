@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://m.thepaper.cn/expressNews?contId=34366135",
-    "title": "百度发布文心应用模型与“词元所”",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
-    "title": "AWS 推出开源本地 AWS Emulator",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://developers.cloudflare.com/changelog/product-group/application-security/",
-    "title": "Cloudflare Tunnel 扩展 URL 规范化以加强路径访问控制",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning/",
-    "title": "GitHub Secret Scanning 审计日志字段今日变更",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://malaysia.news.yahoo.com/saudi-arabia-intercepts-houthi-missiles-195031157.html",
-    "title": "【沙特】沙特拦截更多胡塞导弹与无人机，冲突外溢风险上升",
-    "date": "2026-11-12"
-  },
-  {
     "url": "https://www.eeo.com.cn/2026/1112/1091302.shtml",
     "title": "【国内 IT】字节跳动明确 AI 追赶路线：瞄准 2029—2030 年跻身全球前沿",
     "date": "2026-11-13"
@@ -178,5 +153,25 @@
     "url": "https://apnews.com/article/mideast-news-iran-bahrain-us-november-18-2026-b71b1d25f3cff987b4b",
     "title": "【沙特】沙特领导的联军对胡塞武装发动大规模空袭并拦截导弹",
     "date": "2026-11-18"
+  },
+  {
+    "url": "https://www.anthropic.com/news/announcements",
+    "title": "Anthropic 为 IPO 定价，成为首家大型前沿模型开发商上市案例",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.tencent.com/wp-content/uploads/2026/11/%E8%85%BE%E8%AE%AF%E5%85%AC%E5%B8%83%E4%BA%8C%E9%9B%B6%E4%BA%8C%E5%85%AD%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%9A%E7%BB%A9.pdf",
+    "title": "【国内 IT】腾讯三季报披露 AI 应用与云服务投入方向",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.cert.europa.eu/publications/security-advisories/2026-022/pdf",
+    "title": "NGINX 披露 5 个高危漏洞，HTTP/2 场景可致未认证代码执行",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.milbank.com/a/web/s3az6BJ7TYoxRunxpYE51X/grns-client-alert_bis-issues-new-rule-restricting-remote-access-to-advanced-chips-nov-2026.pdf",
+    "title": "【国际科技监管】美国远程算力出口管制今日生效",
+    "date": "2026-11-19"
   }
 ]
