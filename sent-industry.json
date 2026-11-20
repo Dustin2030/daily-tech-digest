@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://www.eeo.com.cn/2026/1112/1091302.shtml",
-    "title": "【国内 IT】字节跳动明确 AI 追赶路线：瞄准 2029—2030 年跻身全球前沿",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://ir.jd.com/static-files/c6b24887-7549-4485-a47b-6972a36b0f9c",
-    "title": "【国内 IT】京东完成对欧洲 CECONOMY 的 13.35 亿欧元收购",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://learn.chatgpt.com/docs/changelog",
-    "title": "Codex CLI 0.168.0 发布：模型提供商选择与 TUI 工作区上线",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
-    "title": "Claude Code 2.1.323 推出实验性 Code Mode 与插件兼容性声明",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.cyprus-mail.com/2026/11/12/yemens-houthis-say-they-attacked-pumping-station-on-saudi-arabias-east-west-oil-pipeline",
-    "title": "【沙特】胡塞称袭击东西向输油管线泵站与延布设施，沙方称拦截无人机",
-    "date": "2026-11-13"
-  },
-  {
     "url": "https://uk.marketscreener.com/news/tiktok-owner-bytedance-plans-buyback-at-400-billion-valuation-the-information-reports-ce785ed9d88ef126",
     "title": "【国内 IT】字节跳动拟以 4000 亿美元估值回购至多 60 亿美元股份",
     "date": "2026-11-14"
@@ -173,5 +148,30 @@
     "url": "https://www.milbank.com/a/web/s3az6BJ7TYoxRunxpYE51X/grns-client-alert_bis-issues-new-rule-restricting-remote-access-to-advanced-chips-nov-2026.pdf",
     "title": "【国际科技监管】美国远程算力出口管制今日生效",
     "date": "2026-11-19"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
+    "title": "Claude Code 2.1.329 强化 Hook 信任提示与 MCP 诊断",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://alihome.alibaba-inc.com/zh-HK/document-2060147792046718976",
+    "title": "【国内 IT】阿里公布季度业绩，强调全栈 AI 商业化",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://thehackernews.com/search/label/Cloud%20security",
+    "title": "VMware vCenter 零日漏洞已被利用，需尽快修补",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://apnews.com/article/79705095e8141cd650196dbff1cf3c70",
+    "title": "欧盟确认遭 AI 辅助网络攻击，部分数字工具仍离线",
+    "date": "2026-11-20"
+  },
+  {
+    "url": "https://newsday.atexcloud.io/news/nation/saudi-yemen-war-iran-november-19-2026-f04419",
+    "title": "【沙特】利雅得金融区遭导弹袭击，核心商务地标受损",
+    "date": "2026-11-20"
   }
 ]
