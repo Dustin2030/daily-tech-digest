@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://uk.marketscreener.com/news/tiktok-owner-bytedance-plans-buyback-at-400-billion-valuation-the-information-reports-ce785ed9d88ef126",
-    "title": "【国内 IT】字节跳动拟以 4000 亿美元估值回购至多 60 亿美元股份",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://news.techdou.com/",
-    "title": "DeepSeek 开放搜索、OCR、ASR、TTS 等应用能力 API",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://blog.cloudflare.com/kitesurf-open-source/",
-    "title": "Cloudflare 将 AI Agent 浏览器 Kitesurf 以 Apache 2.0 开源",
-    "date": "2026-11-14"
-  },
-  {
-    "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api/",
-    "title": "GitHub 为代码扫描 AI Scan 增加组织级与仓库级 REST 管理",
-    "date": "2026-11-14"
-  },
-  {
     "url": "https://www.investing.com/news/commodities-news/saudiled-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province-5027639",
     "title": "【沙特】联军称拦截指向利雅得的两枚弹道导弹及东部省三架无人机",
     "date": "2026-11-15"
@@ -173,5 +153,30 @@
     "url": "https://newsday.atexcloud.io/news/nation/saudi-yemen-war-iran-november-19-2026-f04419",
     "title": "【沙特】利雅得金融区遭导弹袭击，核心商务地标受损",
     "date": "2026-11-20"
+  },
+  {
+    "url": "https://www.investing.com/news/stock-market-news/exclusivesignal-restricts-screenshots-to-block-ai-agents-from-reading-messages-5040998",
+    "title": "Signal 限制截图，阻止 AI Agent 读取私密聊天",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://news.ondevice-tools.com/category/internet/messaging/",
+    "title": "WhatsApp 将群聊人数上限提高至 1,500 人",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://wsic.dev/wsic-2026-11-21/",
+    "title": "Nextcloud Server 35.0.3 发布",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://wsic.dev/wsic-2026-11-21/#openbao",
+    "title": "OpenBao 2.7.3 发布安全更新",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://wsic.dev/wsic-2026-11-21/#n-able",
+    "title": "N-able 云服务遭入侵并关闭管理控制台",
+    "date": "2026-11-21"
   }
 ]
