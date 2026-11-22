@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://www.investing.com/news/commodities-news/saudiled-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province-5027639",
-    "title": "【沙特】联军称拦截指向利雅得的两枚弹道导弹及东部省三架无人机",
-    "date": "2026-11-15"
-  },
-  {
-    "url": "https://mailservices.isc.upenn.edu/computing/email/penno365/alerts/ms-incidents.html",
-    "title": "Microsoft 365 全球故障恢复：此前影响 Outlook、Teams 与 SharePoint",
-    "date": "2026-11-15"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/releases",
-    "title": "Claude Code 2.1.325 更新安全、权限与 MCP 集成稳定性",
-    "date": "2026-11-15"
-  },
-  {
-    "url": "https://learn.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview",
-    "title": "Microsoft Teams 预览 Socket Mode，开发 Agent 可免公网 HTTPS 入口",
-    "date": "2026-11-15"
-  },
-  {
-    "url": "https://docs.databricks.com/aws/en/release-notes/whats-coming",
-    "title": "Databricks 合规工作区默认开放 Genie Agent 文件上传",
-    "date": "2026-11-15"
-  },
-  {
     "url": "https://finance.sina.com.cn/tob/2026-11-16/doc-iniywwze5720457.shtml",
     "title": "【国内 IT】腾讯总办明确要求核心业务面向 AI 时代“再创业”",
     "date": "2026-11-16"
@@ -178,5 +153,30 @@
     "url": "https://wsic.dev/wsic-2026-11-21/#n-able",
     "title": "N-able 云服务遭入侵并关闭管理控制台",
     "date": "2026-11-21"
+  },
+  {
+    "url": "https://apnews.com/article/16c39c487a23b53b73c5eabb7f0fd57a",
+    "title": "【沙特】联军称拦截射向利雅得及西部地区的导弹与无人机",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://talkingfingers.net/topics/models-compute/",
+    "title": "Thinking Machines 与 Hugging Face 发布 Inkling 2 Mini 开放权重模型",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://patchapalooza.com/cve/CVE-2026-99355",
+    "title": "微软发布 Azure Linux 3.0 带外内核安全更新",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "title": "消息应用正在成为可远程调用 AI Agent 的新入口",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://openai.com/index/combatting-adversarial-distillation/",
+    "title": "⚠️ OpenAI 披露对抗蒸馏防护升级",
+    "date": "2026-11-22"
   }
 ]
