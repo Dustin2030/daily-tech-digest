@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://qwen.ai/",
-    "title": "阿里发布 Qwen4-Max 旗舰模型",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://www.arabnews.com/",
-    "title": "【沙特】王室令任命联合部队新指挥官",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://www.cnbeta.com.tw/topics/403.htm",
-    "title": "WhatsApp 测试“受限聊天”功能",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://csrc.nist.gov/news?ipp-sm=100&page=1&topicsMatch-sm=ANY",
-    "title": "NIST 发布工业控制系统安全指南修订草案",
-    "date": "2026-11-17"
-  },
-  {
-    "url": "https://www.devopsdigest.com/industry-news?destination=industry-news%3Fpage%253D90%2523main-content%3D%26page%3D8&page=0",
-    "title": "Semgrep 发布面向 AI Agent 的应用安全平台",
-    "date": "2026-11-17"
-  },
-  {
     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
     "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol，覆盖 Codex 和 API",
     "date": "2026-11-18"
@@ -178,5 +153,30 @@
     "url": "https://spa.gov.sa/N2733912",
     "title": "【沙特】沙特外交部谴责喀土穆无人机袭击联合国设施",
     "date": "2026-11-23"
+  },
+  {
+    "url": "https://openai.com/index/introducing-shirudo/",
+    "title": "⚠️ OpenAI 与 Cisco 开源 Shirudo，为 Linux 提供“补丁前防护”",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization",
+    "title": "Amazon 收购 Decart 的 AI 优化技术，加码自研芯片推理效率",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://finance.eastmoney.com/a/202611243937855414.html",
+    "title": "⚠️ 智谱上线 GLM-5.4，采用 Loop 架构并计划开放 API 与权重",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://wabetainfo.com/whatsapp-introduces-view-once-text-messages-on-ios/",
+    "title": "WhatsApp 开始在 iOS 推出“阅后即焚”文本消息",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.arabnews.com/business/saudi-arabia-mandates-50-localization-in-17-financial-professions-3013685",
+    "title": "【沙特】17 类金融岗位将实施至少 50% 本地化比例",
+    "date": "2026-11-24"
   }
 ]
