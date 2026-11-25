@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-    "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol，覆盖 Codex 和 API",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.327",
-    "title": "Claude Code 2.1.327 增加 MCP 标准输入与配置诊断",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://about.fb.com/news/2026/11/introducing-direct-an-app-just-for-messaging/",
-    "title": "Meta 开测独立即时通讯应用 Direct",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://particle.news/topic/messaging-applications/i6hAvyYHzUZ8t4f",
-    "title": "WhatsApp Beta 推出端到端加密云备份",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://ir.jd.com/node/12441/pdf",
-    "title": "【国内 IT】京东公布三季度业绩，继续押注物理 AI 与供应链",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-    "title": "Microsoft Agent Framework 的 PyPI 包遭投毒，凭据风险波及 CI 与云环境",
-    "date": "2026-11-18"
-  },
-  {
-    "url": "https://apnews.com/article/mideast-news-iran-bahrain-us-november-18-2026-b71b1d25f3cff987b4b",
-    "title": "【沙特】沙特领导的联军对胡塞武装发动大规模空袭并拦截导弹",
-    "date": "2026-11-18"
-  },
-  {
     "url": "https://www.anthropic.com/news/announcements",
     "title": "Anthropic 为 IPO 定价，成为首家大型前沿模型开发商上市案例",
     "date": "2026-11-19"
@@ -178,5 +143,30 @@
     "url": "https://www.arabnews.com/business/saudi-arabia-mandates-50-localization-in-17-financial-professions-3013685",
     "title": "【沙特】17 类金融岗位将实施至少 50% 本地化比例",
     "date": "2026-11-24"
+  },
+  {
+    "url": "https://github.com/openai/openai-agents-python/releases",
+    "title": "⚠️ OpenAI Agents Python 0.26.0 收紧 Codex 工具与沙箱安全边界",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://ir.minimax.io/zh/news-events/new-releases",
+    "title": "MiniMax 发布 H3 Family 进展：生态累计 1,472 个模型、1.48 亿次下载",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1124/2026112400538.pdf",
+    "title": "【国内 IT】小米发布 2026 年 Q3 业绩，AIoT 连接设备达 12.04 亿",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://maple.ai/blog/maple-ai-seed-round",
+    "title": "Maple 完成 530 万美元种子轮，主打“平台也不可见”的隐私 AI",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://www.mof.gov.sa/en/w/saudi-ministry-of-finance-announces-final-budget-statement-for-fy2027-with-expenditures-estimated-at-sar-1-392-billion-and-revenues-at-sar-1-202-billion",
+    "title": "【沙特】公布 2027 财年预算，继续以 Vision 2030 推动非油增长",
+    "date": "2026-11-25"
   }
 ]
