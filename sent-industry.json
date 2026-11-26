@@ -1,25 +1,5 @@
 [
   {
-    "url": "https://www.anthropic.com/news/announcements",
-    "title": "Anthropic 为 IPO 定价，成为首家大型前沿模型开发商上市案例",
-    "date": "2026-11-19"
-  },
-  {
-    "url": "https://www.tencent.com/wp-content/uploads/2026/11/%E8%85%BE%E8%AE%AF%E5%85%AC%E5%B8%83%E4%BA%8C%E9%9B%B6%E4%BA%8C%E5%85%AD%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%9A%E7%BB%A9.pdf",
-    "title": "【国内 IT】腾讯三季报披露 AI 应用与云服务投入方向",
-    "date": "2026-11-19"
-  },
-  {
-    "url": "https://www.cert.europa.eu/publications/security-advisories/2026-022/pdf",
-    "title": "NGINX 披露 5 个高危漏洞，HTTP/2 场景可致未认证代码执行",
-    "date": "2026-11-19"
-  },
-  {
-    "url": "https://www.milbank.com/a/web/s3az6BJ7TYoxRunxpYE51X/grns-client-alert_bis-issues-new-rule-restricting-remote-access-to-advanced-chips-nov-2026.pdf",
-    "title": "【国际科技监管】美国远程算力出口管制今日生效",
-    "date": "2026-11-19"
-  },
-  {
     "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
     "title": "Claude Code 2.1.329 强化 Hook 信任提示与 MCP 诊断",
     "date": "2026-11-20"
@@ -168,5 +148,30 @@
     "url": "https://www.mof.gov.sa/en/w/saudi-ministry-of-finance-announces-final-budget-statement-for-fy2027-with-expenditures-estimated-at-sar-1-392-billion-and-revenues-at-sar-1-202-billion",
     "title": "【沙特】公布 2027 财年预算，继续以 Vision 2030 推动非油增长",
     "date": "2026-11-25"
+  },
+  {
+    "url": "https://docs.qwencloud.com/changelog/models",
+    "title": "⚠️ Qwen4-Max-Preview 退役并自动迁移至正式版",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://www.dingtalk-global.com/news/activity/qwen-office-launches-glm-5-4-261125-u86e",
+    "title": "钉钉 Qwen Office 集成 GLM-5.4",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://blog.whatsapp.com/say-it-at-the-right-time-with-scheduled-messages",
+    "title": "WhatsApp 全球推出定时消息",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://technode.com/2026/11/25/huawei-connects-chinese-chip-design-tools-in-real-world-project/",
+    "title": "华为与行芯完成国产 EDA 工具链实战串联",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://www.ft.com/content/325b93d6-bc2e-4dd3-9941-cf4688aca11d",
+    "title": "沙特拟推迟未来矿产论坛",
+    "date": "2026-11-26"
   }
 ]
