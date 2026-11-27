@@ -1,30 +1,5 @@
 [
   {
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
-    "title": "Claude Code 2.1.329 强化 Hook 信任提示与 MCP 诊断",
-    "date": "2026-11-20"
-  },
-  {
-    "url": "https://alihome.alibaba-inc.com/zh-HK/document-2060147792046718976",
-    "title": "【国内 IT】阿里公布季度业绩，强调全栈 AI 商业化",
-    "date": "2026-11-20"
-  },
-  {
-    "url": "https://thehackernews.com/search/label/Cloud%20security",
-    "title": "VMware vCenter 零日漏洞已被利用，需尽快修补",
-    "date": "2026-11-20"
-  },
-  {
-    "url": "https://apnews.com/article/79705095e8141cd650196dbff1cf3c70",
-    "title": "欧盟确认遭 AI 辅助网络攻击，部分数字工具仍离线",
-    "date": "2026-11-20"
-  },
-  {
-    "url": "https://newsday.atexcloud.io/news/nation/saudi-yemen-war-iran-november-19-2026-f04419",
-    "title": "【沙特】利雅得金融区遭导弹袭击，核心商务地标受损",
-    "date": "2026-11-20"
-  },
-  {
     "url": "https://www.investing.com/news/stock-market-news/exclusivesignal-restricts-screenshots-to-block-ai-agents-from-reading-messages-5040998",
     "title": "Signal 限制截图，阻止 AI Agent 读取私密聊天",
     "date": "2026-11-21"
@@ -173,5 +148,30 @@
     "url": "https://www.ft.com/content/325b93d6-bc2e-4dd3-9941-cf4688aca11d",
     "title": "沙特拟推迟未来矿产论坛",
     "date": "2026-11-26"
+  },
+  {
+    "url": "https://community.openai.com/t/codex-used-less-of-your-allowance-than-intended/1420514",
+    "title": "⚠ OpenAI 修正 Codex GPT-6.2 使用额度记账",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://status.openai.com/history",
+    "title": "⚠ Codex GitHub Review 与 PR Merge 曾出现异常，现已恢复",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/",
+    "title": "AI 攻击框架 ARTEX 已被多个攻击团伙用于入侵活动",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://www.cloudflarestatus.com/",
+    "title": "Cloudflare Dashboard 与 API 出现短时服务异常",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://apnews.com/article/6c17e4827e5aef3e69f78cdb01d597dc",
+    "title": "【沙特】沙特、土耳其和巴基斯坦将举行三边防务会谈",
+    "date": "2026-11-27"
   }
 ]
