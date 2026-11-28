@@ -1,0 +1,177 @@
+[
+  {
+    "url": "https://apnews.com/article/16c39c487a23b53b73c5eabb7f0fd57a",
+    "title": "【沙特】联军称拦截射向利雅得及西部地区的导弹与无人机",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://talkingfingers.net/topics/models-compute/",
+    "title": "Thinking Machines 与 Hugging Face 发布 Inkling 2 Mini 开放权重模型",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://patchapalooza.com/cve/CVE-2026-99355",
+    "title": "微软发布 Azure Linux 3.0 带外内核安全更新",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "title": "消息应用正在成为可远程调用 AI Agent 的新入口",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://openai.com/index/combatting-adversarial-distillation/",
+    "title": "⚠️ OpenAI 披露对抗蒸馏防护升级",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/",
+    "title": "⚠️ Claude Code “不再询问”授权可能将密钥写入本地设置文件",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://www.todayforai.com/en/items/art-f7f5ef4f-8ca",
+    "title": "⚠️ 模拟真实协作场景下，AI 编程 Agent 完整完成率不足一成",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://ca.marketscreener.com/news/europe-s-cloud-sovereignty-push-gains-ground-but-us-hyperscalers-remain-dominant-ce785ed3d08bf622",
+    "title": "欧洲云采购将主权、密钥控制与退出能力列入核心评估",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://statusstack.com/service/cloudflare/incidents/01a2050f-7326-7ddc-a61b-f9266feea924",
+    "title": "Cloudflare 曾出现单文件缓存清除延迟，现已恢复",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://spa.gov.sa/N2733912",
+    "title": "【沙特】沙特外交部谴责喀土穆无人机袭击联合国设施",
+    "date": "2026-11-23"
+  },
+  {
+    "url": "https://openai.com/index/introducing-shirudo/",
+    "title": "⚠️ OpenAI 与 Cisco 开源 Shirudo，为 Linux 提供“补丁前防护”",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization",
+    "title": "Amazon 收购 Decart 的 AI 优化技术，加码自研芯片推理效率",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://finance.eastmoney.com/a/202611243937855414.html",
+    "title": "⚠️ 智谱上线 GLM-5.4，采用 Loop 架构并计划开放 API 与权重",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://wabetainfo.com/whatsapp-introduces-view-once-text-messages-on-ios/",
+    "title": "WhatsApp 开始在 iOS 推出“阅后即焚”文本消息",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://www.arabnews.com/business/saudi-arabia-mandates-50-localization-in-17-financial-professions-3013685",
+    "title": "【沙特】17 类金融岗位将实施至少 50% 本地化比例",
+    "date": "2026-11-24"
+  },
+  {
+    "url": "https://github.com/openai/openai-agents-python/releases",
+    "title": "⚠️ OpenAI Agents Python 0.26.0 收紧 Codex 工具与沙箱安全边界",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://ir.minimax.io/zh/news-events/new-releases",
+    "title": "MiniMax 发布 H3 Family 进展：生态累计 1,472 个模型、1.48 亿次下载",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1124/2026112400538.pdf",
+    "title": "【国内 IT】小米发布 2026 年 Q3 业绩，AIoT 连接设备达 12.04 亿",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://maple.ai/blog/maple-ai-seed-round",
+    "title": "Maple 完成 530 万美元种子轮，主打“平台也不可见”的隐私 AI",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://www.mof.gov.sa/en/w/saudi-ministry-of-finance-announces-final-budget-statement-for-fy2027-with-expenditures-estimated-at-sar-1-392-billion-and-revenues-at-sar-1-202-billion",
+    "title": "【沙特】公布 2027 财年预算，继续以 Vision 2030 推动非油增长",
+    "date": "2026-11-25"
+  },
+  {
+    "url": "https://docs.qwencloud.com/changelog/models",
+    "title": "⚠️ Qwen4-Max-Preview 退役并自动迁移至正式版",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://www.dingtalk-global.com/news/activity/qwen-office-launches-glm-5-4-261125-u86e",
+    "title": "钉钉 Qwen Office 集成 GLM-5.4",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://blog.whatsapp.com/say-it-at-the-right-time-with-scheduled-messages",
+    "title": "WhatsApp 全球推出定时消息",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://technode.com/2026/11/25/huawei-connects-chinese-chip-design-tools-in-real-world-project/",
+    "title": "华为与行芯完成国产 EDA 工具链实战串联",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://www.ft.com/content/325b93d6-bc2e-4dd3-9941-cf4688aca11d",
+    "title": "沙特拟推迟未来矿产论坛",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://community.openai.com/t/codex-used-less-of-your-allowance-than-intended/1420514",
+    "title": "⚠ OpenAI 修正 Codex GPT-6.2 使用额度记账",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://status.openai.com/history",
+    "title": "⚠ Codex GitHub Review 与 PR Merge 曾出现异常，现已恢复",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/",
+    "title": "AI 攻击框架 ARTEX 已被多个攻击团伙用于入侵活动",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://www.cloudflarestatus.com/",
+    "title": "Cloudflare Dashboard 与 API 出现短时服务异常",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://apnews.com/article/6c17e4827e5aef3e69f78cdb01d597dc",
+    "title": "【沙特】沙特、土耳其和巴基斯坦将举行三边防务会谈",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://www.investing.com/news/stock-market-news/exclusivehackers-breach-us-air-force-flagship-cloud-one-computing-platform-5053314",
+    "title": "美国空军 Cloud One 云平台遭入侵，迁移与更新受扰",
+    "date": "2026-11-28"
+  },
+  {
+    "url": "https://www.streetinsider.com/Reuters/SAP%2Bflags%2Bsecurity%2Bincident%2C%2Bsays%2Bno%2Bevidence%2Bof%2Bunauthorized%2Baccess%2Bto%2Bcustomer%2Bdata/27404996.html",
+    "title": "SAP 确认开发基础设施发生安全事件",
+    "date": "2026-11-28"
+  },
+  {
+    "url": "https://anewz.tv/ai-next/artificial-intelligence/27387/apple-and-openai-trade-accusations-of-stealing-secrets/news",
+    "title": "OpenAI 反诉苹果，争议扩大到 AI 硬件供应链与人才流动",
+    "date": "2026-11-28"
+  },
+  {
+    "url": "https://www.meituan.com/news/NN261127296001055",
+    "title": "国内 IT：美团三季度营收同比增长 21.6%，研发投入继续上升",
+    "date": "2026-11-28"
+  },
+  {
+    "url": "https://www.teapawt.net/beemtothemoon",
+    "title": "Beem 在曼谷 Binance Blockchain Week 期间推出城市活动指南",
+    "date": "2026-11-28"
+  }
+]
